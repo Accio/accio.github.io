@@ -1,6 +1,11 @@
 ---
 layout: post
-title: Notes on edX Medicinal Chemistry - 1/7
+title: edX Medicinal Chemistry - 1/7
+category: medchem
+tags: 
+  - learning nodes
+  - medchem
+  - edX
 ---
 
 I follow course [DavidsonX: D001x Medicinal Chemistry](https://courses.edx.org/courses/course-v1:DavidsonX+D001x+1T2016/info) on edX. Here are the notes.
@@ -18,6 +23,8 @@ I follow course [DavidsonX: D001x Medicinal Chemistry](https://courses.edx.org/c
 # Chapter 1: Pre-regulatory medicine
 
 Ephedrine (_stimulant_, _vasoconstrictor_) from Ma Huang is an alkaloid.
+
+[Structure of Ephedrine, from Wiki]: https://de.wikipedia.org/wiki/Ephedrin#/media/File:(-)-Ephedrin.svg "Structure of Ephedrine"
 
 Phenethylamines (_neurotransmitter_) can give a big class of drugs. It is considered as a _pharmacophore_, which is the minimal portion of a structure that is required to maintain a level of activity.
 
