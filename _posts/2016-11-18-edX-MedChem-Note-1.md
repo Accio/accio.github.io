@@ -3,7 +3,6 @@ layout: post
 title: edX Medicinal Chemistry - 1/7
 category: medchem
 tags: 
-  - learning nodes
   - medchem
   - edX
 ---
