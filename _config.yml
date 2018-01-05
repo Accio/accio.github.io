@@ -49,6 +49,13 @@ search: true
 
 include: ["_pages"]
 
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
 ## default post layout
 defaults:
   # _posts
