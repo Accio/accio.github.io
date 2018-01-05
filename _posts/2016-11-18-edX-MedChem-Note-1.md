@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: edX Medicinal Chemistry - 1/7
 category: medchem
 tags: 
