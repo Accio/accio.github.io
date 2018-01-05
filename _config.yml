@@ -24,10 +24,25 @@ github_username:  accio
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 exclude:
   - Gemfile
   - Gemfile.lock
+
+# specific for minimal-mistakes
+paginate: 5 # amout of posts to show
+paginate_path: /page:num/
+
+head_scripts:
+  - http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+author:
+  name : "Jitao David Zhang"
+  avatar : "/assets/images/david-luzern.jpg"
+  bio : "A computational biologist working on drug discovery in industry"
+  email : jitao_david.zhang@roche.com
+
+search: true
