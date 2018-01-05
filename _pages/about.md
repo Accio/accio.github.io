@@ -2,6 +2,7 @@
 layout: single
 title: About
 permalink: /about/
+author_profile: true
 ---
 
 I am Jitao David Zhang, a computational biologist working at F. Hoffmann-La Roche Ltd, Basel, Switzerland.
