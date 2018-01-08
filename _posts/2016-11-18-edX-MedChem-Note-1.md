@@ -1,6 +1,6 @@
 ---
 layout: single
-title: edX Medicinal Chemistry - 1/7
+title: edX Medicinal Chemistry - chapter one 
 category: medchem
 tags: 
   - medchem
@@ -50,3 +50,22 @@ Specifically, the morphine requires a compound to have (1) a benzene ring (2) at
 Typical compounds that obey the morphine rule include opiates (natural products) and opioids (synthesized products), including codeine, methadone, heroin, levorphanol, and meperidine. 
 
 An analgesic that does not follow the morphine rule is fentanyl. While fentanyl does not fit the morphine rule, it preserves the key functional groups in the correct orientation for opioid receptor binding.
+
+## Pharmacophore for sulfonamides 
+
+The pharmacophore for sulfonamides consists of a 4-aminosulfonamide core with tolerance for aryl and acyl groups on the sulfonamide nitrogen.  Almost all sulfonamide antibacterials follow this simple model.
+
+## Antibiotic versus antimicrobials
+
+Is sulfonamide an antibiotic? No, it is an antimicrobial. Antibiotic is applied to natural products.
+
+Technically, the term antibiotic does not apply to synthetic compounds. Synthetic molecules like the sulfa drugs are antimicrobials.  Antimicrobials may have antibacterial, antifungal, or antiparasitic activity.  The sulfa drugs are antimicrobials with antibacterial activity.
+
+## JSME for drawing compound structures
+
+[JSME](http://peter-ertl.com/jsme/) is a free molecule editor written in JavaScript. Its functionality can be tried out with [an online demo](http://peter-ertl.com/jsme/JSME_2017-02-26/JSME.html).
+
+## Severe outcomes caused by lack of preclinical research support of safety profiles and by lack of regulation
+
+* The [Elixir sulfanilamide tragedy](https://en.wikipedia.org/wiki/Elixir_sulfanilamide) in 1937 (cased by diethylene glycol, or DEG, the solvent)
+* [Thalidomide](https://en.wikipedia.org/wiki/Thalidomide) used against nausea during pregnancy in the 1950s, which led to birth defects, specifically unformed and malformed limbs.
