@@ -8,11 +8,13 @@ During the Christmas break I stumbled upon a very interesting paper published in
 
 <a id="top"></a>
 
-* [Summary](#summary)
-* [Highlights](#highlights)
-* [Thoughts](#thoughts)
-* [Key facts](#keyfacts)
+> [Summary](#summary)
 
+> [Highlights](#highlights)
+
+> [Thoughts](#thoughts)
+
+> [Key facts](#keyfacts)
 
 ## Summary
 
