@@ -1,7 +1,6 @@
 ---
 layout: single
 title:  Pharmacogenomics of GPCR Drug Targets
-date:   2017-01-09 16:16:01 -0600
 categories: bioinformatics pharmacology
 ---
 
