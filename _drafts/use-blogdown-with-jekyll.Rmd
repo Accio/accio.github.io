@@ -1,0 +1,9 @@
+---
+layout: post
+title: Build Jekyll blog post with knitr and blogdown
+categories: programming
+tags: r programming jekyll blogdown knitr
+---
+
+Here we document the minimum of building Jekyll blog post with two `R` packages: `knitr` and `blogdown`.
+
