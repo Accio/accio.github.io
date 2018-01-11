@@ -30,6 +30,7 @@ plugins:
   - jekyll-feed
 exclude:
   - Gemfile
+  - ['*.Rmd']
   - Gemfile.lock
 
 # specific for minimal-mistakes
