@@ -40,6 +40,28 @@ Below we assume that the SQLite3 database is stored in a file 'mydb'
 ~~~
   To check whether FKs are enabled or not, use `PRAGMA foreign_keys`: `0` indicates that FK is turned off, and `1` indicate that FK is turned on.
 
+* Insert items to a table
+~~~ sql
+   CREATE TABLE IF NOT EXISTS myTbl (ID INTEGER, NAME TEXT);
+   INSERT INTO myTbl (ID, NAME) VALUES (1, 'David');
+   INSERT INTO myTbl (ID, NAME) VALUES (2, 'Roland');
+   INSERT INTO myTbl VALUES (3, 'Klas');
+   SELECT * FROM myTbl;
+~~~
+
+* Update an item
+~~~ sql
+   UPDATE myTbl SET NAME='Martin' WHERE ID=3;
+   SELECT * FROM myTbl;
+~~~
+
+* Delete items from a table (following the previous example of inserting items to a table)
+~~~ sql
+  -- delete one item
+  DELETE FROM myTbl WHERE NAME='David';
+  -- delete all items
+  DELETE FROM myTbl;
+~~~
 ## Further readings
 
 1. [Foreign key contraints in SQLite](https://sqlite.org/foreignkeys.html)
