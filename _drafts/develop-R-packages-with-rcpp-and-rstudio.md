@@ -4,6 +4,10 @@ category: programming
 tags: R Rcpp Rstudio
 ---
 
+Recently, I updated the [ribiosMath](https://github.com/Accio/ribios/tree/master/ribiosMath) package, which is like other ribios packages open-source and freely available on Github. The aim was to increase the efficiency of several commonly used computational procedures (Kappa's statistic, Cossine similarity/distance, *etc.*) by implementing them in C++.
+
+During the course, I discovered that it has become much easier now than 1-2 years ago to implement C++ routines in R, with the help of tools such as `devtools` and `Rcpp` packages in R, and RStudio, an IDE for R programming.
+
 ## Useful tools
 
 `devtools::use_rcpp()` sets up the package so that it uses Rcpp easily.
