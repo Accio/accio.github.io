@@ -48,3 +48,8 @@ Thanks to the new procedure, I updated within a very short time the [ribiosMath]
 3. [High performance functions with Rcpp](http://adv-r.had.co.nz/Rcpp.html) in [*Advanced R*](http://adv-r.had.co.nz/) by Hadley Wickham.
 4. [Rcpp website](http://dirk.eddelbuettel.com/code/rcpp.html) by Dirk Eddelbuettel. It links to the [Rcpp-introduction vignette](http://dirk.eddelbuettel.com/code/rcpp/Rcpp-introduction.pdf) in PDF format, which is a good read for beginners.
 5. [doxygen documentation](http://dirk.eddelbuettel.com/code/rcpp/html/index.html). It surprises me that very few websites link to this resource, which proves very useful when one wants to find particular operations of a given class.
+
+## History
+
+2018.01.23: A few resources were appended which proved useful for learning the latest Rcpp package.
+
