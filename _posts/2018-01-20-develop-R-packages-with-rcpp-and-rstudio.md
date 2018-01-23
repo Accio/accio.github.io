@@ -43,6 +43,8 @@ Thanks to the new procedure, I updated within a very short time the [ribiosMath]
 
 ## Further reading
 
-1. [Using compiled code in your R package](http://r-pkgs.had.co.nz/src.html#c-export) by Hadley Wickham
+1. [Using compiled code in your R package](http://r-pkgs.had.co.nz/src.html#c-export) by Hadley Wickham.
 2. [Rcpp for everyone](https://teuder.github.io/rcpp4everyone_en/210_rcpp_functions.html#functions-related-to-na-inf-nan) by Masaki E. Tsuda.
-3. [High performance functions with Cpp](http://adv-r.had.co.nz/Rcpp.html) by Hadley Wickham
+3. [High performance functions with Rcpp](http://adv-r.had.co.nz/Rcpp.html) in [*Advanced R*](http://adv-r.had.co.nz/) by Hadley Wickham.
+4. [Rcpp website](http://dirk.eddelbuettel.com/code/rcpp.html) by Dirk Eddelbuettel. It links to the [Rcpp-introduction vignette](http://dirk.eddelbuettel.com/code/rcpp/Rcpp-introduction.pdf) in PDF format, which is a good read for beginners.
+5. [doxygen documentation](http://dirk.eddelbuettel.com/code/rcpp/html/index.html). It surprises me that very few websites link to this resource, which proves very useful when one wants to find particular operations of a given class.
