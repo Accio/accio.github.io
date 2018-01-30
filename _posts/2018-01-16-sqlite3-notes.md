@@ -49,6 +49,12 @@ Below we assume that the SQLite3 database is stored in a file 'mydb'
    SELECT * FROM myTbl;
 ~~~
 
+* Insert from table A into table B
+~~~ sql
+   CREATE TABLE IF NOT EXISTS new_myTbl(ID INTEGER, NAME TEXT);
+   INSERT INTO new_myTbl SELECT * FROM myTbl WHERE NAME != 'David';
+   SELECT * FROM new_myTbl;
+~~~
 * Update an item
 ~~~ sql
    UPDATE myTbl SET NAME='Martin' WHERE ID=3;
@@ -62,6 +68,7 @@ Below we assume that the SQLite3 database is stored in a file 'mydb'
   -- delete all items
   DELETE FROM myTbl;
 ~~~
+
 ## Further readings
 
 1. [Foreign key contraints in SQLite](https://sqlite.org/foreignkeys.html)
