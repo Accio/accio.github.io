@@ -72,3 +72,4 @@ Below we assume that the SQLite3 database is stored in a file 'mydb'
 ## Further readings
 
 1. [Foreign key contraints in SQLite](https://sqlite.org/foreignkeys.html)
+2. [Make table schema changes in SQLite](https://www.sqlite.org/lang_altertable.html#otheralter)
