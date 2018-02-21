@@ -1,6 +1,6 @@
 ---
 layout: single
-title: edX Medicinal Chemistry - Chapter Three: Protein Structure
+title: edX Medicinal Chemistry - Chapter Three on protein structures
 category: medchem
 tags: 
   - medchem
