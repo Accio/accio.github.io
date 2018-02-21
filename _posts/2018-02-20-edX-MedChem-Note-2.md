@@ -9,6 +9,8 @@ tags:
 
 Chapter two gives an overview on the whole drug discovery process, from basic approaches of drug discovery to marketing.
 
+Chapter one and two constitutes the first module of the course.
+
 ## Drug discovery pipeline
 
 This section focuses on the concept of target-based discovery and the drug-discovery pipeline. In addition, concepts and practices of phenotype-based drug discovery are introduced.
