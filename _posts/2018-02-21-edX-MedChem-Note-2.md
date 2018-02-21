@@ -9,11 +9,11 @@ tags:
 
 Chapter two gives an overview on the whole drug discovery process, from basic approaches of drug discovery to marketing.
 
-## Target-based and phenotype-based drug discovery, and the drug-discovery pipeline.
+## Drug discovery pipeline
 
 This section focuses on the concept of target-based discovery and the drug-discovery pipeline. In addition, concepts and practices of phenotype-based drug discovery are introduced.
 
-I agree with a resource provided by the course's instructor: for the general audience, a video made by Roche Pharma Research and Early Development (Roche pRED), highlights very well the principle of target identification. [This is the link to the video, available on Youtube.com](https://www.youtube.com/watch?v=bIFnOVKd2Ko). I recommend this video not because I work for Roche pRED, but because it uses cartoons and simple languages to show how target identification *in principle* works.
+I recommend a resource provided by the course's instructor: for the general audience, a video made by Roche Pharma Research and Early Development (Roche pRED), highlights very well the principle of target identification. [This is the link to the video, available on Youtube.com](https://www.youtube.com/watch?v=bIFnOVKd2Ko). I recommend this video not because I work for Roche pRED, but because it uses cartoons and simple languages to show how target identification *in principle* works.
 
 ## Clinical trials
 
