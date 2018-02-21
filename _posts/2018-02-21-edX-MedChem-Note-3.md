@@ -7,7 +7,9 @@ tags:
   - edX
 ---
 
-Chapter Three focuses on protein structures. From amino acids, via primary, secondary, and tertiary structure, up to quaternary structure and X-ray crystallography, our understanding of proteins' structures is underlying our ability to develop potent drugs.
+Chapter three focuses on protein structures. From amino acids, via primary, secondary, and tertiary structure, up to quaternary structure and X-ray crystallography, our understanding of proteins' structures is underlying our ability to develop potent drugs.
+
+Chapter three, together with chapter four (focusing on enzymes) and five (focusing on receptors), make the second module of the course, which highlights the key properties of drug targets.
 
 ## Amino acids and protein primary sequences
 
