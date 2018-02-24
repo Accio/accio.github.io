@@ -29,3 +29,32 @@ Drug-mediated enzymic inhibition is mostly reversible. We differentiate between 
 * Competitive inhibition
 * Noncompetitive inhibition
 * Uncompetitive inhibition
+
+### Competitive inhibition
+
+The inhibitor binds to the active site of the enzyme in competitive inhibition. In competitive inhibition, $$ V_{max} $$ is unchanged but $$ K_m $$ increases.
+
+### Noncompetitive inhibition
+
+The inhibitor binds to an *allosteric* site, namely a site other from the active site which nevertheless has a regulatory role of the enyzmic function. Note that in noncompetitive inhibition, the inhibitor can bind both the enzyme and the enzyme-substrate complex. This can modulate the enzymic conversion from the substrate to the product. 
+
+In noncompetitive inhibition, as the inhibitor's concentration increases, $$ V_{max} $$ decreases. At the same time, however, $$ K_m $$ remains constant, because a noncompetitive inhibitor does not affect the affinity of the enzyme for the substrate - it just reduces what $$ V_{max} $$ maximally can be.
+
+### Uncompetitive inhibition
+
+An uncompetitive inhibitor binds only to the enzymic-substrate complex, which reudces both $$ V_{max} $$ and $$ K_m $$.
+
+### A short summary of resersible inhibitors
+
+*E* stands for enzyme, *ES* stands for enzyme-substrate complex.
+
+|---
+| Type | Binding target | $$ V_{max} $$ | $$ K_m $$ 
+| - | - | - | -
+| Competitive inhibitor | Active site of E | Unchanged | Increased
+| Noncompetitive inhibitor | Allosteric site of E | Decreased | Unchanged
+| Uncompetitive inhibitor | ES | Decreased | Decreased
+
+### Irreversible inhibitors
+
+Irreversible inhibitors will chemically react with the enzyme and covalently bind to it. Off-target effects of such inhibitors may cause side effects and other problems. However, recently attentions have also been paid to such inhibitors, especially in certain settings such as oncology and infectious diease. For instance, [suicide inhibition](https://en.wikipedia.org/wiki/Enzyme_inhibitor#Examples_of_irreversible_inhibitors) happens when the enzyme converts the inhibitor into a reactive form in its active site.
