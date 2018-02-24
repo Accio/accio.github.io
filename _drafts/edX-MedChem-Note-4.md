@@ -22,3 +22,10 @@ Once this equation is understood, its linear transformation, the Lineweaver-Burk
 
 $$ \frac{1}{V} = \frac{K_m}{V_{max}} \times \frac{1}{[S]} + \frac{1}{V_{max}} $$
 
+## Enzynmic inhibitors
+
+Drug-mediated enzymic inhibition is mostly reversible. We differentiate between three types of reversible inhibition:
+
+* Competitive inhibition
+* Noncompetitive inhibition
+* Uncompetitive inhibition
