@@ -10,4 +10,4 @@ tags:
 
 Chapter five discusses various aspects of receptors as drug targets, such as classification, ligands, and the occupancy theory.
 
-
+## Receptor types
