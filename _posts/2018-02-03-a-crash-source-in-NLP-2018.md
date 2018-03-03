@@ -1,8 +1,8 @@
 ---
 layout: single
 title: A crash course to start state-of-the-art NLP in 2018
-categories: programming MachineLearning bioinformatics 
-tags: NLP NCBI word2vec LIME
+categories: NLP MachineLearning
+tags: NCBI word2vec LIME
 ---
 
 Recently I stumbled via *HackerNews* upon [a good article](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e) introducing how to perform state-of-the-art natural language processing (NLP) analysis, featuring real-world examples. 
