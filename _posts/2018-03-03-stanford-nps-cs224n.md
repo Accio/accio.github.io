@@ -29,6 +29,14 @@ The course is now still ongoing. Interested students and professionals may wish 
 
 Compared with [the same course given last year](http://cs224d.stanford.edu/syllabus.html), the material covered by the current course seems to remain comparable, though organisation of the material has been adapted to be more systematic, and to reflect new techniques.
 
+# How NLP can be useful for a bioinformatician?
+
+A recent example is to use NLP techniques to determine semantic similarities between Gene Ontology (GO) terms. 
+
+Check out the publication on bioaRxiv: Duong, Dat, Wasi Uddin Ahmad, Eleazar Eskin, Kai-Wei Chang, and Jingyi Jessica Li. ["Word and Sentence Embedding Tools to Measure Semantic Similarity of Gene Ontology Terms by Their Definitions.”](https://doi.org/10.1101/103648) BioRxiv, March 2, 2018, 103648. 
+
+In fact, I was drawn to the course mentioned above by the github repository of the first author, Dat Duong, who visited a earlier version of the course and setup interesting tools for example to [compare two GO terms or two genes](https://github.com/datduong/word2vec2compareGenes).
+
 # Acknowledgment
 
 I would like to thank Richard Socher, the course's instructor, and many teaching assitants who have not only designed and implemented such an interesting course, but also made it publicly available. 
