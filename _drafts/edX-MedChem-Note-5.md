@@ -13,3 +13,5 @@ Chapter five discusses various aspects of receptors as drug targets, such as cla
 ## Receptor types
 
 ## Ligands
+
+## Occupancy theory
