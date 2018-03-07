@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Course on Natural Language Processing with Deep Learning - Standford CS224n
+title: Course on Natural Language Processing with Deep Learning - Stanford CS224n
 category: NLP MachineLearning
 tags: NLP course ML
 ---
