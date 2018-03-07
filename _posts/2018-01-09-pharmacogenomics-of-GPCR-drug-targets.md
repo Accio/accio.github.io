@@ -1,7 +1,8 @@
 ---
 layout: single
 title:  Pharmacogenomics of GPCR Drug Targets
-categories: bioinformatics pharmacology
+categories: bioinformatics
+tags: pharmacology GPCR genetics pharmacogenomics
 ---
 
 During the Christmas break I stumbled upon a very interesting paper published in *Cell*,  [Pharmacogenomics of GPCR Drug Targets](http://www.cell.com/cell/abstract/S0092-8674(17)31384-3) (open access). I liked the paper, because it points a way forward to personalised pharmacology and safety.
