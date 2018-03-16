@@ -33,3 +33,25 @@ Proteins that are extensively high expressed in plasma may bind drug and therefo
 * Globulins (~2.5% weight of blood). $$ \alpha_{1} $$-acid glyocoprotein tends to bind basic drugs, such as disopyramide and lidocaine (~70%)
 
 ## ADME
+
+* Absoprtion: from administration point to the blood.
+* Distribution: drug transport to its target and from its target.
+* Metabolism: chemical modification of a drug, mostly in liver. Drugs go through the *hepatic portal system* to liver, where the *first pass effect* takes place. This has consequences on the bioavailability of drugs. 
+* Excretion: waste removal, which mostly happens in kidney.
+
+### Lipinski's rules
+
+Developed by Chris Lipinski of Pfizer in 1997, Lipinski's rules predict whether a molecule is able to diffuse across membranes so that they can be absorbed from the digestive tract and enter the blood stream. These rules are also known as *Rule of Five*.
+
+* Molecular weight (MW) less than 500
+* Lipophilicity (logP) less than 5
+* Hydrogen bond acceptors (HBA) less than 10
+* Hydrogen bond donors (HBD) less than 5.
+
+LogP, developed by the late Corwin Hansch, is a measure of lipophilicity, which is defined by the base-10 algorithm of an equilibrium constant (*P*) for the partitioning of a drug in a biphasic system of 1-octanol (non-polar) and water (polar). A molecule that is preferentially solved in 1-octanol (logP>5) is too lipophilic to adequately dissolve in digestive fluids.
+
+clogP stands for *calculated* logP based on chemical structures.
+
+HBA are mostly oxygen and nitrogen atoms in the structure, because they have lone pairs. Exceptions are lone pairs that are extensively involved in resonance. For instance amide nitrogens in amino acids, and nitrogens in aromatic rings. 
+
+The number of HBDs is determined by the number of O-H and N-H bonds in the structure.
