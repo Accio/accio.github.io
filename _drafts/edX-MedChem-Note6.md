@@ -30,6 +30,6 @@ A few numbers of a 70-kg patient
 
 Proteins that are extensively high expressed in plasma may bind drug and therefore reducing concentration of drug that reaches the desired target. Examples include
 * Albumin (~5% weight of blood), which binds particularly strongly to acid drugs such as warfarin and ibuprotein (>99%)
-* Globulins (~2.5% weight of blood). $ \alpha_{1} $-acid glyocoprotein tends to bind basic drugs, such as disopyramide and lidocaine (~70%)
+* Globulins (~2.5% weight of blood). $$ \alpha_{1} $$-acid glyocoprotein tends to bind basic drugs, such as disopyramide and lidocaine (~70%)
 
 ## ADME
