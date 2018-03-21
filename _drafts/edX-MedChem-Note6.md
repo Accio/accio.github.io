@@ -30,7 +30,7 @@ A few numbers of a 70-kg patient
 
 Proteins that are extensively high expressed in plasma may bind drug and therefore reducing concentration of drug that reaches the desired target. Examples include
 * Albumin (~5% weight of blood), which binds particularly strongly to acid drugs such as warfarin and ibuprotein (>99%)
-* Globulins (~2.5% weight of blood). $$ \alpha_{1} $$-acid glyocoprotein tends to bind basic drugs, such as disopyramide and lidocaine (~70%)
+* Globulins (~2.5% weight of blood). $$ \alpha_{1} $$i-acid glyocoprotein tends to bind basic drugs, such as disopyramide and lidocaine (~70%)
 
 ## ADME
 
@@ -55,3 +55,5 @@ clogP stands for *calculated* logP based on chemical structures.
 HBA are mostly oxygen and nitrogen atoms in the structure, because they have lone pairs. Exceptions are lone pairs that are extensively involved in resonance. For instance amide nitrogens in amino acids, and nitrogens in aromatic rings. 
 
 The number of HBDs is determined by the number of O-H and N-H bonds in the structure.
+
+### Predictability of logP
