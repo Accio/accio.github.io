@@ -15,3 +15,5 @@ During the course of reading I found a blog post by Simon Funk (pen name), who s
 Why SVD, being a simple method, delivered great results? To understand that, we need to have a deeper understanding of the method. There are many great resources around to explain the algorithm, for example [this Youtube video](https://www.youtube.com/watch?v=P5mlg91as1c&t=0s&list=LLPZ5hHZO9jGiHwWRv3RdVRg&index=1) by Leskovec, Rajaraman, and Ullman at the Stanford University.
 
 The video uses an example of user-movie matrix, which was decomposed by SVD in order to reveal a latent 'content' variable that can be associated with both users and movies by the person analysing the data.
+
+I tried to replicate the example, and found something interesting: the results are sensitive to the input matrix.
