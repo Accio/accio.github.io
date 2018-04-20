@@ -40,8 +40,8 @@ Blood flows through an organ (denoted as *Q*) and a fraction of the drug in that
 Therefore, total clearance $$ CL_{T} $$ can be expressed as $$ CL_{T}=Q_{R}E_{R}+Q_{H}E_{H} $$, where *R* and *H* stands for *renal* and *hepatic*, respectively.
 
 For an average 70-kg human, blood flow values are known:
-* Blood flow to the liver is approximately 1,500 mL/min ($$ Q_{H} = 1,500 ml/min).
-* Blood flow to the kidney is approximately 1,100 mL/min, however the kidneys only filter at a rate of approximately 220 mL/min ($$ Q_{H} = 220 ml/min).
+* Blood flow to the liver is approximately 1,500 mL/min ($$ Q_{H} = 1,500 mL/min $$).
+* Blood flow to the kidney is approximately 1,100 mL/min, however the kidneys only filter at a rate of approximately 220 mL/min ($$ Q_{R} = 220 mL/min $$).
 
 For drugs that are not excreted by kidneys, hepatic extraction ratio $$ E_{H} $$ can be estimated from bioavailability, $$ F $$, which is defined as the fraction of a drug that is absorbed from the digestive system and into the blood stream.
 
