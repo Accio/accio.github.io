@@ -46,3 +46,9 @@ For an average 70-kg human, blood flow values are known:
 For drugs that are not excreted by kidneys, hepatic extraction ratio $$ E_{H} $$ can be estimated from bioavailability, $$ F $$, which is defined as the fraction of a drug that is absorbed from the digestive system and into the blood stream.
 
 When calculating clearance, it is important to notice the difference between plasma volume and whole-blood volume. Plasma consists of about 54% of the whole-blood volume.
+
+# Area Under Curve (AUC)
+
+AUC is the total exposure of drug in plasma, or mathematically, integrated plasma concentration over time. AUC can be Either by integration of the exponential function $$ C_{p} = {C_{p}}^0e^{-k_{el}t} $$, which gives $$ \textrm{AUC} = \frac{C_{p}^0}{k_{el}} $$, or by the trapezoid rule, which is a discrete integration of the trapezoids (梯形 in Chinese) formed by measured points ($$ C_p $$) and estimated/extrapolated points/AUCs ($$ {C_p}^0 $$ and the area-under-curve beyond the last point).
+
+Why AUC is of particular interest? Because AUC has the unit of $$ \textrm{mass}*\textrm{time}/\textrm{volume} $$ , and the initial dose $$ D $$ has the unit of $$ \textrm{mass} $$. Therefore, $$ \frac{D}{AUC} = CL $$, namely clearance, which has the unit of $$ \textrm{volume}/\textrm{time} $$, namely volume of blood from which a drug is cleared per unit time by the body. By determining AUC, one can calulate $$ k_{el} $$, which equals clearance divided by volume of distribution.
