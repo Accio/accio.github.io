@@ -60,3 +60,7 @@ Why AUC is of particular interest? Because AUC has the unit of $$ \textrm{mass}*
 $$ V_{D} = \frac{D_0}{C_{p}^0} $$. It is a hypothetical number; nevertheless it can be informative.
 
 Drugs with high $$ V_{D} $$ values tend to have longer half-lives, because they distribute out of the central compartment and enter other organs of the body. Since they are not entering liver or kidney through the central compartment, where majority of clearance takes place, they stay longer in the body than drugs with low $$ V_{D} $$ values.
+
+# Two-compartment model
+
+Two two-compartment model introduces the *peripheral compartment* besides the central compartment.
