@@ -18,9 +18,9 @@ For those who want to have an executive summary, here I copy-paste her advices:
 6. **Learn to enjoy the process of writing and presenting**. Write a bit every day for some time, without considering the forms and correctness of ideas.
 7. **See the big picture and keep it mind**.
 
-I likely in particular the last paragraphs, where the author eloquently argued that it is the process, but not the results, that matters and that leads to long-term gratification.
+I liked particularly the last paragraphs, where the author eloquently argued that it is the process, but not the results, that matters and that leads to long-term gratification.
 
-Particularly impressive was her way to think of the advice of 'working hard'. While it is hardly possible to define a threshold of 'enough hard-working', she argues that there is an empirical way to judge whether one is working hard *enough*: namely enough hard-work, citing her, is exactly *the amount at which one can maintain enjoyment of the process of work, without burning out ... or becoming socially isolated.*. Since the process of doing science is dynamic, it is necessary to judge from time to time whether one works enough, namely still enjoys the process of work without negative effects of too much work. 
+Especially impressive was her way to think of the advice of 'working hard'. While it is hardly imaginable to define a threshold of 'enough hard-working', she argues that there is an empirical way to judge whether one is working hard *enough*: namely enough hard-work, citing her, is exactly *the amount at which one can maintain enjoyment of the process of work, without burning out ... or becoming socially isolated.*. Since the process of doing science is dynamic, it is necessary to judge from time to time whether one works enough, namely still enjoys the process of work without negative effects of too much work. 
 
 While there is no subjective measure (like hours per week, citations, publications, project counts) able to determine the exact amount of hard work needed, the simple rule proposed by Giddings - maybe we can call it 'the Gidding's Rule' - can indeed help a scientist find her/his most appropriate degree of hard working.
 
