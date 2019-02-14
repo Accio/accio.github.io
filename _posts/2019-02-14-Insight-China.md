@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Talk at *Insight China*
-category: DrugDiscovery China talks career
+category: talks
 tags: InsightChina Career Roche China Talk
 ---
 
