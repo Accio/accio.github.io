@@ -1,9 +1,13 @@
 main:
-  - title: "About"
-    url: /about
+  - title: "Posts" 
+    url: /categories/
   - title: "Publications"
     url: /publications
-  - title: "Categories"
-    url: /categories/
+  - title: "Teaching"
+    url: /teaching
+  - title: "Talks"
+    url: /talks
   - title: "Links"
     url: /links
+  - title: "About"
+    url: /about
