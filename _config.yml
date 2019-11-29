@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jitao David Zhang's blog
+title: A Computational Biologist in Drug Discovery
 email: jitao_david.zhang@roche.com
 description: > # this means to ignore newlines until "baseurl:"
    Notes of a computational biologist in drug discovery
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://accio.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  accio 
 
@@ -47,8 +47,8 @@ head_scripts:
 
 author:
   name : "Jitao David Zhang"
-  avatar : "/assets/images/david-luzern.jpg"
-  bio : "Computational Biologist in Drug Discovery"
+  avatar : "/assets/images/DavidHamburg.png"
+  bio : "*Vita brevis, args longa*"
   email : jitao_david.zhang@roche.com
   github: Accio
 
