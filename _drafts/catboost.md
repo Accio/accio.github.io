@@ -1,7 +1,7 @@
 ---
 layout: single
 title: CatBoost
-category: MachineLearning
+category: machine-learning
 mathjax: true
 tags: CatBoost boosting
 ---
