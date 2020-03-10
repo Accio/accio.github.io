@@ -5,7 +5,7 @@ category: bioinformatics
 tags: RNAseq
 ---
 
-In this blog post, we will talk about what is the insert size in Illumina sequencing reads, and how to find it in SAM/BAM files.
+In this blog post, we will talk about what is the insert size in Illumina sequencing reads, and how to find it in SAM/BAM files, and how to filter BAM files with it.
 
 ## Background
 
