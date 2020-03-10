@@ -23,22 +23,38 @@ The ninth column of a [SAM file](https://samtools.github.io/hts-specs/SAMv1.pdf)
 
 ### Example 1: list insert sizes, one line per read
 
-Say we want to plot the distribution of insert sizes in a BAM file, considering only the first pair of the properly mapped pair (flag `-f66`, see [Decoding SAM flags](https://broadinstitute.github.io/picard/explain-flags.html))
+Say we want to plot the distribution of insert sizes in a BAM file, considering only the first pair of the properly mapped pair (flag `-f66`, see [Decoding SAM flags](https://broadinstitute.github.io/picard/explain-flags.html)).
 
 ```bash
-samtools view -f66 file.bam | cut -f 9
+samtools view -f66 file.bam | cut -f 9 > insert-sizes.txt
 ```
+
+Now, you can use your preferred tool, for instance R or Python or even Excel, to visualize the distribution of insert sizes, or to get summary statistics.
 
 ### Example 2: filter by insert sizes
 
-Say we want to only keep reads of insert sizes under 500. `-f2` indicates that reads are kept only if they are mapped in proper pair.
+Say we want to only keep reads of insert sizes between 200 and 500 from a BAM file and write the reads that fulfil the condition to another file. 
 
 ```bash
-samtools view -f2 file.bam | awk '{abs($9)<=500}'
+samtools view -h file.bam | \
+  awk 'substr($0,1,1)=="@" || ($9>= 200 && $9<=500) || ($9<=-200 && $9>=-500)' | \
+  samtools view -b > is-200-500.bam
 ```
+
+Explanations:
+
+* `-h` in `samtools view`: export SAM file headers
+* In `awk`, the `substr` function is used to keep header lines, and the rest two condition specify forward and reverse reads with the desired insert sizes, respectively
+* Last but not least, `samtools view -b` is called to write the filtered reads into new a BAM file.
+
+Now, you can load the BAM file into genome browsers, or perform down-stream analysis, for instance feature counting, with it.
 
 ## Conclusion
 
 Insert size refers to the fragment length consisting of forward and reverse reads and the un-sequenced gap between the paired reads. It is possible to use `samtools` and command-line tools such as `awk` and `cut` to collect insert sizes or to filter BAM/SAM files.
+
+## Notes
+
+To try these commands, it may be useful to sub-sample a big BAM files into a smaller one. See the `-s` option of `samtools view` how to do that. For instance, `-s 35.1` will use *35* as a random generator seed and sub-sample 10% of the reads.
 
 [1]: https://www.biostars.org/p/106291/
