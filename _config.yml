@@ -43,8 +43,9 @@ exclude:
 paginate: 5 # amout of posts to show
 paginate_path: /page:num/
 
-head_scripts:
-  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js
+# set page.mathjax if mathjax is needed. see _includes/scripts.html
+# foot_scripts:
+#  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js
 
 author:
   name : "Jitao David Zhang"
