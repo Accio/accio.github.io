@@ -13,7 +13,7 @@ In an Illumina sequencing run, either single-end sequencing (SE) or paired-end s
 
 Therefore, the *insert size* includes forward and reverse read as well as the unknown gap between them. The unknown gap can be called the *inner mate distance*.
 
-It can be visually represented [in the following way][1].
+It can be visually represented in the following way (discovered from [biostars.org][1]):
 
 ![fragment](http://www.frontiersin.org/files/Articles/77572/fgene-05-00005-HTML/image_m/fgene-05-00005-g001.jpg)
 
