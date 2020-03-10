@@ -4,7 +4,7 @@ title: Filter BAM/SAM files by insert size
 categories: bioinformatics sequencing
 ---
 
-In this blog, we will talk about insert size in Illumina sequencing reads, and how to find them in SAM/BAM files.
+In this blog post, we will talk about what is the insert size in Illumina sequencing reads, and how to find it in SAM/BAM files.
 
 ## Background
 
