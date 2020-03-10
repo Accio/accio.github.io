@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: A Computational Biologist in Drug Discovery
+title: Vita brevis, args longa
 email: jitao_david.zhang@roche.com
 description: > # this means to ignore newlines until "baseurl:"
    Notes of a computational biologist in drug discovery
@@ -48,7 +48,7 @@ head_scripts:
 author:
   name : "Jitao David Zhang"
   avatar : "/assets/images/DavidHamburg.png"
-  bio : "*Vita brevis, args longa*"
+  bio : "A Computational Biologist in Drug Discovery"
   email : jitao_david.zhang@roche.com
   github: Accio
 
