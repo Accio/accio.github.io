@@ -1,8 +1,8 @@
 ---
 layout: single
 title: Building R and/or R packages for Windows
-categories: R
-tags: R C Windows programming
+categories: programming
+tags: R C Windows
 ---
 
 For those who often work with R code, it is convenient to package commonly used functions, data structures, documentations and other helping files into packages. Prior to submission of such packages to CRAN, it is necessary to go through the [CRAN policies](https://cran.r-project.org/web/packages/submission_checklist.html) and the [checklist for CRAN submissions](https://cran.r-project.org/web/packages/submission_checklist.html) to make sure that the package meets the standard of CRAN.

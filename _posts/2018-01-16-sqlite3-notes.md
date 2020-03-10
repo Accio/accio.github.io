@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Notes on using sqlite3"
-categories: programming 
+category: programming
 tags: database sqlite3
 ---
 

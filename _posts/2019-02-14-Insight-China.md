@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Talk at *Insight China*
-category: talks
+category: career
 tags: InsightChina Career Roche China Talk
 ---
 

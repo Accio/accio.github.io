@@ -1,8 +1,8 @@
 ---
 layout: single
 title: Disable non-portable compiler flags with ~/.R/Makevars
-categories: R
-tags: R C programming
+categories: programming
+tags: R C
 ---
 
 Sometimes `R CMD check` complains about non-portable compiler settings. To overcome such warning messages, setup a `~/.R/Makevars` file with the following content.
