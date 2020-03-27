@@ -4,7 +4,7 @@ serve:
 install:
 	bundle install
 
-## info:
-##	bundle info minimal-mistakes-jekyll
+info:
+	bundle info minimal-mistakes-jekyll
 
-.PHONY: serve install
+.PHONY: serve install info

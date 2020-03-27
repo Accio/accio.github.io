@@ -13,5 +13,5 @@ My colleagues and I perform research both internally and by collaborating with a
 
 In my free time, I teach bachelor-level courses about applied mathematics and computational biology in drug discovery.
 
-We seek constantly motivated and talented young students to perform cutting-edge research in industry for 6-12 months. If you are interested, please [contact me](mailto:jitao_david.zhang@roche.com) for information.
+We seek constantly motivated and talented young students to perform cutting-edge research in industry for 6-12 months. If you are interested please [contact me](mailto:jitao_david.zhang@roche.com) for information.
 
