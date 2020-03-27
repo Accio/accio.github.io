@@ -1,0 +1,40 @@
+---
+layout: single
+title: Post-docs in industrial research - pros and considerations
+category: career
+tags: industrial postdoc
+---
+
+Recently, a PhD student asked me for both advantages and disadvantages of doing a postdoc in a company compared with a postdoc in academia. Since the question may interest some other students or researchers who face the decision, I want to share my current thoughts here.
+
+I write this piece with quite a few biases. Since I joined industry directly after PhD, I have never been a postdoc either in academia or in industry. Though the first two years of my work in the industry is more of an exploratory nature, it was partly due to chance and after all I was not hired as a postdoc. In addition, my experience with postdocs in academia is limited to interactions with the researchers that I worked with before I left academia, the academic collaborators since then, and people who have done a academic postdoc and then joined industry. My experience with either academic or industrial postdoc positions is, therefore, second hand and incomplete at its best. 
+
+On the other side, many postdoc fellows that I have collaborated with, either working in academia or in industry, have confided with me a lot of their thoughts, their success stories, as well as their frustrations. It is a privilege to listen to and learn from so many enthusiastic, talented, and hard-working scientists. I feel obliged to synthesize my thoughts with their inputs on this topic and put them down.
+
+# Pros of doing a postdoc in industry
+
+There are many reasons speaking for doing a postdoc in industry. I find the following three appealing to most people that I know.
+
+First, if your long-term goal is to put your knowledge and skills in the industrial setting, doing a postdoc there is a good start. What happens if your answer to the first question is 'I do not know'? The only way to find it out is to give it a try. Most students, unless they have worked in the industry before, have little experience with research in industry. A postdoc, being a temporary position, offers them an opportunity to sneak into research in industry and time to make decisions.
+
+Then there are students who are determined to apply their abilities in industry. They may have made this decision based on experience or considerations: better working conditions in general, the impact that they may produce, more respect for work-life balance, less focus on paper writing and grant applications. For them, a postdoc position offers a validation of their ideals: are the working conditions indeed better? Is the expected impact reachable and accessible? Is the work-life balance really better than in the academia environment? Is one satisfied with the fact that not all finding can be shared with a wide community in a timely manner? It is not unlike a honeymoon: yes, one may be still strongly influenced by hormones, but at least quite some unrealistic expectations will be smashed while unexpected joy and frustrations will lead to new insights.
+
+Second, even if your long-term goal is to build your expertise and career in an academic setting, postdoc experience in industry can help you to build a comprehensive view of the practical side of the research that you do, and its connections to other disciplines. In industry research, particularly in drug discovery and development of the pharma research, the chance that one discipline generating all research products dwindles to near zero. Take drug discovery as example: biology, chemistry, pharmacology, toxicology, computational biology, bioinformatics, statistics, .... The list of disciplines that contribute to a new drug is long. As a postdoc in industry, one will for sure dive deep into one discipline. But at the same time, he or she is also exposed to other aspects of research that are as exciting, interesting, and important as the own field. Being informed about the existence and importance of related fields is an important plus for a postdoc position in industry. 
+
+It is not to say that postdocs in academia are not informed about related fields. In contrast, quite a few interesting postdoc research projects in academia that I know are in fact the result of interdisciplinary collaboration. The major difference between industry and academia lies in the incentives: while industrial research tends to put future revenue and therefore practical innovations that may turn into profit at the first place, academic research is sometimes thought as 'pure', driven by interest, and awarded mainly by publications, grants, and permanent positions. Given that a complex product can hardly be produced by experts from one discipline whereas a great paper or professional career can thrive on deep work in one area, industrial research is born more interdisciplinary.
+
+In a minimum, being informed about the state-of-the-art of your discipline and other disciplines helps one to identify significant questions that will have impacts, and to come up with solutions that are more likely to be practical.
+
+Last but not least, just as in academics, doing a postdoc is to create your network. The postdoc contract may have a end date, but the contact network does not cease to exist even when you leave the company. While you may also build a powerful network in academia, the industrial network, thanks to the collaborative and interdisciplinary nature, can consist of more diverse types of people with regard to their nationality, educational background, and life philosophy. 
+
+# Considerations of doing a postdoc in industry
+
+A postdoc in industry means not only excellence in your own field, but also communicating with experts from other fields and influencing them. The challenge is not only to publish papers or get grants, but also to do convincing work that inspire others, not only your peers, but also experts in other fields. Are you a computational biologist? Okay, your goal is not only to develop a new algorithm or model to explain things, but also to make predictions that wet-lab biologists and chemists that can test. Are you a biologist? Your goal is not only to describe and explain what you observe, but also to put that into the disease context and to suggest new therapies. In this process, the postdoc will inevitably interact with experts from other domains, explain them why his or own work matters, and persuade them why money should be put on the table to test hypothesis. In a way, a postdoc challenges a scientist more: besides being good (and more than that!) in your field and influence it, you have to interact with other fields, learn from them, and influence them. That can be quite a challenge, especially for graduate students, many of whom are trained to work in a different way.
+
+Being informed about other disciplines may lead you to ask yourself: what is the point of going so deep in my field? Some people may answer: well, not that much. Other people will rather learn in the interaction exactly why their field is important, and therefore go deeper into yet. Yet other people will see the needs on the interface and develop new disciplines - these often become giants in the field. The attitude and ability to handle endless knowledge, practical constraints including time and budge, and expectations is utter important for postdocs in industry. Be prepared, however, to ask yourself critically: does my research matter? Can I make it matter more?
+
+In most places, many more researchers perform their postdoc work in academia than those in industry. This may make it difficult to exchange experience and perspectives, both personal and scientific, with fellows. Luckily, though, there are many communities of such postdocs inside and between companies nowadays so that one does not need to feel isolated. Nevertheless, more can done to promote scientific and personal exchange of industrial postdocs.
+
+# How should I decide?
+
+Listen to yourself, add more pros and cons that could imagine, talk about them with researchers with experience from either academia or industry, or both sides. Make a decision, and go ahead. 
