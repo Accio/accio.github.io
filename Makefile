@@ -3,3 +3,8 @@ serve:
 
 install:
 	bundle install
+
+info:
+	bundle info minimal-mistakes-jekyll
+
+.PHONY: serve install info

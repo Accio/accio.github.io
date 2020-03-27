@@ -1,5 +1,13 @@
 main:
-  - title: "Categories"
-    url: /categories/
+  - title: "Posts"
+    url: /
+  - title: "Publications"
+    url: /publications
+  - title: "Teaching"
+    url: /teaching
+  - title: "Talks"
+    url: /talks
+  - title: "Software"
+    url: /software
   - title: "About"
     url: /about
