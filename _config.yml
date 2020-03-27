@@ -31,6 +31,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-remote-theme
   - jemoji
   - jekyll-include-cache
 exclude:
