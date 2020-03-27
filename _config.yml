@@ -53,16 +53,15 @@ author:
   avatar : "/assets/images/DavidHamburg.png"
   bio : "A Computational Biologist in Drug Discovery"
   email : jitao_david.zhang@roche.com
-  links:
-    - label: "Github"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Accio"
+  github : Accio
 
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Accio"
+    - label: "Categories"
+      url: "/categories"
+    - label: "Tags"
+      url: "/tags"
+
 search: true
 
 include: ["_pages"]

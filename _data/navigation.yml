@@ -1,6 +1,4 @@
 main:
-  - title: "Posts" 
-    url: /categories/
   - title: "Publications"
     url: /publications
   - title: "Teaching"
@@ -9,7 +7,5 @@ main:
     url: /talks
   - title: "Software"
     url: /software
-  - title: "Links"
-    url: /links
   - title: "About"
     url: /about
