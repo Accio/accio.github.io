@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Things that I learned about keeping mentally healthy during the coronavirus pandemic
+title: Keeping mentally healthy during the coronavirus pandemic
 category: career
 tags: emotion
 ---
