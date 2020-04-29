@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Singular Value Decomposition, Simon Funk, and others
 category: machine-learning
 mathjax: true

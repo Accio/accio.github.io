@@ -1,5 +1,11 @@
-serve:
+serve: 
 	bundle exec jekyll serve --incremental --draft
+	
+clean:
+	bundle exec jekyll clean
+
+build: clean
+	bundle exec jekyll build
 
 install:
 	bundle install

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: edX Medicinal Chemistry - Chapter Seven on Pharmacokinetics
 category: medchem
 mathjax: true

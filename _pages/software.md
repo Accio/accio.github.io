@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title: Software
 permalink: /software
 author_profile: true

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Imprinting in evolutionary biology and genomics
 category: biology
 tags: 

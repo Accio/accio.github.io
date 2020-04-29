@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: >-
     Industrial postdoc: benefits, considerations, and preparations
 category: career
