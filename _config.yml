@@ -1,4 +1,4 @@
-title: JDZhang's Notes
+title: David Discovers Drug Disovery
 author: 
    name: Jitao David Zhang
    email: mail@jdzhang.me
@@ -19,11 +19,10 @@ comments: true
 show_excerpts: true
 
 header_pages:
+  - _pages/about.md
   - _pages/publications.md
   - _pages/software.md
-  - _pages/talks.md
-  - _pages/teaching.md
-  - _pages/about.md
+  - _pages/education.md
 
 paginate: 5
 paginate_path: "/page:num/"
