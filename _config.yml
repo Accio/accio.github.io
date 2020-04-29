@@ -15,6 +15,7 @@ minima:
   social_links:
     github: Accio
 
+comments: true
 show_excerpts: true
 
 header_pages:
@@ -33,7 +34,7 @@ plugins:
   - jekyll-paginate
 
 disqus:
-  shortname:  jdzhang-me.disqus.com
+  shortname: jdzhang-me
 
 exclude:
   - .sass-cache/
