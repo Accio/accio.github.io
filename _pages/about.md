@@ -11,7 +11,10 @@ I work as a researcher in the field of computational biology, using biological k
 
 My colleagues and I perform research both internally and by collaborating with academic and industrial partners. We regularly publish research results and methodology papers in peer-reviewed, open-access journal, as well as open-source software libraries and packages.
 
-In my free time, I teach bachelor-level courses about applied mathematics and computational biology in drug discovery.
+In my free time, I teach bachelor-level courses about applied mathematics and computational biology in drug discovery at the University of Basel.
 
-We seek constantly motivated and talented young students to perform cutting-edge research in industry for 6-12 months. If you are interested, please [contact me](mailto:jitao_david.zhang@roche.com) for information.
+## Statement
 
+All content in this blog, if not otherwise stated, expresses my personal opinions, which are not necessarily those of my employers, F Hoffmann-La Roche Ltd and the University of Basel. 
+
+All content, unless other stated, is published under the GPL-3 license.
