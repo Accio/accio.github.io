@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Filter BAM/SAM files by insert size
 category: bioinformatics
 tags: RNAseq

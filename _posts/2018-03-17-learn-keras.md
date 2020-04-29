@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Keras, a python deep learning library
 category: machine-learning
 tags: Keras

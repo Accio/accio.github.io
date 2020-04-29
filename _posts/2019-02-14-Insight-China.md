@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Talk at *Insight China*
 category: career
 tags: InsightChina Career Roche China Talk

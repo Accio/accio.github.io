@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: edX Medicinal Chemistry - Chapter Five on Receptors
 category: medchem
 mathjax: true

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  Pharmacogenomics of GPCR Drug Targets
 categories: bioinformatics
 tags: pharmacology GPCR genetics pharmacogenomics

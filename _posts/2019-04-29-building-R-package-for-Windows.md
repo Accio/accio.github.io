@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Building R and/or R packages for Windows
 categories: programming
 tags: R C Windows

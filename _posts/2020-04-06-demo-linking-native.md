@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Linking native routines between R packages - a demo
 category: programming
 tags: R

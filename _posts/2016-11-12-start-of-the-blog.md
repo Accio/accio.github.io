@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Start of the blog
 ---
 

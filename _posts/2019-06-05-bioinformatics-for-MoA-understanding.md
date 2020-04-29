@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Bioinformatics approaches to understanding the MoA of a compound
 category: drug-discovery
 ---

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Covariates and control variables explained
 category: bioinformatics
 tags: statistics covariates RNAseq

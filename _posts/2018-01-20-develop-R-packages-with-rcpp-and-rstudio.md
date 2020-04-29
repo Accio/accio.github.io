@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Develop R packages with Rcpp and RStudio
 category: programming
 tags: R Rcpp Rstudio

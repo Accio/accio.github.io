@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: edX Medicinal Chemistry - chapter one 
 category: medchem
 tags: 

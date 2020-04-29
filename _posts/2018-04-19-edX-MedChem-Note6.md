@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: edX Medicinal Chemistry - Chapter Six on Blood and Drug Transport
 category: medchem
 mathjax: true

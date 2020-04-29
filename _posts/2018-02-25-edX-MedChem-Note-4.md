@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: edX Medicinal Chemistry - Chapter Four on enzymes
 category: medchem
 mathjax: true

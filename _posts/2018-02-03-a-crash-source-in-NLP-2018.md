@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: A crash course to start state-of-the-art NLP in 2018
 category: machine-learning
 tags: NLP NCBI word2vec LIME

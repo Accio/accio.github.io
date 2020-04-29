@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: edX Medicinal Chemistry - Chapter Two on the drug discovery process 
 category: medchem
 tags: 

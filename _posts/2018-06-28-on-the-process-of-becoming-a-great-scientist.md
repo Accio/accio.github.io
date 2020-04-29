@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: On The Process of Becoming A Great Scientist
 tags: science career
 ---

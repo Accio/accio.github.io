@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Disable non-portable compiler flags with ~/.R/Makevars
 categories: programming
 tags: R C

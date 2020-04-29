@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Molecular Phenotyping in Drug Discovery
 category: drug-discovery
 tags: 

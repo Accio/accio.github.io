@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  "Notes on using sqlite3"
 category: programming
 tags: database sqlite3
