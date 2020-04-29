@@ -5,7 +5,10 @@ permalink: /software
 author_profile: true
 ---
 
-Here is a collection of the software that I developed:
+Here is a collection of the scientific software that I developed. More
+open-source software can be found in my Github account
+[Accio](http://github.com/Accio) as well as the public Github account of my team
+[BEDApub](http://github.com/BEDApub).
 
 #### [ribiosUtils](https://cran.r-project.org/web/packages/ribiosUtils/index.html)
 
