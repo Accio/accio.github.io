@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Install R in Linux MINT 18
-category: bioinformatics
+category: programming
 tags: R linux
 ---
 
