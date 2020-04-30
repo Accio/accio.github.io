@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="12.434724"
-     inkscape:cy="73.168744"
+     inkscape:zoom="11.2"
+     inkscape:cx="46.890212"
+     inkscape:cy="20.733441"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="2560"
      inkscape:window-height="1244"
@@ -53,28 +53,32 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-281)">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.18391514px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:#784421;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;"
-       x="-1.2020391"
-       y="296.89999"
-       id="text4520-7"><tspan
-         sodipodi:role="line"
-         id="tspan4518-4"
-         x="-1.2020391"
+    <g
+       id="g860"
+       transform="matrix(0.75073282,0,0,0.75251637,2.0000892,71.502732)">
+      <text
+         id="text4520-7"
          y="296.89999"
-         style="fill:#ff6600;stroke:#784421;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1;">D</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:11.49451542px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:#784421;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
-       x="8.4138317"
-       y="289.53281"
-       id="text831"><tspan
-         sodipodi:role="line"
-         id="tspan829"
-         x="8.4138317"
+         x="-1.2020391"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.18391514px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:#784421;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+         xml:space="preserve"><tspan
+           style="fill:#ff6600;fill-opacity:1;stroke:#784421;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+           y="296.89999"
+           x="-1.2020391"
+           id="tspan4518-4"
+           sodipodi:role="line">D</tspan></text>
+      <text
+         id="text831"
          y="289.53281"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.49451542px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff6600;stroke:#784421;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;">4</tspan></text>
+         x="8.4138317"
+         style="font-style:normal;font-weight:normal;font-size:11.49451542px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:#784421;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.49451542px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff6600;stroke:#784421;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+           y="289.53281"
+           x="8.4138317"
+           id="tspan829"
+           sodipodi:role="line">4</tspan></text>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
