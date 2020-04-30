@@ -1,5 +1,5 @@
 serve: 
-	bundle exec jekyll serve --incremental --draft
+	bundle exec jekyll serve --incremental --draft --livereload --watch
 	
 clean:
 	bundle exec jekyll clean
