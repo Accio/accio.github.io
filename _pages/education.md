@@ -11,7 +11,7 @@ continuous learning and to knowledge sharing.
 
 I use mainly three approaches to share my knowledge:
 * teaching,
-* working with junior researchers including students and postdocs, and
+* supervising junior researchers, and
 * giving public talks.
 
 ### Teaching
@@ -22,7 +22,7 @@ Check our the material of *Applied Mathematics and Informatics In Drug Discovery
 
 In the spring semester, I teach one lecture of the course series *From Novel Targets to Novel Therapeutics* on topics of computational biology and multiscale modelling at the Department of Pharmacy, University of Basel.
 
-### Working together with junior researchers
+### Supervising junior researchers
 
 I work regularly with junior researchers, including bachelor, master and PhD students as well as postdoc researchers. My responsibility includes supervision of short-internship up to six months, mentoring of project, thesis, and career development, and teamwork in field of computational biology and its application in drug discovery.
 
