@@ -20,7 +20,7 @@ In the autumn semester, I teach a undergraduate-level course series, *Applied Ma
 
 Check our the material of *Applied Mathematics and Informatics In Drug Discovery* on its website [http://AMIDD.ch](http://amidd.ch).
 
-In the spring semester, I tech one lecture of the course series *From Novel Targets to Novel Therapeutics* on topics of computational biology and multiscale modelling at the Department of Pharmacy, University of Basel.
+In the spring semester, I teach one lecture of the course series *From Novel Targets to Novel Therapeutics* on topics of computational biology and multiscale modelling at the Department of Pharmacy, University of Basel.
 
 ### Working together with junior researchers
 
