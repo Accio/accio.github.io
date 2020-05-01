@@ -14,7 +14,7 @@ I collaborate both internally at Roche and externally with academic and industri
 
 I also [teach courses, supervise students and postdocs, and give public talks]({{site.url}}/education). 
 
-I am learning to play piano. Besides spending time with my family, I read, write, or jog.
+Besides spending time with my family, I read, write, or jog. I learn to play piano since 2019. 
 
 ## Statement
 
