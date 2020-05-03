@@ -6,12 +6,15 @@ permalink: /about
 
 I am Jitao David Zhang, a computational biologist working at F. Hoffmann-La Roche Ltd, Basel, Switzerland.
 
-I use biological knowledge, mathematical and statistical thinking, and computational tools to deepen our understanding in human diseases and to identify drug targets. I also develop multiscale-modelling approaches to study the efficacy and safety profiles of novel drug candidates.
+My research focuses on identifying novel drug candidates and understanding their efficacy and safety profiles. 
 
-I perform research both collaborating internally at Roche and externally with academic and industrial partners. Research results are published [in open-access papers]({{site.url}}/publications) and in the form of [open-source software]({{site.url}}/software). Besides, I [teach applied mathematics and computer science in drug discovery, supervise students and postdocs, and give public talks]({{site.url}}/education). 
+To achieve this, I synthesize biological knowledge, mathematical and statistical thinking, and computational tools into multiscale-modelling approaches. 
 
-I am learning to play piano. I enjoy spending time with the family. When I am
-alone, I read, write, and jog.
+I collaborate both internally at Roche and externally with academic and industrial partners. Results of our research are shared in [open-access papers]({{site.url}}/publications) and by [open-source software]({{site.url}}/software). 
+
+I also [teach courses, supervise students and postdocs, and give public talks]({{site.url}}/education). 
+
+Besides spending time with my family, I read, write, or jog. I learn to play piano since 2019. 
 
 ## Statement
 

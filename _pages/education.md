@@ -10,7 +10,7 @@ learned. Therefore I am committed in my professional and private life to both
 continuous learning and to knowledge sharing. 
 
 I use mainly three approaches to share my knowledge:
-* teaching,
+* teaching courses,
 * supervising junior researchers, and
 * giving public talks.
 
