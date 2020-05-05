@@ -10,3 +10,8 @@
 @media screen and (max-width: 600px) { 
 	.site-title { padding-right: 80px;line-height:0.95 } 
 }
+
+.post-content {
+  h1, h2, h3 { margin-top: $spacing-unit }
+  h4, h5, h6 { margin-top: $spacing-unit }
+}
