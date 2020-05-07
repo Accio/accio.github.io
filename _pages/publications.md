@@ -26,6 +26,8 @@ Scholar profile](https://scholar.google.com/citations?user=ths6zX0AAAAJ&hl=en) c
 
 ##### 2020
 
+36. Zaidan, M. *et al.* Signaling pathways predisposing to chronic kidney
+    disease progression. **JCI Insight** (2020)
 35. Badillo, S. *et al.* An Introduction to Machine Learning. **Clinical Pharmacology & Therapeutics** (2020).
 
 ##### 2019
