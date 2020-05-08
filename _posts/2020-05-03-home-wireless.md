@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Configuring the home wireless network
-Catergory: Notes
+Category: Notes
 ---
 
 One side effect of the coronavirus pandemic is that we spend disproportionately
