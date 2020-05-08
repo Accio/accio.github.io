@@ -18,7 +18,7 @@ well as RaspberryPi devices. Below are my learnings.
 I discovered the [pi-hole](https://github.com/pi-hole/pi-hole) server. It
 filters web traffic to ad and tracing websites. It does so at the home network
 level instead of on individual devices, which means that we do not have to
-configure each and every machine to stop ad and tracing.
+configure every machine to stop ad and tracing.
 
 Pi-hole runs on the RaspberryPi mini computer system. I served it with an old
 machine from 2015. The server has worked wonderfully since a week without any
@@ -53,7 +53,7 @@ disabled. The system worked out of the box.
 
 If you encounter poor signals in the area covered by the AP, a trick may help:
 try to use a moderate power instead of the maximum power of the AP. Because a
-very strong Transmitter Power (sometimes abbreviated as the option `TX Power`)
+too strong Transmitter Power (sometimes abbreviated as the option `TX Power`)
 of AP may interfere with the signal from the router or from other APs. If you
 suspect such an interference, it may also help to let the devices use different
 WLAN signal channels. Both measures may help improve the roaming experience.
@@ -61,7 +61,7 @@ WLAN signal channels. Both measures may help improve the roaming experience.
 A side story: I was surprised at the beginning that the internet speed is much
 slower when connecting with AP than that when connecting with the router. Later
 I found out that in my case, the Ethernet cable connection is a speed-limiting
-factor.  This can happen, for instance, when the internet connection of the home
+factor. This can happen, for instance, when the internet connection of the home
 (200 Mbps in our case) is better than the highest speed supported by either the
 router or the AP (100 Mbps in our case, because the AP is an old one). Check the
 specification of AP in case of doubt.
