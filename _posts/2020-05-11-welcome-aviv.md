@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Welcome, Aviv
+title: >-
+    Welcome, Aviv!
 category: drug-discovery
 ---
 
