@@ -1,12 +1,12 @@
 ---
 layout: post
 title: >-
-    Welcome, Aviv!
+    Welcome, Aviv Regev!
 category: drug-discovery
 ---
 
 Aviv Regev is joining Roche as the head of Genentech Research and Early
-Development.Here is a brief news item from [the New York
+Development. Here is a brief news item from [the New York
 Times](https://www.nytimes.com/reuters/2020/05/11/business/11reuters-roche-hldg-research.html).
 
 Aviv Regev, a world-class expert in computational biology and systems biology.
