@@ -16,7 +16,6 @@ quickly.
 
 The full paper is available at [arXiv](http://arxiv.org/abs/1806.01261).
 
-
 ## The inductive bias
 
 The authors started with the principle of *combinatorial generalization*, an
@@ -50,7 +49,7 @@ prior distribution in Bayesian inference and the techniques of regularization
 for regression and classification, which shrinks the parameters towards zero in
 order to avoid over-fitting. It can also be implemented in the architecture of
 the algorithm itself, for instance by preferring certain hypotheses
-heuristically. 
+heuristically.
 
 From the statistical perspective, inductive biases often trade flexibility for
 improved sample complexity, which is defined in machine learning as the number
@@ -110,7 +109,7 @@ poly-pharmacology, and development of multi-specific drugs.
 A collection of papers on graph neural networks can be found in the GitHub
 repository [nnzhan/Awesome-Graph-Neural-Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks).
 
-The Ph.D. thesis of T. N. Kipf, [Deep learning with graph-structured
+The Ph.D. thesis of Thomas N. Kipf, [Deep learning with graph-structured
 representations](https://pure.uva.nl/ws/files/46900201/Thesis.pdf), can be an
 interesting in-depth read in this area, since the author and his mentor, M.
 Welling, are among the people who pioneered research in this area.
