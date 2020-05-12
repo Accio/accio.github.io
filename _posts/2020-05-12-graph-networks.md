@@ -110,6 +110,11 @@ poly-pharmacology, and development of multi-specific drugs.
 A collection of papers on graph neural networks can be found in the GitHub
 repository [nnzhan/Awesome-Graph-Neural-Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks).
 
+The Ph.D. thesis of T. N. Kipf, [Deep learning with graph-structured
+representations](https://pure.uva.nl/ws/files/46900201/Thesis.pdf), can be an
+interesting in-depth read in this area, since the author and his mentor, M.
+Welling, are among the people who pioneered research in this area.
+
 [Fout *et
 al*](https://papers.nips.cc/paper/7231-protein-interface-prediction-using-graph-convolutional-networks.pdf)
 used graph convolutional networks to predict protein-protein interfaces. The
