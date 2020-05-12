@@ -1,13 +1,13 @@
 ---
 layout: post
 title: >-
-  Introduction to machine learning with graph networks
+  Deep learning with graph networks
 category: machine-learning
 tags: inductive biases, deep learning, graph networks
 ---
 
 I read the article *Relational inductive biases, deep learning, and graph
-networks* by Battaglia *et al*. Below are my learning notes.
+networks* by Battaglia *et al* and share my learning notes here.
 
 According to the authors, it is "part position paper, part review, and part
 unification". It is the first paper that I read in this area, but the paper is
