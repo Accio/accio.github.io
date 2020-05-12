@@ -110,6 +110,12 @@ poly-pharmacology, and development of multi-specific drugs.
 A collection of papers on graph neural networks can be found in the GitHub
 repository [nnzhan/Awesome-Graph-Neural-Networks](https://github.com/nnzhan/Awesome-Graph-Neural-Networks).
 
+[Fout *et
+al*](https://papers.nips.cc/paper/7231-protein-interface-prediction-using-graph-convolutional-networks.pdf)
+used graph convolutional networks to predict protein-protein interfaces. The
+code is available on [GitHub](https://github.com/fouticus/pipgcn), though no
+update has been done since Dec 2017.
+
 [Zitnik *et
 al.*](https://academic.oup.com/bioinformatics/article/34/13/i457/5045770)
 reported on *Bioinformatics* in 2018 their attempt to use a multimodal graph of
