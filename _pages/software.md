@@ -10,6 +10,10 @@ open-source software can be found in my Github account
 [Accio](http://github.com/Accio) as well as the public Github account of my team
 [BEDApub](http://github.com/BEDApub).
 
+#### [HBVouroboros](https://github.com/bedapub/HBVouroboros)
+
+*HBVouroboros* is written in Python and implements a snakemake-based workflow to map Illumina RNA-sequencing reads to HBV cccDNA. It offers following functionalities: (a) Mapping reads to reference genomes of of eight major HBV genotypes (A-H). (b) *de novo* assembly of the HBV genome, (c) inference of the reference strain from which the reads are likely generated and the genotype, and (d) reporting base-level, gene-level, and HBV-genome-level quantification of read counts, as well as structural variants with regard to the inferred reference strain.
+
 #### [ribiosUtils](https://cran.r-project.org/web/packages/ribiosUtils/index.html)
 
 [ribiosUtils](https://cran.r-project.org/web/packages/ribiosUtils/index.html) is a R package that provides interface to the Bioinfo-C (internal name: BIOS) library and utilities. 'ribiosUtils' is a swiss-knife for computational biology in drug discovery, providing functions and utilities with minimal external dependency and maximal efficiency.
