@@ -13,6 +13,9 @@ During this process, [a post on
 StackOverflow](https://stackoverflow.com/questions/22149584/what-does-axis-in-pandas-mean)
 was particularly helpful.
 
+* TOC
+{:toc}
+
 ## Axis in Python
 
 Consider the following code snippet
@@ -118,7 +121,7 @@ apply(mymat, 2, mean) ## identical to `colMeans(myMat)`, c(3.5, 4.5, 5.5)
 As you see, the behaviour of setting `MARGINS` to `1` and `2` is actually the
 opposite of that in Python.
 
-### What happens with 3-dimensional array in R?
+### What happens with a 3-dimensional array in R?
 
 Let us give it a try.
 
