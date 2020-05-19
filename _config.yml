@@ -8,7 +8,7 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jdzhang.me" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: Accio
-twitter_username: Accio_JDZhang
+twitter_username: AccioThatTweets
 
 theme: minima
 minima:
