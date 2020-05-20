@@ -5,17 +5,15 @@ permalink: /education
 author_profile: true
 ---
 
-I see it equally important to learn new things and to share the things that I
-learned. Therefore I am committed in my professional and private life to both
-continuous learning and to knowledge sharing.
+I am committed to continuous learning and to knowledge sharing in my
+professional and private life.
 
-I use mainly three approaches to share my knowledge:
-
-* teaching courses,
-* supervising junior researchers, and
-* giving public talks.
+* TOC
+{:toc}
 
 ## Teaching
+
+### Applied Mathematics and Informatics in Drug Discovery
 
 In the autumn semester, I teach a undergraduate-level course series, *Applied
 Mathematics and Informatics in Drug Discovery*, at the Department of Mathematics
@@ -25,6 +23,8 @@ Basel, as well as the students.
 
 Check out the material of *Applied Mathematics and Informatics In Drug
 Discovery* on its website [AMIDD.ch](http://amidd.ch).
+
+### From Novel Targets To Novel Therapeutics
 
 In the spring semester, I teach one lecture of the course series *From Novel
 Targets to Novel Therapeutics* on topics of computational biology and multiscale
@@ -46,8 +46,6 @@ References of supervised students and postdoc researchers are available upon
 request.
 
 ## Public talks
-
-### 2019
 
 1. *Multiscale Modelling of Preclinical Drug Safety*, OpenTox Swiss Chapter
    Meeting, Basel, 2019
