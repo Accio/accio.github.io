@@ -7,7 +7,8 @@ tags: python R pandas numpy
 
 I tried to understand the concept of `axis` in python libraries `numpy` and
 `pandas` better, because I often mix them up with similar concepts in R. After
-trying a few things out and reading around, I think I understand both worlds better now.
+trying a few things out and reading around, I think I understand both worlds
+better now.
 
 During this process, [a post on
 StackOverflow](https://stackoverflow.com/questions/22149584/what-does-axis-in-pandas-mean)
@@ -93,7 +94,7 @@ goes through `ar2[i, 1, 0]`. And finally, it goes though `ar2[i, 1, 1]`.
 The same logic applies to other values of the parameter `axis`. The only change
 we shall make then is to change the position of `i`: it will be put in the
 `axis`th position in the index list used to fetch an element in the
-n-dimensional array.  If you have doubt about that, you can verify the results
+n-dimensional array. If you have doubt about that, you can verify the results
 above with the logic that we have just described. Sure enough, the logic also
 applies to arrays of higher (or lower) dimensions.
 
@@ -103,7 +104,6 @@ form of `array[0, 0, ..., i, ..., 0]` where `i` iterates through all possible
 values. The process is repeated with the position of `i` fixed and the indices
 of other dimensions vary one after the other (from the most far-right element).
 The result is a n-1-dimensional array.
-
 
 ## MARGINS in R
 
@@ -121,7 +121,7 @@ apply(mymat, 2, mean) ## identical to `colMeans(myMat)`, c(3.5, 4.5, 5.5)
 As you see, the behaviour of setting `MARGINS` to `1` and `2` is actually the
 opposite of that in Python.
 
-### What happens with a 3-dimensional array in R?
+### Apply `apply` to a 3-dimensional array in R
 
 Let us give it a try.
 
@@ -157,10 +157,10 @@ calculate the mean values of `d3array[i,,]` where `i` takes all possible values,
 and return the results in a vector. Similarly, `apply(d3array, 2, mean)` will
 calculate the mean values of `d3array[,i,]`, *etc.*
 
-In summary, in R, the `MARGINS` parameter let the `apply` function calculate the mean of all values that can be fetched in the
-form of `array[, ... , i, ... ,]` where `i` iterates through all possible
-values. The process is not repeated when all `i` values have been iterated.
-Therefore, the result is a simple vector.
+In summary, in R, the `MARGINS` parameter let the `apply` function calculate the
+mean of all values that can be fetched in the form of `array[, ... , i, ... ,]`
+where `i` iterates through all possible values. The process is not repeated when
+all `i` values have been iterated. The result is therefore a simple vector.
 
 ## Conclusions
 
@@ -168,3 +168,11 @@ While I can understand the logic of either convention, I found it is easy to mix
 the two. I am not sure whether I am the only one who easily mixes up `axis` in
 Python and `MARGIN` in R. Therefore, I document the differences here, with the
 hope that at least I can remind myself when I am confused again.
+
+In `panda`, one can use `axis="rows"` or `axis="index"` to calculate mean values
+of each column, equal to `colMeans` in R. We say that we get `mean along rows` or
+`mean along index` in Python, and `mean of columns` in R.
+
+Alternately, one uses `axis="columns"` to calculate mean values of each row,
+equal to `rowMeans` in R. We say that we get `mean along columns` in Python, and
+`mean of rows` in R. I thank Iakov Davydov to point out these possibilities.
