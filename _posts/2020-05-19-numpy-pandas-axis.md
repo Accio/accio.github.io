@@ -121,7 +121,7 @@ apply(mymat, 2, mean) ## identical to `colMeans(myMat)`, c(3.5, 4.5, 5.5)
 As you see, the behaviour of setting `MARGINS` to `1` and `2` is actually the
 opposite of that in Python.
 
-### Apply `apply` to a 3-dimensional array in R
+### Apply `apply` to a three-dimensional array in R
 
 Let us give it a try.
 
