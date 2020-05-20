@@ -175,4 +175,6 @@ of each column, equal to `colMeans` in R. We say that we get `mean along rows` o
 
 Alternately, one uses `axis="columns"` to calculate mean values of each row,
 equal to `rowMeans` in R. We say that we get `mean along columns` in Python, and
-`mean of rows` in R. I thank Iakov Davydov to point out these possibilities.
+`mean of rows` in R.
+
+I thank Iakov Davydov for pointing out the advantage of using `rows` and `columns`.
