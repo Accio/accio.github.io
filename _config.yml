@@ -15,6 +15,7 @@ minima:
   date_format: "%Y-%m-%d"
   social_links:
     github: Accio
+    twitter: AccioThatTweets
 
 comments: true
 show_excerpts: true
