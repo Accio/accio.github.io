@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Lysyl oxidase mediates drug resistance in triple-negative breast cancer
+title: >-
+    LOX mediates doxorubicin resistance in triple-negative breast cancer models
 category: Biology
 ---
 
