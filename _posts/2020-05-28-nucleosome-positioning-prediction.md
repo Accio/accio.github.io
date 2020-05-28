@@ -18,9 +18,9 @@ transcriptional behaviour.
 DNA in our genome, like in genomes of other eukaryotic species, does not exist
 in a linear form, neither does it form random folding or coiling. Instead, they
 form nucleosomes together with histone proteins. Each nucleosome consists of 147
-DNA base pairs and eight histone proteins (a histone *octamer*, *octo* is a
+DNA base pairs and eight histone proteins (a histone *octamer*, *octo-* is a
 prefix representing in both Latin and Greek the number 8). The way DNA wound on
-nucleosomes are often described as &lsquo;beads on a string&rsquo;.
+nucleosomes is often described as &lsquo;beads on a string&rsquo;.
 
 {% include image.html
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Basic_units_of_chromatin_structure.svg/266px-Basic_units_of_chromatin_structure.svg.png"
@@ -31,7 +31,7 @@ The diameter of a nucleosome is about 11 nanometer (1 nanometer=$$ 10^{-9} $$
 m).  If DNA in a human cell exists in a linear form, it will be about two meters
 from one end to the other.  Thanks to their compact organization into
 nucleosomes and higher-order structures, DNA can be fit into human cells, which
-is about 100 micrometer ($$ 10^{-6} $$ m) in diameter. In fact, chromosomes,
+is about 100 micrometre ($$ 10^{-6} $$ m) in diameter. In fact, chromosomes,
 which consist of DNA and proteins, takes only a small proportion of it (in
 diameter of a few micrometer).
 
@@ -91,11 +91,11 @@ surprising to me that so few histones determine gene expression together with so
 many transcription factors.
 
 On the other hand, though, the importance of nucleosomes is not surprising. As
-we saw above, nucleosomes are the foundation of chromosomal organization. A
+we saw above, nucleosomes are the foundation of the chromosomal organization. A
 transcription factor, in order to drive expression of a gene, must compete with
 the nucleosome to access the DNA, because a piece of DNA can hardly be in a
 nucleosome and bound by a transcription factor at the same time (exceptions may
-exist, though here is the general rule), which we call the *steric hinderance*,
+exist, though here is the general rule), which we call the *steric hindrance*,
 the phenomenon that spatial arrangement of atoms and particles affecting
 chemical reactions.
 
@@ -121,9 +121,9 @@ accessibility of transcription factors.
 Interestingly, these genes with nucleosome-depleted regulatory regions and low
 transcriptional noise can switch between inactive and active states of gene
 expression more rapidly, partially because their expression needs less and is
-less targeted by chromatin remodellers. Chromatin remodellers are protein
+less targeted by chromatin remodelers. Chromatin remodelers are protein
 complexes that alter the structure of chromatin, which consume much energy and
-are therefore &lsquo;expensive&rsquo;.
+are, therefore, &lsquo;expensive&rsquo;.
 
 ### Factors contributing to nucleosome positioning
 
@@ -133,17 +133,17 @@ other sequences. This is similar with transcription factors, which also show
 sequence-preference binding. But there are important differences between the
 histone-DNA and transcription factor-DNA binding.
 
-Because many transcription factors have much shorter binding sequence (a few
+Because many transcription factors have a much shorter binding sequence (a few
 nucleotides long), which can appear many times in the genome, the binding
-patterns of transcription factors to genome in *in vivo* can show much more
-randomness, among other because the number of transcription-factor proteins may
-be fewer than the available sites.
+patterns of transcription factors to genome in living cells (*in vivo*) can show
+much more randomness, among other because the number of transcription-factor
+proteins may be fewer than the available sites.
 
 This is not the case for histone binding of DNA. On one side, the preferred
 binding sequence motifs are much longer for histones. On the other side, there
 are usually abundant histones available to bind to their preferred sequences.
 
-Besides DNA sequence, nucleosome binding is influenced by following factors:
+Besides DNA sequence, nucleosome binding is influenced by the following factors:
 
 * ATP-dependent nucleosome remodelling enzymes,
 * Non-histone DNA-binding proteins such as transcription factors,
@@ -228,7 +228,7 @@ I am fascinated by how nucleosome and transcription factor compete to regulate
 gene expression. The summary above is my notes of only a tiny proportion of what
 we know about nucleosomes and how we may study them.
 
-If we aim to link gene expression with either disease etiology or drug-treatment
+If we aim to link gene expression with either disease aetiology or drug-treatment
 response with better *in silico* models, we may benefit from integrating
 our knowledge of and uncertainty about nucleosome and transcription factors into
 mathematical and computational models describing gene expression behaviours.
