@@ -22,18 +22,18 @@ in a linear form, neither does it form random folding or coiling. Instead, they
 form nucleosomes together with histone proteins. Each nucleosome consists of 147
 base-pair DNA and eight histone proteins (a histone *octamer*, *octo* is a
 prefix representing in both Latin and Greek the number 8). The way DNA wound on
-nucleosomes are often described as &dlquo;beads on a string&drquo;.
+nucleosomes are often described as &lsquo;beads on a string&rsquo;.
 
 {% include image.html
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Basic_units_of_chromatin_structure.svg/266px-Basic_units_of_chromatin_structure.svg.png"
 description="Nucleosome organization, created by David O Morgan. Source:Wikimedia"
 %}
 
-The diameter of a nucleosome is about 11 nanometer (1 nanometer=$$ 10^-9 $$ m).
+The diameter of a nucleosome is about 11 nanometer (1 nanometer=$$ 10^{-9} $$ m).
 If DNA in a human cell exists in a linear form, it will be about two meters from
 one end to the other.  Thanks to their compact organization into nucleosomes and
 higher-order structures, DNA can be fit into human cells, which is about 100
-micrometer ($$ 10^-6 $$ m) in diameter, and takes only a small proportion of it
+micrometer ($$ 10^{-6} $$ m) in diameter, and takes only a small proportion of it
 (in diameter of a few micrometer).
 
 ### Higher-order structures based on nucleosome
@@ -66,6 +66,16 @@ graphical overview of the hierarchical organization.
 url="/assets/images/Szabo-2019-Science-Advances-Fig1A-genome-folding.png"
 description="Figure 1A by Szabo et al. Re-used under the Creative Commons Attribution NonCommercial License 4.0 (CC BY-NC)"
 %}
+
+### Why nucleosome is important
+
+We have learned above that nucleosomes are important to package DNA strands
+densely. And we learned that they regulate gene expression. In fact, a model of
+gene transcription regulation proposed by [Eran Segal and Jonathan
+Widom](https://www.nature.com/articles/nrg2591) (Nature Review Genetics, 2009)
+postulates that transcriptional regulation can be explained by an
+&lsquo;equilibirium competition&rsquo; between nucleosomes and other DNA-binding
+proteins such as transcription factors.
 
 ## Experimental approaches to quantify nucleosome binding
 
