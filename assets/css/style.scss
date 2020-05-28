@@ -21,13 +21,17 @@
     display: block;
 }
 
-figure {
+figcaption {
   display: block;
-  position: relative;
-  overflow: hidden;
   margin: 0 auto;
+  margin-bottom: 1em;
+  text-align: center;
 }
 
+/* configuration below was found via
+ * https://css-tricks.com/slide-in-image-captions/.
+ *  It allows slide-in image captions
+ 
 figcaption {
   position: absolute;
   background: rgba(0,0,0,0.75);
@@ -46,3 +50,4 @@ figure:hover figcaption {
   opacity: 1;
   left: 0;
 }
+*/
