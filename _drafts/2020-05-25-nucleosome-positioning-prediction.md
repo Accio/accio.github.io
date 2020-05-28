@@ -2,6 +2,7 @@
 layout: post
 title: Predicting nucleosome positioning
 category: bioinformatics
+mathjax: True
 tags: nucleosome
 ---
 
@@ -12,9 +13,64 @@ transcriptional behaviour.
 * TOC
 {:toc}
 
-## What is nucleosome and why it matters
+## What is nucleosome
+
+### Structure of nucleosome
+
+DNA in our genome, like in genomes of other eukaryotic species, does not exist
+in a linear form, neither does it form random folding or coiling. Instead, they
+form nucleosomes together with histone proteins. Each nucleosome consists of 147
+base-pair DNA and eight histone proteins (a histone *octamer*, *octo* is a
+prefix representing in both Latin and Greek the number 8). The way DNA wound on
+nucleosomes are often described as &dlquo;beads on a string&drquo;.
+
+{% include image.html
+url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Basic_units_of_chromatin_structure.svg/266px-Basic_units_of_chromatin_structure.svg.png"
+description="Nucleosome organization, created by David O Morgan. Source:Wikimedia"
+%}
+
+The diameter of a nucleosome is about 11 nanometer (1 nanometer=$$ 10^-9 $$ m).
+If DNA in a human cell exists in a linear form, it will be about two meters from
+one end to the other.  Thanks to their compact organization into nucleosomes and
+higher-order structures, DNA can be fit into human cells, which is about 100
+micrometer ($$ 10^-6 $$ m) in diameter, and takes only a small proportion of it
+(in diameter of a few micrometer).
+
+### Higher-order structures based on nucleosome
+
+Nucleosome is the first layer of the organization of our chromosomes. They are
+the foundation of higher layers, which include:
+
+* *Chromatin fibre*. The beads-on-a-string structure coils into a about 30 nm
+  diameter helical structure known as the 30nm fibre or filament. Histone
+  protein H1 is required for this step. Along the chromatin fibre, the density
+  of nucleosomes vary densities, depending on and influencing gene regulation.
+* *Chromatin loops*. Chromatin fibre further coils and
+  forms loops, known as chromatin loops.
+* *Topologically associated domains (TADs)*. Chromatin loops fold at a
+  sub-megabase scale (1 megabase, or 1Mb, is 1,000,000 bases), and they form
+  higher domains of preferential interactions, known as topological associated
+  domains (TADs), with the size of a few hundred nanometer.
+* *Compartment*. TADs further segregate. On the chromosomal scale, chromatin is
+  segregated into two major compartments: the active "A" compartment and
+  repressed, inactive "B" compartment, each with distinct properties.
+* *Territories*. Finally, entire chromosomes segregate (which means setting
+  apart from each other) into distinct regions in the nucleus, occupy distinct
+  sub-nuclear *chromosome territories*.
+
+The following figure from [*Principles of genome folding into topologically
+associating domains*]() by Szabo *et al.* (Science Advances, 2019) offers a
+graphical overview of the hierarchical organization.
+
+{% include image.html
+url="/assets/images/Szabo-2019-Science-Advances-Fig1A-genome-folding.png"
+description="Figure 1A by Szabo et al. Re-used under the Creative Commons Attribution NonCommercial License 4.0 (CC BY-NC)"
+%}
 
 ## Experimental approaches to quantify nucleosome binding
+
+MNase
+ATAC-seq
 
 ## Software that I found to predict nucleosome binding
 
