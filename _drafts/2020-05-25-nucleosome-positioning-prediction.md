@@ -13,9 +13,7 @@ transcriptional behaviour.
 * TOC
 {:toc}
 
-## What is nucleosome
-
-### Structure of nucleosome
+## Structure of nucleosome
 
 DNA in our genome, like in genomes of other eukaryotic species, does not exist
 in a linear form, neither does it form random folding or coiling. Instead, they
@@ -64,25 +62,121 @@ graphical overview of the hierarchical organization.
 
 {% include image.html
 url="/assets/images/Szabo-2019-Science-Advances-Fig1A-genome-folding.png"
-description="Figure 1A by Szabo et al. Re-used under the Creative Commons Attribution NonCommercial License 4.0 (CC BY-NC)"
-%}
+description="Figure 1A by Szabo et al. Re-used under the Creative Commons
+Attribution NonCommercial License 4.0 (CC BY-NC)" %}
 
-### Why nucleosome is important
+## Why nucleosome is important
 
 We have learned above that nucleosomes are important to package DNA strands
 densely. And we learned that they regulate gene expression. In fact, a model of
 gene transcription regulation proposed by [Eran Segal and Jonathan
 Widom](https://www.nature.com/articles/nrg2591) (Nature Review Genetics, 2009)
 postulates that transcriptional regulation can be explained by an
-&lsquo;equilibirium competition&rsquo; between nucleosomes and other DNA-binding
+&lsquo;equilibrium competition&rsquo; between nucleosomes and other DNA-binding
 proteins such as transcription factors.
 
-## Experimental approaches to quantify nucleosome binding
+It was a bit surprising to me when I read it for the first time. Human histones
+contain five subgroups (H1, H2A, H2B, H3, and H4), and contain only 110 genes
+(see this [page maintained at
+genenames.org](https://www.genenames.org/data/genegroup/#!/group/864) for an
+overview of them). Almost half of them are encoded in large cluster on human
+chromosome 6. In comparison, there are more than 1,600 known or likely human
+transcription factors ([*The Human Transcription Factors*, Lambert *et
+al.*](http://www.sciencedirect.com/science/article/pii/S0092867418301065), Cell,
+2018). In addition, interactions and collaborations between histones seem way
+more less complex than the collaborations between transcription factors. It was
+surprising to me that so few histones determine gene expression together with so
+many transcription factors.
 
-MNase
-ATAC-seq
+On the other hand, though, the importance of nucleosomes is not surprising. As
+we saw above, nucleosomes are the foundation of chromosomal organization. A
+transcription factor, in order to drive expression of a gene, must compete with
+the nucleosome to access the DNA, because a piece of DNA can hardly be in a
+nucleosome and bound by a transcription factor at the same time, which we call
+the *steric hinderance*, the phenomenon that spatial arrangement of atoms and
+particles affecting chemical reactions.
+
+### Nucleosome and transcription factors
+
+It is widely believed now that nucleosomes and transcription factors compete
+with each other to drive expression. Segal and Widom proposed to consider all
+possible configurations of nucleosome and transcription factor binding and to
+use weighted sum to predict transcription activity. This model, for instance,
+can be used to explain noise in gene expression levels.
+
+We use the term *transcriptional noise* to indicate the variability in the
+transcriptional rate of genes across different cells from an homogeneous cell
+population. In case these cells are in a steady state, the variability is also
+reflected on the mRNA expression levels.  `TATA` sequences, a DNA sequence with
+a core sequence of <code>5'-TATA-3'</code> found in the promoter regions of many
+genes which helps recruiting RNA polymerase to a promoter, predict high levels
+of noise, maybe by reinitializing transcription. In contrast,
+nucleosome-disfavouring sequences predict low levels of noise. This may be
+explained by that lack of competition by nucleosome and therefore a better
+accessibility of transcription factors.
+
+Interestingly, these genes with nucleosome-depleted regulatory regions and low
+transcriptional noise can switch between inactive and active states of gene
+expression more rapidly, partially because their expression needs less and is
+less targeted by chromatin remodellers, protein complexes that alter the
+structure of chromatin, which consume much energy and are therefore
+&lsquo;expensive&rsquo;.
+
+### Factors contributing to nucleosome positioning
+
+DNA binding to nucleosomes is a dynamic process that shows sequence preference.
+In another word, some DNA sequence is more likely to be in a nucleosome than
+another sequence. This is comparable to the situation of transcription factors,
+which also shows sequence-preference binding. Because many
+transcription factors have much shorter binding sequence (a few nucleotides
+long), which can appear many times in the genome, the binding patterns of
+transcription factors to genome in *in vivo* can show much more randomness,
+among other because the number of transcription-factor proteins may be fewer
+than the available sites.
+
+Besides DNA sequence, nucleosome binding is influenced by following factors:
+
+* ATP-dependent nucleosome remodelling enzymes,
+* Non-histone DNA-binding proteins such as transcription factors,
+* The transcription machinery, including the preinitiation complex and
+  elongating RNA polymerase II.
+
+These factors are reviewed by [Struhl and
+Segal](https://www.nature.com/articles/nsmb.2506) and by [Chereji and
+Clark](http://www.sciencedirect.com/science/article/pii/S0006349518303813).
+
+## Experimental approaches to quantify nucleosome positioning
+
+Four commonly experimental approaches to quantify nucleosome positioning are
+DNase-seq, FAIRE-seq, ATAC-Seq, and MNase-Seq. Here I focus on ATAC-Seq and
+MNase-seq to illustrate the principles. A brief comparison of the four
+approaches is available on
+[Wikipedia](https://en.wikipedia.org/wiki/MNase-seq#Comparison_to_other_Chromatin_Accessibility_Assays).
+
+ATAC-seq uses a hyperactive transposase to tag linkers, which are
+nucleosome-free DNA segments, for sequencing. The transposase is loaded with
+sequencing adaptors, and it cuts linker sequences and adapts sequencing adaptors
+at the same time. Thus it can be used to profile sequences that are *not*
+occupied by nucleosomes. The protocol was described in [Buenrostro *et
+al.*](https://www.nature.com/articles/nmeth.2688) (Nature Methods, 2013).
+
+[MNase-seq](https://en.wikipedia.org/wiki/MNase-seq) uses Micrococcal nuclease
+to degrade linker DNA, thereby preserving the DNA sequences wrapped in
+nucleosomes, which are then sequenced. Several groups contributed to its
+development.
+
+Software to analyse such data include
+[ATACseqQC](https://bioconductor.org/packages/release/bioc/html/ATACseqQC.html)
+in Bioconductor and [Nucleosome
+Dynamics](https://academic.oup.com/nar/article/47/18/9511/5557727) reported by
+Buitrago *et al.* (NAR, 2019).
 
 ## Software that I found to predict nucleosome binding
+
+Complementary to experimental approaches, *in silico* tools predict nucleosome
+positioning by using DNA sequences alone.
+
+I found two open-source software packages for this purpose.
 
 ### NuPop
 
@@ -118,3 +212,14 @@ It uses a convolutional neural network to predict nucleosome positioning in Homo
 sapiens and other species. The open-source software is written in Python and
 Lua, and is available on GitHub at
 [biomedBit/LeNup](https://academic.oup.com/bioinformatics/article/34/10/1705/4796955#supplementary-data).
+
+## Conclusions
+
+I am fascinated by how nucleosome and transcription factor compete to regulate
+gene expression. The summary above is my notes of only a tiny proportion of what
+we know about nucleosomes and how we may study them. If we aim to link gene
+expression with either disease etiology or drug-treatment response with better
+*in silico* models, we have to consider how to integrate our knowledge of and
+uncertainty about nucleosome and transcription factors in our models.
+
+I thank Martin Ebeling for inspiring me learning.
