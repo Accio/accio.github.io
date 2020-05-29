@@ -10,9 +10,9 @@ sequencing data? Here are some basics.
 
 ## T cell receptor
 
-T cell receptor, or TCR, is generated through random rearrangment of genomic
+T cell receptor, or TCR, is generated through random rearrangement of genomic
 loci. The loci are known as V (variable) region, the D (diversity) region, and
-the J (joining) region. The rearragement is therefore sometimes called V(D)J
+the J (joining) region. The rearrangement is therefore sometimes called V(D)J
 rearrangement.
 
 The process of V(D)J rearrangement can be visually expressed in the following
@@ -20,6 +20,7 @@ graphic (source: Wikimedia).
 
 ![VDJ
 rearrangement](https://upload.wikimedia.org/wikipedia/commons/3/3e/VDJ_recombination.png)
+
 
 References:
 
