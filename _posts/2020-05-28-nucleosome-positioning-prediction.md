@@ -67,6 +67,11 @@ url="/assets/images/Szabo-2019-Science-Advances-Fig1A-genome-folding.png"
 description="Figure 1A by Szabo et al. Re-used under the Creative Commons
 Attribution NonCommercial License 4.0 (CC BY-NC)" %}
 
+Another good resource to get an first impression of DNA packaging and how
+nucleosome and chromatin contribute to the process is available
+[Scitable](https://www.nature.com/scitable/topicpage/dna-packaging-nucleosomes-and-chromatin-310/),
+an education resource of the company Nature Publishing Group.
+
 ## Why nucleosome is important
 
 We learned above that nucleosomes are important to package DNA strands densely.
