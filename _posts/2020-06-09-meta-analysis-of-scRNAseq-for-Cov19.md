@@ -61,7 +61,7 @@ and may even be inaccurate. Please look up the original paper if needed.
 * Single-cell and single-nucleus RNA-sequencing data analysis with done with
   [Scanpy](https://github.com/theislab/scanpy).
 * Co-expression of TMPRSS2 and CTSL with ACE2 was assessed with a *logistic*
-  (e.g. binarized) linear effect model, with *ACE2* mRNA abundance as an
+  (e.g. binarized) linear mixed effect model, with *ACE2* mRNA abundance as an
   independent variable and individuals as a random effect.
 * Association with gender, age, and smoking status was assessed with a
   generalized effect model, using
