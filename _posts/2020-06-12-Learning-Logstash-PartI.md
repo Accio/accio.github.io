@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning Logstash
+title: Learning Logstash - Part I
 category: programming
 tags: ELK Logstash ElasticSearch
 ---
@@ -49,6 +49,9 @@ install it from package managers, for instance
 [apt](https://www.elastic.co/guide/en/logstash/7.7/installing-logstash.html#_apt)
 on Debian systems, or run it from a Docker container. The download
 page gives clear instructions.
+
+Now we have installed Logstash, we can run it to convert virtually any data into
+JSON files. We will explore this in the next part of the tutorial.
 
 ## Acknowledgement and further resources
 
