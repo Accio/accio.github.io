@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="20200614-music-accord.svg"
+   sodipodi:docname="20200614-music-chord.svg"
    inkscape:export-filename="/home/david/myblog/assets/images/20200614-music-accord.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -340,7 +340,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="164.89108"
+     inkscape:cx="32.39108"
      inkscape:cy="637.20186"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -360,7 +360,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -702,7 +702,7 @@
          x="-61.799103"
          y="76.526489"
          style="fill:#000000;stroke-width:0.26458332px"
-         id="tspan1117">which do not change by scale.</tspan></text>
+         id="tspan1117">which does not change by scale.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -734,17 +734,22 @@
          x="-61.799103"
          y="115.63773"
          style="fill:#000000;stroke-width:0.26458332px"
-         id="tspan1048">3th and the 5th (see example) </tspan><tspan
+         id="tspan1052">3th and the 5th when counting</tspan><tspan
          sodipodi:role="line"
          x="-61.799103"
          y="120.92939"
          style="fill:#000000;stroke-width:0.26458332px"
-         id="tspan1052">when counting from the note, </tspan><tspan
+         id="tspan1035">from that note (see example), </tspan><tspan
          sodipodi:role="line"
          x="-61.799103"
          y="126.22105"
          style="fill:#000000;stroke-width:0.26458332px"
-         id="tspan1050">keeping all sharp or flats.</tspan></text>
+         id="tspan1050">keeping sharp or flats if </tspan><tspan
+         sodipodi:role="line"
+         x="-61.799103"
+         y="131.51273"
+         style="fill:#000000;stroke-width:0.26458332px"
+         id="tspan1037">there are any.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient1125);fill-opacity:1;stroke:none;stroke-width:0.15875px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -968,7 +973,7 @@
          id="tspan4001"
          x="90.714287"
          y="201.85335"
-         style="stroke-width:0.26458332px"></tspan></text>
+         style="stroke-width:0.26458332px" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -979,7 +984,7 @@
          id="tspan4005"
          x="114.90475"
          y="203.17625"
-         style="stroke-width:0.26458332px"></tspan></text>
+         style="stroke-width:0.26458332px" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
