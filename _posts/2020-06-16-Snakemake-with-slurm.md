@@ -170,6 +170,7 @@ may help one or another who is confused like I once was.
 * [Snakemake
     API](https://snakemake.readthedocs.io/en/stable/api_reference/snakemake.html)
 * [SlurmEasy](https://github.com/dpryan79/Misc/blob/master/MPIIE_internal/SlurmEasy)
+* [rusalkyguy/snakemake-slurm-tutorial](https://github.com/rusalkaguy/snakemake-slurm-tutorial)
 
 [^1]: A similar software to Snakemake is [nextflow](https://www.nextflow.io/). That is another story which should be told another time.
 [^2]: We can use `scontrol show node | grep ThreadsPerCore` to find out whether the nodes have more than one thread per core.
