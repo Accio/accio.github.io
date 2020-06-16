@@ -11,10 +11,16 @@ because Snakemake provides huge flexibility to control the behaviour of Slurm,
 partly because I failed to find consistent documentations over the issues that I
 met. Therefore, I decided to write my learnings down here.
 
+{% include image.html
+url="/assets/images/20200616-snakemake-slurm.png"
+description="Snakemake and slurm: a lovely pair"
+%}
+
 For those who are not familiar with the terms: *Slurm* is a job scheduler for
 Linux systems, used for instance to submit jobs to a cluster of computers and
 collect the results. *Snakemake* is a pipelining tool, particularly suitable for
 building bioinformatics data analysis workflows[^1].
+
 Please note that these notes are distilled from my empirical observations and
 they are incomplete, and may be inaccurate or even wrong. I am thankful if you
 drop me a line in case you find mistakes and errors.
