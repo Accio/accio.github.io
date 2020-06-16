@@ -93,7 +93,7 @@ The hypothetical job given in the [StackOverflow
 answer](https://stackoverflow.com/a/46532581/2114825) explain the differences
 between the concepts and the commonly used parameters well, in my opinion.
 
-### Imperative settings in `cluster.json`
+### Imperative settings
 
 A Snakemake flow will submit each instance of rule as a job. If a rule is run in
 parallel, then each parallel-running instance will have its own job. Therefore,
