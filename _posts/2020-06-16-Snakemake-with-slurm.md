@@ -128,7 +128,7 @@ Commonly used imperative settings include:
    is 1.
 
 Other imperative settings include `job-name`, `partition`, `time`,
-`mem-per-cpu-mb`, `output`, `error`, ``mail-user`, *etc.*, which dictates the
+`mem-per-cpu-mb`, `output`, `error`, `mail-user`, *etc.*, which dictates the
 behaviour of Slum submitting individual jobs.
 
 The imperative settings can be stored in a `cluster.json` file in the `config`
