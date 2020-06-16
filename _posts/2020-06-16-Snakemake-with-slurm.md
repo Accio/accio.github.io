@@ -110,9 +110,11 @@ I call the first type of settings *imperative* because they specify how much
 resource is consumed per job. Although these parameters are set on the workflow
 level, the settings apply to each instance of rules in the same way. Say if we
 specify that each job should contain one task and uses 12 CPUs per task, even a
-simple command as `echo` would occupy 12 CPUs in a node, using exactly the same
-number of CPUs as another job that runs hours (though for sure the `echo` job
-will probably just run on one CPU in reality and finish instantly).
+simple command as `echo` would occupy 12 CPUs in a node, claiming exactly the
+same number of CPUs as another job that runs hours (though for sure the `echo`
+job will probably just run on one CPU in reality and finish instantly).
+
+Another way to think of *imperative settings* is to think of them as *Slurm-job settings*, because they are applied to each Slurm job. It is a convenient way to specify the behaviour of all Slurm jobs, without having to go the level of individual Slurm rules.
 
 Commonly used imperative settings include:
 
@@ -166,9 +168,9 @@ instance of the rules specified in `Snakefile` and the resources available to al
 
 We can fine-tune the behaviour of Slurm at the level of individual rules in
 Snakemake or at the level of a Snakemake workflow. In case of workflow-level
-settings, we distinguish between imperative settings that apply to each running
-instances of the rules, and constraint settings that control the maximum
-resources consumed by parallel jobs submitted by Snakemake to Slurm.
+settings, we distinguish between *imperative settings* that apply to each Slurm
+job the same way,  and *constraint settings* that control the maximum resources
+consumed by parallel jobs submitted by Snakemake to Slurm.
 
 The great flexibility provided by Snakemake to work with diverse schedulers
 including Slurm is much appreciated. At the same time, it can be sometimes
