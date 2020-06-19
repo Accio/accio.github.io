@@ -15,7 +15,7 @@ multiplier test (or the score test), and the Wald test.
 
 The oldest is the [likelihood-ratio
 test](https://en.wikipedia.org/wiki/Likelihood-ratio_test), sometimes
-abbreviated as &lsduo;LQT&rsduo;. It compares the goodness of fit of two
+abbreviated as &lsquo;LQT&rsquo;. It compares the goodness of fit of two
 statistical models being considered by the ratio of their likelihoods, which is
 found either by maximization over the entire parameter space, or either by
 imposing certain constraints. The constraints, for instance, can be expressed as
