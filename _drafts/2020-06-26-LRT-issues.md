@@ -20,3 +20,5 @@ So Iakov implemented a simple heuristic. After ML for H0 and H1 are optimized:
 1. try to improve H0 ML from H1 ML estimate in the parameter space
 2. try to improve H1 ML from H0 ML estimate in the parameter space
 3. if 1 or 2 succeeded, goto 1.
+
+The code is available in the [godon](https://bitbucket.org/Davydov/godon/src/ff28c19a52864162342c0756577eb656999439f4/godon/hyptest.go#lines-202) package developed Iakov Davydov.
