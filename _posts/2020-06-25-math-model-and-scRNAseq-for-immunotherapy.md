@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mathematical modelling and single-cell RNA sequencing for cancer immunotherapy
-category: Bioinformatics
+category: MultiScaleModelling
 ---
 
 [Griffiths *et al.*](https://www.pnas.org/content/early/2020/06/19/1918937117)
