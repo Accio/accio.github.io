@@ -26,9 +26,10 @@ Scholar profile](https://scholar.google.com/citations?user=ths6zX0AAAAJ&hl=en) c
 
 ##### 2020
 
-36. Zaidan, M. *et al.* Signaling pathways predisposing to chronic kidney
-    disease progression. **JCI Insight** (2020)
-35. Badillo, S. *et al.* An Introduction to Machine Learning. **Clinical Pharmacology & Therapeutics** (2020).
+37. Gutbier, S. *et al.* [Large-Scale Production of Human iPSC-Derived Macrophages for Drug Screening](https://www.mdpi.com/1422-0067/21/13/4808). **International Journal of Molecular Sciences** (2020)
+36. Zaidan, M. *et al.* [Signaling pathways predisposing to chronic kidney
+    disease progression](https://insight.jci.org/articles/view/126183). **JCI Insight** (2020)
+35. Badillo, S. *et al.* [An Introduction to Machine Learning](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/cpt.1796). **Clinical Pharmacology & Therapeutics** (2020).
 
 ##### 2019
 34. Zhang, J. D., Sach-Peltason, L., Kramer, C., Wang, K. & Ebeling, M. Multiscale modelling of drug mechanism and safety. **Drug Discovery Today** (2019).
