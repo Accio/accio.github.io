@@ -3,6 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 author_profile: true
+mathjax: true
 ---
 
 My [Google
@@ -52,7 +53,7 @@ Scholar profile](https://scholar.google.com/citations?user=ths6zX0AAAAJ&hl=en) c
 
 ##### 2015
 23. Zhang, J. D., Küng, E., Boess, F., Certa, U. & Ebeling, M. Pathway reporter genes define molecular phenotypes of human cells. **BMC Genomics** 16, 342 (2015).
-22. Xu, J. *et al.* 14-3-3? turns TGF-ßs function from tumor suppressor to metastasis promoter in breast cancer by contextual changes of Smad partners from p53 to Gli2. **Cancer Cell** 27, 177--192 (2015).
+22. Xu, J. *et al.* 14-3-3$\zeta$ turns TGF-$\beta$'s function from tumor suppressor to metastasis promoter in breast cancer by contextual changes of Smad partners from p53 to Gli2. **Cancer Cell** 27, 177--192 (2015).
 21. van der Vries, E. *et al.* Outcomes and susceptibility to neuraminidase inhibitors in individuals infected with different influenza B lineages: the influenza resistance information study. **The Journal of Infectious Diseases** 213, 183--190 (2015).
 20. Moisan, A. *et al.* White-to-brown metabolic conversion of human adipocytes by JAK inhibition. **Nature Cell Biology** 17, 57--67 (2015).
 19. Lenz, N. *et al.* Antiviral Innate Immune Activation in HIV-Infected Adults Negatively Affects H1/IC31-Induced Vaccine-Specific Memory CD4+ T Cells. **Clinical and Vaccine Immunology** 22, 688--696 (2015).
@@ -62,7 +63,7 @@ Scholar profile](https://scholar.google.com/citations?user=ths6zX0AAAAJ&hl=en) c
 17. Zhang, J. D., Schindler, T., Küng, E., Ebeling, M. & Certa, U. Highly sensitive amplicon-based transcript quantification by semiconductor sequencing. **BMC Genomics** 15, 565 (2014).
 16. Zhang, J., Berntenis, N., Roth, A. & Ebeling, M. Data mining reveals a network of early-response genes as a consensus signature of drug-induced in vitro and in vivo toxicity. **The Pharmacogenomics Journal** 14, 208--216 (2014).
 15. Yuk, I. H. *et al.* Effects of copper on CHO cells: insights from gene expression analyses. **Biotechnology Progress** 30, 429--442 (2014).
-14. Rehman, S. K. *et al.* 14-3-3? Orchestrates Mammary Tumor Onset and Progression via miR-221--Mediated Cell Proliferation. **Cancer Research** 74, 363--373 (2014).
+14. Rehman, S. K. *et al.* 14-3-3$\zeta$ Orchestrates Mammary Tumor Onset and Progression via miR-221--Mediated Cell Proliferation. **Cancer Research** 74, 363--373 (2014).
 13. Raza, U., Zhang, J. D. & Sahin, Ö. MicroRNAs: master regulators of drug resistance, stemness, and metastasis. **Journal of Molecular Medicine** 92, 321--336 (2014).
 12. Aigner, S., Heckel, T., Zhang, J. D., Andreae, L. C. & Jagasia, R. Human pluripotent stem cell models of autism spectrum disorder: emerging frontiers, opportunities, and challenges towards neuronal networks in a dish. **Psychopharmacology** 231, 1089--1104 (2014).
 
@@ -81,7 +82,7 @@ Scholar profile](https://scholar.google.com/citations?user=ths6zX0AAAAJ&hl=en) c
 4. Zhang, J. D. *et al.* Time-resolved human kinome RNAi screen identifies a network regulating mitotic-events as early regulators of cell proliferation. **PLOS One** 6, e22176 (2011).
 
 ##### 2010
-3. Uhlmann, S. *et al.* miR-200bc/429 cluster targets PLC?1 and differentially regulates proliferation and EGF-driven invasion than miR-200a/141 in breast cancer. **Oncogene** 29, 4297--4306 (2010).
+3. Uhlmann, S. *et al.* miR-200bc/429 cluster targets PLC$\gamma$1 and differentially regulates proliferation and EGF-driven invasion than miR-200a/141 in breast cancer. **Oncogene** 29, 4297--4306 (2010).
 2. Haller, F. *et al.* Localization-and mutation-dependent microRNA (miRNA) expression signatures in gastrointestinal stromal tumours (GISTs), with a cluster of co-expressed miRNAs located at 14q32. 31. **The Journal of Pathology** 220, 71-86 (2010).
 
 ##### 2009
