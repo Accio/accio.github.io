@@ -103,3 +103,11 @@ datasets for antigen presentation and recognition.
 
 *Scipy* is an interesting tool to try if you want to analyse single-cell TCR
 sequencing data.
+
+*Update on 23.07.2020*: An opinion piece by [Gutierrez *et
+al.*](https://www.cell.com/trends/pharmacological-sciences/fulltext/S0165-6147(20)30130-9)
+is a good educational read about roles of T-cells in combating SARS-CoV-2
+infection and the necessity of TCR repertoire analysis is an interesting and
+educational read. It was also discussed by Derek Lowe in his blog [In The
+Pipeline](https://blogs.sciencemag.org/pipeline/archives/2020/07/07/more-on-t-cells-antibody-levels-and-our-ignorance).
+
