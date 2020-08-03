@@ -1,19 +1,21 @@
 ---
 layout: post
-title: >-
-    Industrial postdoc: benefits, considerations, and preparations
+title: Research postdoc in the pharmaceutical and life-science industry
 category: career
 mathjax: true
 tags: industrial postdoc
 ---
 
-Ten years ago, I joined the pharmaceutical and life-science industry to perform
-applied research after I got my PhD degree. Working as a computational biologist
-in drug discovery, I often get questions from students and junior researchers
-who are in their first postdoc position. The most frequent question that I get
-is &lsquo;*How does industrial research look like/compare with
-academia?*&rsquo;. It is only closely followed by the relevant question:
-&lsquo;*Would you recommend working in industry?*&rsquo;.
+* TOC
+{:toc}
+
+Ten years ago, I joined my company to perform applied research after I got my
+PhD degree. Working as a computational biologist in drug discovery, I often get
+questions from students and junior researchers who are in their first postdoc
+position. The most frequent question that I get is &lsquo;*How does industrial
+research look like/compare with academia?*&rsquo;. It is only closely followed
+by the relevant question: &lsquo;*Would you recommend working in
+industry?*&rsquo;.
 
 Both questions show that, despite huge investment in research and development by
 the pharmaceutical and life-science industry (some companies spend almost 20% of
@@ -23,25 +25,24 @@ surprising that when students and junior researchers weight their career
 options, they often leave out the option of pursuing a postdoc position in
 industrial research, or rank it behind other options, for instance pursuing a
 tenure track in academia, working for government or non-government
-organizations, or applying for a permanent position in industry (perhaps in the
-belief that such positions are more stable). The fact that there are much fewer
-industrial postdoc positions, in contrast with the abundance of academic postdoc
-positions (though individual experience may vary here), also contributes to the
-limited awareness about them.
+organizations, and aiming at a permanent position in industry. The fact that
+much fewer industrial postdoc positions are available, in contrast with the
+abundance of academic postdoc positions (though individual experience may vary
+here), also contributes to the limited awareness about them.
 
 I believe that it is worth doing a postdoc in industrial research, both
 professionally and personally. If you have the opportunity to work with a good
 mentor, in a supportive team, and in a company that respects and values
 research, it can be a rewarding step in your career.
 
-I gained this belief by working together with and learning from postdocs both in
-academia and in industry. They include my academic collaborators, postdocs in
-the company that I have either worked with or supervised, and researchers who
+I came to this conclusion by working with and learning from postdocs both in
+academia and in industry. They include academic collaborators, postdocs in the
+company that I have either worked with or supervised, and researchers who
 transitioned from academic postdoc positions to industry.
 
 These postdoc fellows shared both success stories and frustrations with me. They
 confided me with their experience, feelings, and thoughts, many of which are
-valuable for but barely accessible to other students and researchers. It is my
+valuable for but barely accessible to students and other researchers. It is my
 privilege to listen to and learn from so many enthusiastic, talented, and
 hard-working scientists. While great resources are available helping people make
 decisions between academia and industry, for instance the [*Ten Simple Rules for
@@ -56,28 +57,29 @@ put them down.
 # Benefits of doing a postdoc in industry
 
 There are many reasons speaking for doing a postdoc in industry. Below are the
-ones that I found appealing to most people that I know.
+ones that I found convincing and appealing to most people that I know.
 
 Let us start with your long-term goal. Can you imagine putting your scientific
-and personal knowledge and skills in an industrial setting, namely performing
-applied research to turn discoveries and knowledge into product and profit?
+and personal knowledge and skills in an industrial setting? That is, do you like
+the idea of performing applied research to turn discoveries and knowledge into
+product and profit?
 
-This question has a ethical aspect. While some people believe that science is
-useless unless it serves the benefit of the mankind, there are also people argue
-that the scientific ideal of objectivity and truth-seeking is eroded by the
-pursuit of profit.
+This question has an ethical dimension. While some people believe that science
+is useless unless it serves the benefit of the mankind, other people argue that
+the scientific ideal of objectivity and truth-seeking is eroded by the pursuit
+of profit.
 
 If you have thought about the question and your answer is &lsquo;Yes&rsquo;,
-doing a postdoc there is a good start. Compared with a permanent position, which
-cannot be permanent in reality because of reorganizations, acquisitions, and
-mergers, a postdoc position offers an opportunity to observe and try the working
+doing a postdoc in industry is a good start. Compared with a permanent position,
+which cannot be permanent in reality because of reorganizations, acquisitions,
+and mergers, a postdoc position offers an opportunity to experience the working
 conditions in industry without being bound to them for a long time. The
 competition to get the position is high, due to the limited job offering and the
 benefits that are discussed below, but the reward is correspondingly attractive.
-During the postdoc, you will enjoy both rich resources provided by the company ,
-including the latest technologies, invited talks, and visiting opportunities,
-and connections and collaborations with other researchers in the world. If you
-seize the chance to make discoveries that improve our understanding of human
+During the postdoc, you will enjoy both rich resources provided by the company,
+for instance the latest technologies and invited talks by top experts, and
+connections as well as collaborations with other researchers in the world. If
+you seize the chance to make discoveries that improve our understanding of human
 diseases and how drugs work (or not), you will have many doors open to you after
 the postdoc, including those positions that require &lsquo;industrial working
 experience&rsquo;, for which fresh PhD students and academic postdocs are
@@ -86,7 +88,7 @@ experience&rsquo;, for which fresh PhD students and academic postdocs are
 You may have long determined to apply your capacities in industry. Your decision
 may base on various considerations: better benefits in general, more direct
 impact of your work, more respect for work-life balance, less emphasis on grant
-application and paper writing and first-authorship (you can be a respectable
+application and paper writing and first-authorship (yes, you can be a respectable
 scientist without being a first-author), *etc.* A postdoc position offers a
 reality check: do the benefits match the working conditions? Is the expected
 impact realistic and reachable? Does the work-life balance meet your
@@ -126,10 +128,7 @@ questions that really matter, and come up with solutions that are more likely to
 be practical and impactful. The success of many academic scholars who have had
 industrial working experience demonstrates that.
 
-It is not to say that postdocs in academia are not informed about related
-fields. In contrast, quite a few interesting academic postdoc projects that I
-know are in fact the result of interdisciplinary collaboration. The major
-difference between industry and academia lies in the incentives: while
+The major difference between industry and academia lies in the incentives: while
 industrial research puts investment return at the first place and therefore
 values practical, applicable innovations that may turn into revenue and profit,
 academic research is sometimes deemed as 'pure', driven primarily by curiosity
@@ -160,33 +159,24 @@ benefits.
 
 A postdoc position in industry demands more than excellence in your own field.
 It requires that you communicate with experts of other fields and even influence
-them. The primary goal is not confined to publishing papers (which are
-nevertheless often desired) or to getting grants (probably rarely so). You are
-expected to deliver convincing work that inspire others: scientists, managers,
-and even investors. Are you a computational biologist? You do not stop when you
-develop a new algorithm or model to explain things. You strive to make
-predictions that wet-lab biologists and chemists can test. Are you a biologist?
-Your goal extends beyond describing and explaining what you observe. You put
-them into the disease context and suggest new therapies. And so on. In short,
-your work is judged not only by novelty, but also by applicability: does it
-work? Does it improve the way how we discover new drugs? Can we make better
-decisions about what patients need next than we could have done without your
-research?
+them. The primary goal is not confined to publishing papers (which is
+nevertheless often desired) or to getting grants (rarely so). You are expected
+to deliver convincing work that inspire others: scientists, managers, and even
+investors. Are you a computational scientist? You do not stop when you develop a
+new algorithm or model to explain things. You strive to make predictions that
+wet-lab biologists and chemists can test. Are you a wet-lab scientist? Your goal
+extends beyond describing and explaining what you observe. You put them into the
+disease context and suggest new therapies. And so on. In short, your work is
+judged not only by novelty, but also by universal applicability: does your
+method work? Is it robust? Does it improve the way how we discover new drugs?
+Can we make better decisions about what patients need next than we could have
+done without your research?
 
 In short, your duty as a industrial research postdoc is to communicate and
 collaborate to bring a research idea into life, which shall create products and
-value in the coming months or years. You take a professional attitude and put
-personal interests behind a common goal. It can be quite a challenge, especially
-for graduate students that are trained to work in a different way.
-
-Again, this does imply that academic postdocs are narrowly or blindly focused on
-their own fields of research. Quite on the opposite, I personally know
-outstanding postdocs that outreach and collaborate beyond boundaries, who have
-made a great impact both within and beyond their fields. I have little doubt
-that many of them would do a great job in industry as well if they wish so and
-if they are given the chance. In case you are new to interdisciplinary teamwork,
-though, I wish to state the responsibility of an industrial postdoc explicitly
-so that you are prepared.
+value in the coming months or years. You must take a professional attitude and
+put personal interests behind a common goal. It can be quite a challenge,
+especially for graduate students that are trained to work in a different way.
 
 Working in interdisciplinary teams may lead you to ask yourself: what is the
 point of going so deep in my field? Some people may answer: well, not that much.
@@ -195,49 +185,54 @@ people will instead learn from the interactions exactly why their research is
 important, and get motivated to dive deeper. Yet other people will spot the
 needs and gaps on the interfaces between disciplines, develop new techniques and
 skills, and even create new research areas - these people often become giants in
-the field. Learning how to constantly learn and apply new things, how to solve
-complex problems under practical constraints such as time and budget, and how to
-being both an respectable scientist and a team player is utterly important for a
+the field.
+
+Learning how to constantly learn and apply new things, how to solve complex
+problems under practical constraints such as time and budget, and how to being
+both an respectable scientist and a team player is utterly important for a
 postdoc in industry. If you take the challenge seriously, you may constantly
 review your work critically and ask yourself: does my research matter? How can I
 make it matter even more? By asking these questions and searching for answers, I
-guess we may become better people and better scientists.
+guess we may become better scientists and better people.
 
-Besides scientific work, there is a social aspect of doing a postdoc in
-industry. In fields relevant for the pharmaceutical and life-science industry,
-for instance chemistry and biology, far more researchers perform their postdoc
-research in academia than in industry. This may make it difficult for industrial
-postdocs to exchange experience and perspectives, both personal and scientific,
-with other fellows. Luckily, though, there are more and more communities for
-postdocs and other junior researchers inside and between companies nowadays, so
-that an industrial postdoc does not mean working in isolation. Nevertheless,
-more can be done to promote exchange between industrial and academic postdocs.
-The exchange is not only beneficial for science, but also important for the
-mental health and personal development of postdoc researchers.
+Besides scientific work, there are structural and social aspects of doing a
+postdoc in industry. During the postdoc, changes may happen to the project or to
+the team.  For instance, if a postdoc project studies a particular product and
+the company lost its interest in it after the project started, the project may
+be stopped. Alternatively, in case of reorganization events, the project may also be
+phased out. It is wise to consider these risks before the project starts and
+implement countermeasures, for instance setting up a project that will
+eventually benefit several projects, and defining a plan B in case of structural
+changes.
 
-During the postdoc, changes may happen to the project or to the team.
-For instance, if the postdoc project was closely linked with a particular
-product and the company lost its interest in the product, the postdoc faces the
-danger of not able to proceed his project. Alternatively, if the organization
-in which the supervisor and the postdoc are working in is restructured, the
-continuation of the project may face practical challenges. It is wise to
-consider these risks before the project starts and implement countermeasures,
-for instance setting up a project that will eventually benefit several projects,
-and defining a plan B in case of reorganization events.
+Besides a stable environment, a postdoc researcher needs to exchange with other
+fellows. The exchange is necessary for people to keep their mental health and
+grow and for science to thrive. Unfortunately, far more researchers perform
+their postdoc research in academia than in industry. And the communication
+between postdocs in academic and in industry is restrained by legal and
+intellectual property considerations, and by spatial and organizational
+separations. This may make it difficult for industrial postdocs to exchange
+experience and perspectives, both personal and scientific, with other fellows.
+Luckily, though, there are more and more communities for postdocs and other
+junior researchers inside and between companies nowadays, so that an industrial
+postdoc does not mean working in isolation. Nevertheless, more can be done to
+promote exchange between industrial and academic postdocs.
 
-Though in general industrial postdocs have bright outlooks, it is a
-dangerous thought to think of a postdoc contract as a ticket to permanent
-employment in the same company. Past experience suggests that while all postdocs
-find jobs when they finish, only a small proportion stay. The postdoc is
-probably best imagined as a room where you as a kid can are free to create,
-experiment, and invite friends to play together. The room can be turned into a
-gallery when you leave. Is is not a cradle in which you as an infant feel safe,
-seek comfort, and fall asleep. The bitterness awaits when you wake up.
+
+Though industrial postdocs have bright outlooks in general, it is a dangerous
+thought to think of a postdoc contract as a ticket to permanent employment in
+the same company. Past experience suggests that while all postdocs find jobs
+when they finish, only a small proportion stay. The postdoc is probably best
+imagined as a room where you the kid are free to create, experiment, and invite
+friends over. The room can be turned into a gallery or otherwise reused when you
+leave home. It may be alluring to imagine it as a cradle in which you the infant
+seek comfort, feel safe, and fall asleep. The bitterness awaits when you wake
+up.
 
 Since we are discussing the perspective: I have met students who worry that
 their experience in industry may bring them unpleasant questions in future job
-interviews, in case they return to academia later - &lsquo;Did you decide to
-join industry? Why do you now come back?&rsquo;. I think there are two aspects
+interviews, in case they return to academia later - &lsquo;*Did you decide to
+join industry? Why do you now come back?*&rsquo;. I think there are two aspects
 here. In many cases, people are just curious - after all, many interviewers are
 also scientists like us, who are at least defined by their curiosity. Some
 students worry that the questions are not free of a scrutinizing undertone. I do
@@ -246,7 +241,7 @@ welcome anywhere, whether she or he has stayed in academia or has switched
 between the sides.
 
 In industry, you will likely communicate and collaborate. You will be challenged
-by yourself and the environment a lot. Consider it well before you decide for a
+by yourself and by the environment a lot. Consider it well before you decide for a
 postdoc there.
 
 # Preparations once you have made up your mind
@@ -254,26 +249,25 @@ postdoc there.
 When there is a job vacancy and you consider applying for it, make sure that you
 have a clearly defined research project and a respectable supervisor. An ideal
 research project have three properties: it addresses the most important question
-in your field (&lsquo;what are the important problems in your field, and why
-aren't you working on them?&rsquo;, often asks the mathematician Richard
-Hamming), you resonate with it and believe that you can contribute to solving it
+in your field (&lsquo;*What are the important problems in your field, and why
+aren't you working on them?*&rsquo;, so would the mathematician Richard Hamming
+ask), you resonate with it and believe that you can contribute to solving it
 with your unique expertise and experience, and it can be executed with the
-dedicated resources. If case of any doubt and ambiguity about any of these
-properties, make sure that you understand the last detail before you apply.
+dedicated resources. If case of any doubt and ambiguity about them, try all you
+can do to understand the last detail before you apply.
 
 Your supervisor is ideally a competent scientist that is recognized both inside
 the company and in the scientific community. Beyond that, the importance of a
-caring supervisor who respects your ideas, gives you the freedom to execute the
-project, and supports your development cannot be overestimated. Sometimes, an
-industrial postdoc can have more than one supervisors, including academic
-co-supervisors. Make sure that you talk with them and try to understand what
-motivates them. To an extent, choosing the right people to work with is more
-important than where those people work, let it be industry or academia.
+caring supervisor who respects your ideas, gives you freedom, and supports your
+development cannot be overestimated. Sometimes, an industrial postdoc can have
+more than one supervisor or have academic co-supervisors. Make sure that you
+talk with them and try to understand what motivates them. To an extent, choosing
+the right people to work with is more important than where those people work,
+let it be industry or academia.
 
-The same process of talking with and learning from people can be done for the
-team you will be in, especially those you will interact with. A mutual
-fit will increase both the likelihood of success of your postdoc project and the
-life satisfaction of you and team members.
+The same process of talking with and learning from people can be done for other
+people with whom you will interact. A mutual fit will increase both the
+likelihood of success of your postdoc project and the overall life satisfaction.
 
 Because the positions are limited and there are usually many outstanding
 candidates with matching profiles, it can happen that your application is
@@ -281,17 +275,17 @@ rejected. Do not take this personal. Ask for feedback and suggestions if
 possible.
 
 Let us suppose that you have convinced the recruiting team, received an offer,
-and you are determined to take the industrial postdoc job. How to prepare for
-it? You can get a mental picture of the work ahead by talking with your future
-supervisor(s) and team members and asking them questions. The questions can be
-about the project. For instance, what is the expected outcome in terms of
-publications, patents, *etc.*? Are there past experience and existing solutions
-in your or another team that can help with some part of the project? Where do
-they foresee the applications of the outcome? The questions can also be about
-personal and career development: what training opportunities does the company
-offer? Is there an ombudsman or ombudswoman whom you can turn to in case of
-conflicts? What are the possibilities after the postdoc? Do not be shy to ask
-questions. People were in your shoes not so long ago.
+and you are determined to take job. How to prepare for it? You can get a mental
+picture of the work ahead by talking with your future supervisor(s) and team
+members and asking them questions. The questions can be about the project. For
+instance, what is the expected outcome in terms of publications, patents,
+*etc.*? Are there past experience and existing solutions in your or another team
+that can help with some part of the project? Where do they foresee the
+applications of the outcome? The questions can also be about personal and career
+development: what training opportunities does the company offer? Is there an
+ombudsman or ombudswoman whom you can turn to in case of conflicts? What are the
+possibilities after the postdoc? Do not be shy to ask questions. People were in
+your shoes not so long ago.
 
 Be prepared to keep asking questions and upholding communications with your
 colleagues after you enter the job. It helps to orient yourself and to
@@ -304,29 +298,27 @@ spreading the word to others who may need help.
 
 It is important to strike a balance between being focused and looking one step
 ahead. On the one hand, you must focus on your postdoc project and deliver
-within defined time and budget new insights and tools. On the other hand, it is
-wise to cast a plan for the post-postdoc time, regularly review it, and adjust
-it accordingly: Are you on the right track with regard to publications,
-networking, *etc.*? What skills do you have to learn to make your next step
-feasible? Admittedly, it is challenging to keep the balance well all the time.
-It becomes easier with exercise. Self-reflections and exchange with the
-supervisor or a caring team member make quite a difference, too. Do not worry if
-you struggle to find the balance: we all have to learn it all life long.
+results within defined time and budget. On the other hand, it is wise to cast a
+plan for the post-postdoc time, regularly review it, and adjust it accordingly:
+Are you on the right track with regard to publications, networking, *etc.*? What
+skills do you have to learn to make your next step feasible? Admittedly, it is
+challenging to keep the balance well all the time.  It becomes less painful with
+exercise. Self-reflections and exchange with the supervisor or a caring team
+member make quite a difference, too. Do not worry if you struggle to find the
+balance: we all have to learn it all life long.
 
-Last but not least, joining industry does not mean cutting your relationship
-with academia. It is helpful to stay in touch with your peers, mentors, and
-collaborators both personally and professionally. If you wish and if your
-current supervisor and colleagues like it, you can discuss your future plans
-with them. They may share new insights with you based on their own experience.
-You may even continue collaborating with them while being a postdoc in the
-company, depending on the needs of the project and on policies of the company
-and of the academic institute. As the Chinese put it, do not burn the bridge.
-Build it instead.
+Finally, joining industry does not mean cutting your relationship with academia.
+It is helpful to stay in touch with your peers, mentors, and collaborators both
+personally and professionally. If you wish and if your current supervisor and
+colleagues like it, you can discuss your future plans with them. They may bring
+you new insights.  You may even end up collaborating with them while being a
+postdoc in the company or even after that. As the Chinese put it, do not burn
+the bridge.  Build it instead.
 
 Finding the right project and the right supervisor, asking questions, balancing
 focus and perspective, and keeping academic relations, alas, do not guarantee a
-perfect start in your industrial postdoc position. Nevertheless, they may
-make the transition and start easier.
+perfect start in your industrial postdoc position. I hope, however, that they
+help you survive the transition with fewer surprises.
 
 # How should I decide on whether or not working as an industrial postdoc?
 
@@ -345,8 +337,9 @@ and success with your decision!
 postdocs and friends, for their input. I thank many extraordinary mentors that I
 have had, in particular Clemens Broger ($^\dagger 2017$), Martin Ebeling, Ulrich
 Certa, Manfred Kansy, and Fabian Birzele. I also thank Milad Adibi, Roland
-Schmucki, Gregor Sturm, Tony Kam-Thong, and Diana Marek for criticism and
-feedback. I thank the members of the Bioinformatics and Exploratory Data
-Analysis team for their help, support, and feedback.*
+Schmucki, Gregor Sturm, Tony Kam-Thong, Diana Marek, Ekaterina Breous-Nystrom,
+and Petar Scepanovic for criticism and feedback. I thank the members of the
+Bioinformatics and Exploratory Data Analysis team for their help, support, and
+feedback.*
 
 *The assay states my personal opinions, not those of F. Hoffmann-La Roche Ltd.*
