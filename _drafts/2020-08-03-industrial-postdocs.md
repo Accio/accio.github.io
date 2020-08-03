@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research postdoc in the pharmaceutical and life-science industry
+title: Industrial postdoc: benefits, precautions, and preparations
 category: career
 mathjax: true
 tags: industrial postdoc
@@ -320,7 +320,7 @@ focus and perspective, and keeping academic relations, alas, do not guarantee a
 perfect start in your industrial postdoc position. I hope, however, that they
 help you survive the transition with fewer surprises.
 
-# How should I decide on whether or not working as an industrial postdoc?
+# Conclusions, or, how should I decide?
 
 You are welcome to use the list of considerations above to inform your decision.
 Gather more information by talking with family members and friends about your
