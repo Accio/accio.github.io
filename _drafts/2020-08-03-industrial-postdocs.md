@@ -9,30 +9,35 @@ tags: industrial postdoc
 * TOC
 {:toc}
 
-Ten years ago, I joined my company to perform applied research after I got my
-PhD degree. Working as a computational biologist in drug discovery, I often get
-questions from students and junior researchers who are in their first postdoc
-position. The most frequent question that I get is &lsquo;*How does industrial
-research look like/compare with academia?*&rsquo;. It is only closely followed
-by the relevant question: &lsquo;*Would you recommend working in
-industry?*&rsquo;.
+Ten years ago, after getting my PhD, I joined my company to perform applied
+research, working as a computational biologist in drug discovery. Since then I
+often get questions from both students and junior researchers in their first
+postdoc position. The most frequent one, if we exclude the ones asking about my
+salaries explicitly or implicitly, is &lsquo;*How does industrial research look
+like/compare with academia?*&rsquo;. It is only closely followed by the relevant
+question: &lsquo;*Would you recommend working in industry?*&rsquo;. Because my
+company and many other pharmaceutical and life-science companies offer temporary
+(mostly two-year) postdoc programs, the second question is sometimes more
+concrete: &lsquo;*What are the pros and cons of working as an industrial
+postdoc?*&rsquo;
 
-Both questions show that, despite huge investment in research and development by
-the pharmaceutical and life-science industry (some companies spend almost 20% of
-their income), industrial research remains mysterious for students and junior
+These questions show that, despite huge investment in research and development
+by the pharmaceutical and life-science industry (some companies spend almost 20%
+of their income), industrial research remains mysterious for students and junior
 researchers (and probably even more so for the public). It is therefore not
 surprising that when students and junior researchers weight their career
-options, they often leave out the option of pursuing a postdoc position in
-industrial research, or rank it behind other options, for instance pursuing a
-tenure track in academia, working for government or non-government
-organizations, and aiming at a permanent position in industry. The fact that
-much fewer industrial postdoc positions are available, in contrast with the
-abundance of academic postdoc positions (though individual experience may vary
-here), also contributes to the limited awareness about them.
+options, they are often not aware of the option of pursuing a postdoc position
+in industry. Even they know about this possibility, they may rank it behind
+other options, for instance pursuing a tenure track in academia, working for
+government or non-government organizations, or applying for a permanent position
+in industry. The fact that much fewer industrial postdoc positions are
+available, in contrast with the abundance of academic postdoc positions (though
+individual experience may vary here), also contributes to the limited awareness
+about them.
 
 I believe that it is worth doing a postdoc in industrial research, both
 professionally and personally. If you have the opportunity to work with a good
-mentor, in a supportive team, and in a company that respects and values
+supervisor, in a supportive team, and in a company that respects and values
 research, it can be a rewarding step in your career.
 
 I came to this conclusion by working with and learning from postdocs both in
@@ -47,10 +52,9 @@ privilege to listen to and learn from so many enthusiastic, talented, and
 hard-working scientists. While great resources are available helping people make
 decisions between academia and industry, for instance the [*Ten Simple Rules for
 Choosing between Industry and
-Academia*](https://doi.org/10.1371/journal.pcbi.1000388) by David B. Searls
-(*PLOS Computational Biology*, 5(6), 2009), a dedicated discussion about
+Academia*](https://doi.org/10.1371/journal.pcbi.1000388)[^1], a dedicated discussion about
 industrial postdoc positions, particularly in the pharmaceutical and
-life-science industry, has been missing in public forums. Therefore, I feel
+life-science industry, has been missing in public forums[^2]. Therefore, I feel
 obliged to synthesize my thoughts with many peoples' inputs on this topic and
 put them down.
 
@@ -343,3 +347,9 @@ Bioinformatics and Exploratory Data Analysis team for their help, support, and
 feedback.*
 
 *The assay states my personal opinions, not those of F. Hoffmann-La Roche Ltd.*
+
+[^1]: David B. Searls, *PLOS Computational Biology*, 5(6), 2009
+[^2]: A blog post by Derek Lowe, [Do Industrial Post-Doc Positions
+Work?](https://blogs.sciencemag.org/pipeline/archives/2012/05/14/do_industrial_postdoc_positions_work)
+(last accessed on 2020.08.04), started discussions among the readers of his blog
+*In the pipeline*. A systematic analysis is nevertheless still missing.
