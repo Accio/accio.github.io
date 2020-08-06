@@ -16,17 +16,29 @@ Scholar profile](https://scholar.google.com/citations?user=ths6zX0AAAAJ&hl=en) c
 
 #### Book chapters
 
-1. Edited by Adetayo Kasim, S. H., Ziv Shkedy, Sebastian Kaiser & Talloen, W. Applied Biclustering Methods for Big and High-Dimensional Data Using R (Chapman & Hall/CRC Biostatistics Series). (2016).
+1. Edited by Adetayo Kasim, S. H., Ziv Shkedy, Sebastian Kaiser & Talloen, W.
+   Applied Biclustering Methods for Big and High-Dimensional Data Using R
+   (Chapman & Hall/CRC Biostatistics Series). Chapman and Hall/CRC (2016).
+   ([Publisher's
+   Link](https://www.routledge.com/Applied-Biclustering-Methods-for-Big-and-High-Dimensional-Data-Using-R/Kasim-Shkedy-Kaiser-Hochreiter-Talloen/p/book/9781482208238),
+   [Amazon](https://www.amazon.com/Applied-Biclustering-Methods-High-Dimensional-Biostatistics/dp/1482208237)).
 
 #### Preprints
 
-1. Gatti, L. *et al.* Cross-reactive immunity drives global oscillation and opposed alternation patterns of seasonal influenza A viruses. bioRxiv 226613 (2017).
-2. Fang, T., Davydov, I., Marbach, D. & Zhang, J. D. Gene-set enrichment with regularized regression. BioRxiv 659920 (2019).
+1. Gatti, L. *et al.* [Cross-reactive immunity drives global oscillation and
+   opposed alternation patterns of seasonal influenza A
+   viruses](https://www.biorxiv.org/content/10.1101/226613v1). bioRxiv 226613 (2017).
+2. Fang, T., Davydov, I., Marbach, D. & Zhang, J. D. [Gene-set enrichment with
+   regularized regression](https://www.biorxiv.org/content/10.1101/659920v2). BioRxiv 659920 (2019).
 
 #### Peer-reviewed publications
 
 ##### 2020
 
+38. Roudnicky, F. *et al.* [Inducers of the endothelial cell barrier identified
+    through chemogenomic screening in genome-edited hPSC-endothelial
+    cells](https://www.pnas.org/content/early/2020/08/04/1911532117).
+    **Proceedings of the National Academy of Sciences** (2020)
 37. Gutbier, S. *et al.* [Large-Scale Production of Human iPSC-Derived Macrophages for Drug Screening](https://www.mdpi.com/1422-0067/21/13/4808). **International Journal of Molecular Sciences** (2020)
 36. Zaidan, M. *et al.* [Signaling pathways predisposing to chronic kidney
     disease progression](https://insight.jci.org/articles/view/126183). **JCI Insight** (2020)
