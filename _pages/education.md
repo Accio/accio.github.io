@@ -50,7 +50,7 @@ request.
 
 ### 2021
 
-1. *Working Fields in Pharmaceutical Industry*, the Graduate Program of
+1. *Working Fields in Pharmaceutical Industry*, the Graduate School of
    Pharmacy, University of Freiburg, Germany. (Planned)
 
 ### 2019
