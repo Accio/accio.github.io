@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Postdoc in Pharma: Pros, Precautions, and Preparations
+title: >-
+  Postdoc in Pharma: Pros, Precautions, and Preparations
 category: career
 mathjax: true
 tags: industrial postdoc
