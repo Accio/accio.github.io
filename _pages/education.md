@@ -5,8 +5,7 @@ permalink: /education
 author_profile: true
 ---
 
-I am committed to continuous learning and to knowledge sharing in my
-professional and private life.
+I am committed to both continuous learning and knowledge sharing.
 
 * TOC
 {:toc}
@@ -30,27 +29,48 @@ In the spring semester, I teach one lecture of the course series *From Novel
 Targets to Novel Therapeutics* on topics of computational biology and multiscale
 modelling at the Department of Pharmacy, University of Basel.
 
-## Supervising junior researchers
+## Supervising students and junior researchers
 
 I work regularly with junior researchers, including bachelor, master and PhD
-students as well as postdoc researchers. My responsibility includes supervision
-of short-internship up to six months, mentoring of project, thesis, and career
-development, and teamwork in field of computational biology and its application
-in drug discovery.
+students as well as postdoc researchers. My responsibility includes
 
-In addition, I exchange with informatics apprentices and high-school students by
-introducing the field of bioinformatics and computational biology to them and by
-organising short internships up to three weeks.
+* supervision of internships,
+* mentoring projects and thesis,
+* consulting personal and professional development,
+* organizing teamwork in computational biology and its application in drug discovery.
+
+Furthermore, I give talks to informatics apprentices and high-school students to
+introduce them computational biology and applied mathematics and informatics in
+drug discovery. I also help organising internships.
 
 References of supervised students and postdoc researchers are available upon
 request.
 
 ## Public talks
 
-1. *Multiscale Modelling of Preclinical Drug Safety*, OpenTox Swiss Chapter
-   Meeting, Basel, 2019
-  * [Speaker profile on the meeting's website](https://opentox.net/Jitao-David-Zhang)
-  * [Presentation slides]({{ site.url }}/assets/pdf/OpenTox-2019-multiscale-modelling-zhangj83-forWebsite.pdf)
-1. *Bioinformatics and exploratory data analysis in drug discovery: an
-   industrial perspective*, ISMB/ECCB 2019, Basel
+### 2021
 
+1. *Working Fields in Pharmaceutical Industry*, the Graduate Program of
+   Pharmacy, University of Freiburg, Germany. (Planned)
+
+### 2019
+
+1. OpenTox Swiss Chapter Meeting, Basel, Switzerland.
+  * [Speaker profile on the meeting's
+    website](https://opentox.net/Jitao-David-Zhang)
+  * Presentation slides: [Multiscale Modelling of Preclinical Drug Safety]({{ site.url
+    }}/assets/pdf/OpenTox-2019-multiscale-modelling-zhangj83-forWebsite.pdf)
+1. ISMB/ECCB 2019, Basel, Swizterland.
+   * *Bioinformatics and exploratory data analysis in drug discovery: an
+   industrial perspective*
+2. Workshop *Insight China*, University of Applied Sciences and Arts Northwestern
+   Switzerland (FHNW), Liestal, Switzerland.
+   * Presentation slides: [Drug Discovery, Roche, and China: Some Personal
+     Reflections](https://accio.github.io/assets/pdf/DrugDiscovery-Roche-China-JitaoDavidZhang-Feb2019-FHNW-final-animationSplit.pdf)
+
+### 2018
+
+1. Perlen-Kolloquium, University of Basel, Switzerland.
+   * [Event webpage](https://dmi.unibas.ch/de/aktuelles/vergangene-veranstaltungen/detail/news/perlen-kolloquium-dr-jitao-david-zhang-f-hoffmann-la-roche-ag-basel/)
+   * Presentation
+     slides: [Mathematics in drug discovery: a practitioner’s view](https://dmi.unibas.ch/fileadmin/user_upload/dmi/Forschung/Mathematik/Perlenkolloquium/colloquium-zhang-20181009-slides.pdf)
