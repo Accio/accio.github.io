@@ -14,7 +14,7 @@ prepare for them.
 * TOC
 {:toc}
 
-## Introduction
+# Introduction
 
 Ten years ago, after finishing the PhD study, I joined my company to work as a
 computational biologist in drug discovery. Since then I often get questions from
