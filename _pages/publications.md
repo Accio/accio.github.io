@@ -27,9 +27,11 @@ Scholar profile](https://scholar.google.com/citations?user=ths6zX0AAAAJ&hl=en) c
 
 1. Gatti, L. *et al.* [Cross-reactive immunity drives global oscillation and
    opposed alternation patterns of seasonal influenza A
-   viruses](https://www.biorxiv.org/content/10.1101/226613v1). bioRxiv 226613 (2017).
+   viruses](https://www.biorxiv.org/content/10.1101/226613v1) (2017).
 2. Fang, T., Davydov, I., Marbach, D. & Zhang, J. D. [Gene-set enrichment with
-   regularized regression](https://www.biorxiv.org/content/10.1101/659920v2). BioRxiv 659920 (2019).
+   regularized regression](https://www.biorxiv.org/content/10.1101/659920v2) (2019).
+3. Mädler, S. *et al.*
+   [Besca, a single-cell transcriptomics analysis toolkit to accelerate translational research](https://www.biorxiv.org/content/10.1101/2020.08.11.245795v2) (2020).
 
 #### Peer-reviewed publications
 
