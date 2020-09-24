@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bioinformatics approaches to understanding the MoA of a compound
-category: drug-discovery
+category: DrugDiscovery
 ---
 
 In March 2019, I was invited by Dr. Adrian Roth to give a lecture about bioinformatics approaches to understanding the MoA of a compound to master students of pharmacy in the course series of *From Novel Targets To Novel Therapeutic Modalities* at the University of Basel.

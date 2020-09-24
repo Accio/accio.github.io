@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Molecular Phenotyping in Drug Discovery
-category: drug-discovery
+category: DrugDiscovery
 tags: 
 - molecular phenotyping
 ---

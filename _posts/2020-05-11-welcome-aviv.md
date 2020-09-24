@@ -2,7 +2,7 @@
 layout: post
 title: >-
     Welcome, Aviv Regev!
-category: drug-discovery
+category: DrugDiscovery
 ---
 
 Aviv Regev is joining Roche as the head of Genentech Research and Early
