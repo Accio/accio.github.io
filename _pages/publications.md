@@ -37,6 +37,8 @@ Scholar profile](https://scholar.google.com/citations?user=ths6zX0AAAAJ&hl=en) c
 
 ##### 2020
 
+39. Jaklin, *et al.* [Focus on germ-layer markers: A human stem cell-based model for in vitro teratogenicity testing](https://doi.org/10.1016/j.reprotox.2020.10.011).
+    **Reproductive Toxicology** (2020)
 38. Roudnicky, F. *et al.* [Inducers of the endothelial cell barrier identified
     through chemogenomic screening in genome-edited hPSC-endothelial
     cells](https://www.pnas.org/content/early/2020/08/04/1911532117).
