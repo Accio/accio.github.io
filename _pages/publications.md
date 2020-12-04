@@ -32,6 +32,8 @@ Scholar profile](https://scholar.google.com/citations?user=ths6zX0AAAAJ&hl=en) c
    regularized regression](https://www.biorxiv.org/content/10.1101/659920v2) (2019).
 3. Mädler, S. *et al.*
    [Besca, a single-cell transcriptomics analysis toolkit to accelerate translational research](https://www.biorxiv.org/content/10.1101/2020.08.11.245795v2) (2020).
+4. Sturm, G. *et al.* [Tissue heterogeneity is prevalent in gene expression
+   studies](https://www.biorxiv.org/content/10.1101/2020.12.02.407809v1) (2020).
 
 #### Peer-reviewed publications
 
