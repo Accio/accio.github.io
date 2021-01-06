@@ -14,7 +14,7 @@ To achieve this, I synthesize biological knowledge, mathematical and statistical
 thinking, and computational tools into multiscale-modelling approaches.
 
 I collaborate both internally at Roche and externally with academic and
-industrial partners. Results of our research are shared in [open-access
+industrial partners. We share the results in [open-access
 papers]({{site.url}}/publications) and by [open-source
 software]({{site.url}}/software).
 
