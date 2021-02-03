@@ -37,6 +37,13 @@ Scholar profile](https://scholar.google.com/citations?user=ths6zX0AAAAJ&hl=en) c
 
 #### Peer-reviewed publications
 
+##### 2021
+
+40. Reich, *et al.* [Alzheimer’s Risk Gene TREM2 Determines Functional
+    Properties of New Type of Human iPSC-Derived
+    Microglia](https://www.frontiersin.org/articles/10.3389/fimmu.2020.617860/full).
+    **Frontiers in Immunology** (2021)
+
 ##### 2020
 
 39. Jaklin, *et al.* [Focus on germ-layer markers: A human stem cell-based model for in vitro teratogenicity testing](https://doi.org/10.1016/j.reprotox.2020.10.011).
