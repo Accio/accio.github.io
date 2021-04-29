@@ -34,11 +34,17 @@ Scholar profile](https://scholar.google.com/citations?user=ths6zX0AAAAJ&hl=en) c
    [Besca, a single-cell transcriptomics analysis toolkit to accelerate translational research](https://www.biorxiv.org/content/10.1101/2020.08.11.245795v2) (2020).
 4. Sturm, G. *et al.* [Tissue heterogeneity is prevalent in gene expression
    studies](https://www.biorxiv.org/content/10.1101/2020.12.02.407809v1) (2020).
+5. Zhang, Y. *et al.* [A Novel, Anatomy-Similar in Vitro Model of 3D Airway
+   Epithelial for Anti-Coronavirus Drug
+   Discovery](https://doi.org/10.1101/2021.03.03.433824) (2021)
+
 
 #### Peer-reviewed publications
 
 ##### 2021
 
+41. Zhang, JD [Ten Simple Rules for Doing A Postdoc In Pharma](http://doi.org/10.1371/journal.pcbi.1008989), **PLOS
+    Computational Biology** (2021), Accepted
 40. Reich, *et al.* [Alzheimer’s Risk Gene TREM2 Determines Functional
     Properties of New Type of Human iPSC-Derived
     Microglia](https://www.frontiersin.org/articles/10.3389/fimmu.2020.617860/full).
