@@ -43,8 +43,9 @@ Scholar profile](https://scholar.google.com/citations?user=ths6zX0AAAAJ&hl=en) c
 
 ##### 2021
 
-41. Zhang, J. D. Ten Simple Rules for Doing A Postdoc In Pharma, **PLOS
-    Computational Biology** (2021), Accepted
+41. Zhang, J. D. [Ten Simple Rules for Doing A Postdoc In
+    Pharma](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008989), **PLOS
+    Computational Biology** (2021)
 40. Reich, *et al.* [Alzheimer’s Risk Gene TREM2 Determines Functional
     Properties of New Type of Human iPSC-Derived
     Microglia](https://www.frontiersin.org/articles/10.3389/fimmu.2020.617860/full).
