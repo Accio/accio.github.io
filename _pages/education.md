@@ -56,6 +56,10 @@ drug discovery. I also help organising internships.
 References of supervised students and postdoc researchers are available upon
 request.
 
+If you consider doing a postdoc in Pharma, these [Ten Simple
+Rules](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008989)
+might be useful.
+
 ## Public talks
 
 ### 2021
