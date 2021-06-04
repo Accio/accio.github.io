@@ -12,20 +12,30 @@ I am committed to both continuous learning and knowledge sharing.
 
 ## Teaching
 
+Teaching is my personal engagement. I thank the great support and input from
+colleagues at Roche, colleagues at the Department of Mathematics and Computer
+Science and the Department of Pharmacy, University of Basel, and students who
+take the courses.
+
 ### Applied Mathematics and Informatics in Drug Discovery
 
-In the autumn semester, I teach a undergraduate-level course series, *Applied
+In autumn semesters, I teach a undergraduate-level course series, *Applied
 Mathematics and Informatics in Drug Discovery*, at the Department of Mathematics
-and Computer Science, University of Basel. It is given in my free time, and I
-get great support from both Roche colleagues, colleagues at the University of
-Basel, as well as the students.
+and Computer Science, University of Basel.
 
 Check out the material of *Applied Mathematics and Informatics In Drug
 Discovery* on its website [AMIDD.ch](http://amidd.ch).
 
+### Mathematical and Computational Biology in Drug Discovery
+
+In spring semesters, I teach an advanced course series, *Mathematical and
+Computational Biology in Drug Discovery* as a follow-up course of *Applied
+Mathematics and Informatics in Drug Discovery*. Its material can be found on the
+course's website [MCBDD.ch](http://mcbdd.ch).
+
 ### From Novel Targets To Novel Therapeutics
 
-In the spring semester, I teach one lecture of the course series *From Novel
+In spring semesters, I teach one lecture of the course series *From Novel
 Targets to Novel Therapeutics* on topics of computational biology and multiscale
 modelling at the Department of Pharmacy, University of Basel.
 
@@ -51,7 +61,7 @@ request.
 ### 2021
 
 1. *Working Fields in Pharmaceutical Industry*, the Graduate School of
-   Pharmacy, University of Freiburg, Germany. (Planned)
+   Pharmacy, University of Freiburg, Germany.
 
 ### 2019
 
