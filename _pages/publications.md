@@ -6,8 +6,7 @@ author_profile: true
 mathjax: true
 ---
 
-My [Google
-Scholar profile](https://scholar.google.com/citations?user=ths6zX0AAAAJ&hl=en) contains a manually curated list of my publications and patents.
+My [Google Scholar profile](https://scholar.google.com/citations?user=ths6zX0AAAAJ&hl=en) contains a manually curated list of peer-reviewed publications and patents.
 
 #### Patents
 
@@ -37,6 +36,7 @@ Scholar profile](https://scholar.google.com/citations?user=ths6zX0AAAAJ&hl=en) c
 5. Zhang, Y. *et al.* [A Novel, Anatomy-Similar in Vitro Model of 3D Airway
    Epithelial for Anti-Coronavirus Drug
    Discovery](https://doi.org/10.1101/2021.03.03.433824) (2021)
+6. Jaklin, M. *et al.* [Optimization of the TeraTox assay for preclinical teratogenicity assessment](https://www.biorxiv.org/content/10.1101/2021.07.06.451364v1) (2021)
 
 
 #### Peer-reviewed publications
