@@ -64,8 +64,14 @@ might be useful.
 
 ### 2021
 
-1. *Working Fields in Pharmaceutical Industry*, the Graduate School of
-   Pharmacy, University of Freiburg, Germany.
+1. [*Optimization of the *TeraTox* assay for preclinical teratogenicity
+   assessment*](https://www.opentox.net/events/virtual-conference-2021/program),
+   co-presentation with Manuela Jaklin, OpenTox Virtual Conference 2021
+1. [*Ten simple rules for doing a postdoc in
+   Pharma*](https://www.bc2.ch/storage/app/media/pages/home/bc2_detailled_programme_v2.pdf),
+   BC2 Basel Computational Biology Conference 2021, Basel, Switzerland
+1. *Working Fields in Pharmaceutical Industry*, the Graduate School of Pharmacy,
+   University of Freiburg, Germany.
 
 ### 2019
 
