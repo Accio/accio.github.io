@@ -31,26 +31,19 @@ My [Google Scholar profile](https://scholar.google.com/citations?user=ths6zX0AAA
    regularized regression](https://www.biorxiv.org/content/10.1101/659920v2) (2019).
 3. Mädler, S. *et al.*
    [Besca, a single-cell transcriptomics analysis toolkit to accelerate translational research](https://www.biorxiv.org/content/10.1101/2020.08.11.245795v2) (2020).
-5. Zhang, Y. *et al.* [A Novel, Anatomy-Similar in Vitro Model of 3D Airway
+4. Zhang, Y. *et al.* [A Novel, Anatomy-Similar in Vitro Model of 3D Airway
    Epithelial for Anti-Coronavirus Drug
    Discovery](https://doi.org/10.1101/2021.03.03.433824) (2021)
-6. Jaklin, M. *et al.* [Optimization of the TeraTox assay for preclinical teratogenicity assessment](https://www.biorxiv.org/content/10.1101/2021.07.06.451364v1) (2021)
+5. Jaklin, M. *et al.* [Optimization of the TeraTox assay for preclinical teratogenicity assessment](https://www.biorxiv.org/content/10.1101/2021.07.06.451364v1) (2021)
 
 
 #### Peer-reviewed publications
 
 ##### 2021
 
-42. Sturm, G. *et al.* [Tissue heterogeneity is prevalent in gene expression
-    studies](https://academic.oup.com/nargab/article/3/3/lqab077/6363752), **NAR
-    Genomics and Bioinformatics** (2020)
-41. Zhang, J. D. [Ten Simple Rules for Doing A Postdoc In
-    Pharma](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008989),
-    **PLOS Computational Biology** (2021)
-40. Reich, *et al.* [Alzheimer’s Risk Gene TREM2 Determines Functional
-    Properties of New Type of Human iPSC-Derived
-    Microglia](https://www.frontiersin.org/articles/10.3389/fimmu.2020.617860/full).
-    **Frontiers in Immunology** (2021)
+42. Sturm, G. *et al.* [Tissue heterogeneity is prevalent in gene expression studies](https://academic.oup.com/nargab/article/3/3/lqab077/6363752), **NAR Genomics and Bioinformatics** (2021)
+41. Zhang, J. D. [Ten Simple Rules for Doing A Postdoc In Pharma](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008989), **PLOS Computational Biology** (2021)
+40. Reich, *et al.* [Alzheimer’s Risk Gene TREM2 Determines Functional Properties of New Type of Human iPSC-Derived Microglia](https://www.frontiersin.org/articles/10.3389/fimmu.2020.617860/full), **Frontiers in Immunology** (2021)
 
 ##### 2020
 
