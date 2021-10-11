@@ -65,7 +65,7 @@ StackOverflow](https://askubuntu.com/questions/170775/offline-dictionary-with-pr
 ```
 function define {
   tmpfile=$(mktemp)
-  ## requirement: install mozilla/tts with `pip install tts`
+  ## requirement: install mozilla/tts with `pip install TTS`
   tts --text "$1" --out_path "$tmpfile" &>/dev/null
   play "$tmpfile" &>/dev/null
   rm "$tmpfile"
