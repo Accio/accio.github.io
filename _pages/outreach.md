@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Education
-permalink: /education
+title: Outreach
+permalink: /outreach
 author_profile: true
 ---
 
-I am committed to both continuous learning and knowledge sharing.
+I am committed to knowledge sharing and continuous learning.
 
 * TOC
 {:toc}
@@ -39,6 +39,13 @@ In spring semesters, I teach one lecture of the course series *From Novel
 Targets to Novel Therapeutics* on topics of computational biology and multiscale
 modelling at the Department of Pharmacy, University of Basel.
 
+## Consulting and proposal reviewing
+
+I have consulted universities and research institutes for scientific questions
+and project proposals. And I have participated in reviewing scientific proposals
+for both international and national funding agencies. References are available
+upon request.
+
 ## Supervising master students, Ph.D. students, and postdocs
 
 I work regularly with junior researchers, including bachelor, master and PhD
@@ -64,14 +71,9 @@ might be useful.
 
 ### 2021
 
-1. [*Optimization of the *TeraTox* assay for preclinical teratogenicity
-   assessment*](https://www.opentox.net/events/virtual-conference-2021/program),
-   co-presentation with Manuela Jaklin, OpenTox Virtual Conference 2021
-1. [*Ten simple rules for doing a postdoc in
-   Pharma*](https://www.bc2.ch/storage/app/media/pages/home/bc2_detailled_programme_v2.pdf),
-   BC2 Basel Computational Biology Conference 2021, Basel, Switzerland
-1. *Working Fields in Pharmaceutical Industry*, the Graduate School of Pharmacy,
-   University of Freiburg, Germany.
+1. [*Optimization of the *TeraTox* assay for preclinical teratogenicity assessment*](https://www.opentox.net/events/virtual-conference-2021/program), co-presentation with Manuela Jaklin, OpenTox Virtual Conference 2021
+1. [*Ten simple rules for doing a postdoc in Pharma*](https://www.bc2.ch/storage/app/media/pages/home/bc2_detailled_programme_v2.pdf), BC2 Basel Computational Biology Conference 2021, Basel, Switzerland
+1. *Working Fields in Pharmaceutical Industry*, the Graduate School of Pharmacy, University of Freiburg, Germany.
 
 ### 2019
 
