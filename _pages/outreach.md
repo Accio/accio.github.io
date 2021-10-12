@@ -27,21 +27,20 @@ Mathematics and Computer Science and the Department of Pharmacy, University of
 Basel, and support by ETH D-BSSE and Computational Biology and Bioinformatics
 (CBB) master program, as well as students who take the courses.
 
-### Applied Mathematics and Informatics in Drug Discovery
+### AMIDD
 
 In autumn semesters, I teach a undergraduate-level course series, *Applied
-Mathematics and Informatics in Drug Discovery*, at the Department of Mathematics
+Mathematics and Informatics in Drug Discovery* (AMIDD), at the Department of Mathematics
 and Computer Science, University of Basel.
 
 Check out the material of *Applied Mathematics and Informatics In Drug
 Discovery* on its website [AMIDD.ch](http://amidd.ch).
 
-### Mathematical and Computational Biology in Drug Discovery
+### MCBDD
 
 In spring semesters, I teach an advanced course series, *Mathematical and
-Computational Biology in Drug Discovery* as a follow-up course of *Applied
-Mathematics and Informatics in Drug Discovery*. Its material can be found on the
-course's website [MCBDD.ch](http://mcbdd.ch).
+Computational Biology in Drug Discovery* (MCBDD) as a follow-up course of AMIDD.
+Its material can be found on the course's website [MCBDD.ch](http://mcbdd.ch).
 
 ### From Novel Targets To Novel Therapeutics
 
