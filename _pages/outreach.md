@@ -48,7 +48,7 @@ In spring semesters, I teach one lecture of the course series *From Novel
 Targets to Novel Therapeutics* on topics of computational biology and multiscale
 modelling at the Department of Pharmacy, University of Basel.
 
-## Supervising master students, Ph.D. students, and postdocs
+## Supervising and training
 
 I work with junior researchers, including bachelor, master and PhD students as
 well as postdoc researchers regularly. My responsibility includes
