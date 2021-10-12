@@ -10,12 +10,22 @@ I am committed to knowledge sharing and continuous learning.
 * TOC
 {:toc}
 
+## Consulting and reviewing
+
+I have consulted universities and research institutes for scientific questions
+and project proposals. Besides reviewing scientific publications, I have
+participated in reviewing scientific proposals in the field of bioinformatics,
+computational biology, and translational biomedical sciences for both
+international and national funding agencies. References are available upon
+request.
+
 ## Teaching
 
 Teaching is my personal engagement. I thank the great support and input from
-colleagues at Roche, colleagues at the Department of Mathematics and Computer
-Science and the Department of Pharmacy, University of Basel, and students who
-take the courses.
+colleagues at Roche and other companies, colleagues at the Department of
+Mathematics and Computer Science and the Department of Pharmacy, University of
+Basel, and support by ETH D-BSSE and Computational Biology and Bioinformatics
+(CBB) master program, as well as students who take the courses.
 
 ### Applied Mathematics and Informatics in Drug Discovery
 
@@ -39,14 +49,10 @@ In spring semesters, I teach one lecture of the course series *From Novel
 Targets to Novel Therapeutics* on topics of computational biology and multiscale
 modelling at the Department of Pharmacy, University of Basel.
 
-## Consulting and reviewing
-
-I have consulted universities and research institutes for scientific questions and project proposals. Besides reviewing scientific publications, I have participated in reviewing scientific proposals in the field of bioinformatics, computational biology, digital healthcare, and translational sciences for both international and national funding agencies. References are available upon request.
-
 ## Supervising master students, Ph.D. students, and postdocs
 
-I work regularly with junior researchers, including bachelor, master and PhD
-students as well as postdoc researchers. My responsibility includes
+I work with junior researchers, including bachelor, master and PhD students as
+well as postdoc researchers regularly. My responsibility includes
 
 * supervision of internships,
 * mentoring projects and thesis,
@@ -55,7 +61,8 @@ students as well as postdoc researchers. My responsibility includes
 
 Furthermore, I give talks to informatics apprentices and high-school students to
 introduce them computational biology and applied mathematics and informatics in
-drug discovery. I also help organising internships.
+drug discovery. I also give Carpentry courses as a certificated Instructor and
+help organising internships.
 
 References of supervised students and postdoc researchers are available upon
 request.
