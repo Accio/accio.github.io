@@ -39,12 +39,9 @@ In spring semesters, I teach one lecture of the course series *From Novel
 Targets to Novel Therapeutics* on topics of computational biology and multiscale
 modelling at the Department of Pharmacy, University of Basel.
 
-## Consulting and proposal reviewing
+## Consulting and reviewing
 
-I have consulted universities and research institutes for scientific questions
-and project proposals. And I have participated in reviewing scientific proposals
-for both international and national funding agencies. References are available
-upon request.
+I have consulted universities and research institutes for scientific questions and project proposals. Besides reviewing scientific publications, I have participated in reviewing scientific proposals in the field of bioinformatics, computational biology, digital healthcare, and translational sciences for both international and national funding agencies. References are available upon request.
 
 ## Supervising master students, Ph.D. students, and postdocs
 
