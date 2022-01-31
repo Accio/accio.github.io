@@ -61,7 +61,9 @@ well as postdoc researchers regularly. My responsibility includes
 Furthermore, I give talks to informatics apprentices and high-school students to
 introduce them computational biology and applied mathematics and informatics in
 drug discovery. I also give Carpentry courses as a certificated Instructor and
-help organising internships.
+help organising internships. I became a certificated Carpentry instructor and a
+certificated vocational trainer (*Berufsausbilder* in German) for computer
+science in 2022.
 
 References of supervised students and postdoc researchers are available upon
 request.
