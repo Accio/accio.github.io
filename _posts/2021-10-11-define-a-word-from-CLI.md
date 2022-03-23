@@ -5,7 +5,7 @@ category: programming
 tags: CLI dict TTS
 ---
 
-Here are my notes during a search for tools that help me read an English word and loop it up in dictionaries on the Linux command line. I need them to learn a word at my fingertip.
+Here are my notes during a search for tools that help me read an English word and look it up in dictionaries on the Linux command line. I need them to learn a word at my fingertip.
 
 If you just care about the solution, please jump to [the end of the post](#my-solution).
 
