@@ -29,15 +29,16 @@ My [Google Scholar profile](https://scholar.google.com/citations?user=ths6zX0AAA
    viruses](https://www.biorxiv.org/content/10.1101/226613v1) (2017).
 2. Fang, T., Davydov, I., Marbach, D. & Zhang, J. D. [Gene-set enrichment with
    regularized regression](https://www.biorxiv.org/content/10.1101/659920v2) (2019).
-3. Mädler, S. *et al.*
-   [Besca, a single-cell transcriptomics analysis toolkit to accelerate translational research](https://www.biorxiv.org/content/10.1101/2020.08.11.245795v2) (2020).
 4. Zhang, Y. *et al.* [A Novel, Anatomy-Similar in Vitro Model of 3D Airway
    Epithelial for Anti-Coronavirus Drug
    Discovery](https://doi.org/10.1101/2021.03.03.433824) (2021)
-5. Jaklin, M. *et al.* [Optimization of the TeraTox assay for preclinical teratogenicity assessment](https://www.biorxiv.org/content/10.1101/2021.07.06.451364v1) (2021)
 
 
 #### Peer-reviewed publications
+
+##### 2022
+
+43. Jaklin, M. *et al.* [Optimization of the *TeraTox* assay for preclinical teratogenicity assessment](https://academic.oup.com/toxsci/advance-article/doi/10.1093/toxsci/kfac046/6575922), Toxicological Sciences (2022)
 
 ##### 2021
 
