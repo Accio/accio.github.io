@@ -38,7 +38,7 @@ My [Google Scholar profile](https://scholar.google.com/citations?user=ths6zX0AAA
 
 ##### 2022
 
-43. Jaklin, M. *et al.* [Optimization of the *TeraTox* assay for preclinical teratogenicity assessment](https://academic.oup.com/toxsci/advance-article/doi/10.1093/toxsci/kfac046/6575922), Toxicological Sciences (2022)
+43. Jaklin, M. *et al.* [Optimization of the *TeraTox* assay for preclinical teratogenicity assessment](https://academic.oup.com/toxsci/advance-article/doi/10.1093/toxsci/kfac046/6575922), **Toxicological Sciences** (2022)
 
 ##### 2021
 
