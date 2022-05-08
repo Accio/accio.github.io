@@ -30,4 +30,4 @@ phenotypes by leveraging both computational approaches.
 
 We welcome motivated bachelor or master students to apply. The internship starts
 latest in July and lasts 9 months. Please apply [here on
-careers.roche.com](https://careers.roche.com/global/en/job/ROCHGLOBAL202203111835EXTERNALENGLOBAL/Internship-for-Computational-Toxicology-and-Safety).
+careers.roche.com](https://careers.roche.com/global/en/job/202203-111835/Internship-for-Computational-Toxicology-and-Safety) or here on [LinkedIn](https://www.linkedin.com/jobs/view/internship-for-computational-toxicology-and-safety-at-roche-2985439654).
