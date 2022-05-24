@@ -6,8 +6,7 @@ category: Career
 
 Roche PMDA Summer School 2022 will take place at Roche Innovation Center Basel
 between August 8th and 12th. Ph.D. students of University Basel and ETH D-BSSE
-are welcome to find more details and apply here
-[https://go.roche.com/PMDASummerSchool](https://go.roche.com/PMDASummerSchool).
+are welcome to find more details and apply at [https://go.roche.com/PMDASummerSchool](https://go.roche.com/PMDASummerSchool).
 
 We will close applications by June 17th and inform selected candidates at the
 beginning of July.
