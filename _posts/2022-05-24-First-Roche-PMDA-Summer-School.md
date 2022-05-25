@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Roche Predictive Modeling and Data Analysis Summer School 2022
+title: Roche Predictive Modeling and Data Analytics Summer School 2022
 category: Career
 ---
 
@@ -22,7 +22,7 @@ considered as well. Depending on the feedback, we may open the summer school to
 students of other academic institutes in the future.
 
 If you meet the enrollment criteria, want to experience predictive modeling and
-data analysis in drug discovery, and have time and interest joining us between
+data analytics in drug discovery, and have time and interest joining us between
 August 8th and 12th, 2022, please apply here:
 [https://go.roche.com/PMDASummerSchool](https://go.roche.com/PMDASummerSchool).
 
