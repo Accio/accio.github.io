@@ -6,7 +6,7 @@ author_profile: true
 mathjax: true
 ---
 
-My [Google Scholar profile](https://scholar.google.com/citations?user=ths6zX0AAAAJ&hl=en) contains a manually curated list of peer-reviewed publications and patents.
+See also my [Google Scholar profile](https://scholar.google.com/citations?user=ths6zX0AAAAJ&hl=en).
 
 #### Patents
 
@@ -29,17 +29,20 @@ My [Google Scholar profile](https://scholar.google.com/citations?user=ths6zX0AAA
 2. Zhang, Y. *et al.* [A Novel, Anatomy-Similar in Vitro Model of 3D Airway
    Epithelial for Anti-Coronavirus Drug
    Discovery](https://doi.org/10.1101/2021.03.03.433824) (2021)
+3. Geser, P. and Zhang, J. D. [Gene symbol recognition with GeneOCR](https://www.biorxiv.org/content/10.1101/2022.07.01.498459v3) (2022)
 
 
 #### Peer-reviewed publications
 
 ##### 2022
 
-44. Gatti, L. *et al.* [Cross-reactive immunity potentially drives global oscillation and opposed alternation patterns of seasonal influenza A viruses](https://www.nature.com/articles/s41598-022-08233-w), **Scientific Reports** (2022)
-43. Jaklin, M. *et al.* [Optimization of the *TeraTox* assay for preclinical teratogenicity assessment](https://academic.oup.com/toxsci/advance-article/doi/10.1093/toxsci/kfac046/6575922), **Toxicological Sciences** (2022)
+46. Chen, D. *et al.* [Discovery of Novel cccDNA Reducers toward the Cure of Hepatitis B Virus Infection](https://pubs.acs.org/doi/10.1021/acs.jmedchem.1c02215), **Journal of Medicinal Chemistry** (2022)
+45. Gatti, L. *et al.* [Cross-reactive immunity potentially drives global oscillation and opposed alternation patterns of seasonal influenza A viruses](https://www.nature.com/articles/s41598-022-08233-w), **Scientific Reports** (2022)
+44. Jaklin, M. *et al.* [Optimization of the *TeraTox* assay for preclinical teratogenicity assessment](https://academic.oup.com/toxsci/advance-article/doi/10.1093/toxsci/kfac046/6575922), **Toxicological Sciences** (2022)
 
 ##### 2021
 
+43. Mädler, S. *et al.* [Besca, a single-cell transcriptomics analysis toolkit to accelerate translational research](https://academic.oup.com/nargab/article/3/4/lqab102/6423167), **NAR Genomics and Bioinformatics** (2021)
 42. Sturm, G. *et al.* [Tissue heterogeneity is prevalent in gene expression studies](https://academic.oup.com/nargab/article/3/3/lqab077/6363752), **NAR Genomics and Bioinformatics** (2021)
 41. Zhang, J. D. [Ten Simple Rules for Doing A Postdoc In Pharma](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008989), **PLOS Computational Biology** (2021)
 40. Reich, *et al.* [Alzheimer’s Risk Gene TREM2 Determines Functional Properties of New Type of Human iPSC-Derived Microglia](https://www.frontiersin.org/articles/10.3389/fimmu.2020.617860/full), **Frontiers in Immunology** (2021)
