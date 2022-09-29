@@ -74,6 +74,10 @@ might be useful.
 
 ## Public talks
 
+### 2022
+
+1. [*Towards causal modelling of drug-induced toxicity for preclinical to clinical translation*](http://drugdiscovery.net/tox2022/), the Third *In Silico* Toxicology meeting, organized by Prof. Andreas Bender, September 2022, [YouTube Stream](https://youtu.be/ab1ml2SR7y8).
+
 ### 2021
 
 1. [*Optimization of the* TeraTox *assay for preclinical teratogenicity assessment*](https://www.opentox.net/events/virtual-conference-2021/program), co-presentation with Manuela Jaklin, OpenTox Virtual Conference 2021
