@@ -50,22 +50,24 @@ modelling at the Department of Pharmacy, University of Basel.
 
 ## Supervising and training
 
-I work with junior researchers, including bachelor, master and PhD students as
-well as postdoc researchers regularly. My responsibility includes
+I work closely and regularly with junior researchers, including apprentices of
+*Berufsausbildung*, bachelor, master and PhD students, as well as postdoc
+researchers. My responsibility includes
 
+* supervision of *Berufsausbildung* (professional development) apprentices,
 * supervision of internships,
-* mentoring projects and thesis,
+* mentoring projects and theses,
 * consulting personal and professional development,
 * organizing teamwork in computational biology and its application in drug discovery.
 
-Furthermore, I give talks to informatics apprentices and high-school students to
+Furthermore, I give talks to high-school students and general public to
 introduce them computational biology and applied mathematics and informatics in
 drug discovery. I also give Carpentry courses as a certificated Instructor and
 help organising internships. I became a certificated Carpentry instructor and a
 certificated vocational trainer (*Berufsausbilder* in German) for computer
 science in 2022.
 
-References of supervised students and postdoc researchers are available upon
+References of supervised apprentices, students, and postdoc researchers are available upon
 request.
 
 If you consider doing a postdoc in Pharma, these [Ten Simple
