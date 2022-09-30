@@ -30,6 +30,7 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=t
    Epithelial for Anti-Coronavirus Drug
    Discovery](https://doi.org/10.1101/2021.03.03.433824) (2021)
 3. Geser, P. and Zhang, J. D. [Gene symbol recognition with GeneOCR](https://www.biorxiv.org/content/10.1101/2022.07.01.498459v3) (2022)
+4. Michoel, T. and Zhang, J. D. [Causal inference in drug discovery and development](https://arxiv.org/abs/2209.14664) (2022)
 
 
 #### Peer-reviewed publications
