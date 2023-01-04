@@ -37,6 +37,7 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=t
 
 ##### 2022
 
+47. Wang, L. *et al.* [Discovery of a first-in-class orally available HBV cccDNA inhibitor](https://www.sciencedirect.com/science/article/pii/S0168827822034663), **Journal of Hepatology** (2022)
 46. Chen, D. *et al.* [Discovery of Novel cccDNA Reducers toward the Cure of Hepatitis B Virus Infection](https://pubs.acs.org/doi/10.1021/acs.jmedchem.1c02215), **Journal of Medicinal Chemistry** (2022)
 45. Gatti, L. *et al.* [Cross-reactive immunity potentially drives global oscillation and opposed alternation patterns of seasonal influenza A viruses](https://www.nature.com/articles/s41598-022-08233-w), **Scientific Reports** (2022)
 44. Jaklin, M. *et al.* [Optimization of the *TeraTox* assay for preclinical teratogenicity assessment](https://academic.oup.com/toxsci/advance-article/doi/10.1093/toxsci/kfac046/6575922), **Toxicological Sciences** (2022)
