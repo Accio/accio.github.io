@@ -19,7 +19,7 @@ papers]({{site.url}}/publications) and by [open-source
 software]({{site.url}}/software).
 
 I also [teach courses, supervise students and postdocs, and give public
-talks]({{site.url}}/education).
+talks]({{site.url}}/outreach).
 
 Besides spending time with my family, I read, write, or jog. I learn to play
 piano since 2019.
