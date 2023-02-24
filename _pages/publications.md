@@ -33,6 +33,10 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=t
 4. Michoel, T. and Zhang, J. D. [Causal inference in drug discovery and development](https://arxiv.org/abs/2209.14664) (2022)
 
 
+#### Conference posters and papers
+
+1. Klughammer, B *et al.* [P805 Selnoflast, a potent NLRP3 inhibitor - results from a phase 1b experimental medicine study in patients with Ulcerative Colitis](https://academic.oup.com/ecco-jcc/article/17/Supplement_1/i938/7010202). **Journal of Crohn's and Colitis** (2023)
+
 #### Peer-reviewed publications
 
 ##### 2022
