@@ -76,6 +76,11 @@ might be useful.
 
 ## Public talks
 
+### 2023
+
+1. [*Finding hopes in a hopeless time*]({{ site.url}}/assets/pdf/2023-03-AMR-JitaoDavidZhang.pdf) - How Predictive Modeling and Data Analytics shifts our perspectives about antimicrobial discovery. Invited talk at the pre-conference workshop *Promise of artificial intelligence to antibacterial drug discovery*, [7th AMR Conference](https://amr-conference.com/programme-2023/), Basel, March 2023.
+
+
 ### 2022
 
 1. [*Towards causal modelling of drug-induced toxicity for preclinical to clinical translation*](http://drugdiscovery.net/tox2022/), the Third *In Silico* Toxicology meeting, organized by Prof. Andreas Bender, September 2022, [YouTube Stream](https://youtu.be/ab1ml2SR7y8).
