@@ -78,7 +78,9 @@ might be useful.
 
 ### 2023
 
-1. [*Finding hope in a hopeless time - How Predictive Modeling and Data Analytics shifts our perspectives about antimicrobial discovery*]({{ site.url}}/assets/pdf/2023-03-AMR-JitaoDavidZhang.pdf). Invited talk at the pre-conference workshop *Promise of artificial intelligence to antibacterial drug discovery*, [7th AMR Conference](https://amr-conference.com/programme-2023/), Basel, March 2023. Recording is available on [YouTube](https://www.youtube.com/watch?v=ywEHjej90w4).
+1. [*Finding hope in a hopeless time - How Predictive Modeling and Data Analytics shifts our perspectives about antimicrobial discovery*]({{ site.url}}/assets/pdf/2023-03-AMR-JitaoDavidZhang.pdf). Invited talk at the pre-conference workshop *Promise of artificial intelligence to antibacterial drug discovery*, [7th AMR Conference](https://amr-conference.com/programme-2023/), Basel, March 2023.
+    * [Homepage of the workshop](https://revive.gardp.org/promise-of-artificial-intelligence-to-antibacterial-drug-discovery/), hosted by the REVIVE outreach activity of GARDP (Global Antibiotic Research & Development Partnership).
+    * Recording is available on [YouTube](https://www.youtube.com/watch?v=ywEHjej90w4).
 
 
 ### 2022
