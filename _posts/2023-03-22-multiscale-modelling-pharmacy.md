@@ -4,7 +4,9 @@ title: Introducing computational biology and multiscale modeling to pharmacists
 category: DrugDiscovery
 ---
 
-Every spring semester, I contribute to the course series *From Novel Targets To Novel Therapeutic Modalities*. The series is organized by my colleague Adrian Roth, who is an expert of drug safety and new alternative methods. The course is attended mostly by master students of the Pharmacy Department of the University Basel.
+Every spring semester, I contribute to the course series *From Novel Targets To Novel Therapeutic Modalities*. The topic of my lecture for this semester is multiscale modeling and computational biology in drug discovery.
+
+The course series is organized by my colleague Adrian Roth, who is an expert of drug safety and new alternative methods. The course is attended mostly by master students of the Pharmacy Department of the University Basel. I have so far very good experience with the course: it covers a broad range of topics in drug discovery, it is given by a panel of experts working in diverse functions and assuming varying roles, and the students are curious and engaged.
 
 This semester, my talk will be about my current understanding of multiscale modeling of drug pharmacology and safety. My hope is to introduce three types of techniques that we often use to build computational models, namely mechanistic models, statistical models, and causal models. Together with *in vitro*, *ex vivo*, *in vivo* models, these modelling techniques give us the opportunity to understand how human body and drug interacts.
 
