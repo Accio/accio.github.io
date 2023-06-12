@@ -31,6 +31,7 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=t
    Discovery](https://doi.org/10.1101/2021.03.03.433824) (2021)
 3. Geser, P. and Zhang, J. D. [Gene symbol recognition with GeneOCR](https://www.biorxiv.org/content/10.1101/2022.07.01.498459v3) (2022)
 4. Michoel, T. and Zhang, J. D. [Causal inference in drug discovery and development](https://arxiv.org/abs/2209.14664) (2022)
+5. Rot, G. *et al.* [splicekit: a comprehensive toolkit for splicing analysis from short-read RNA-seq](https://www.biorxiv.org/content/10.1101/2023.05.25.542256v1) (2023)
 
 
 #### Conference posters and papers
@@ -39,9 +40,12 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=t
 
 #### Peer-reviewed publications
 
+##### 2023
+
+47. Wang, L. *et al.* [Discovery of a first-in-class orally available HBV cccDNA inhibitor](https://www.sciencedirect.com/science/article/pii/S0168827822034663), **Journal of Hepatology** (2023)
+
 ##### 2022
 
-47. Wang, L. *et al.* [Discovery of a first-in-class orally available HBV cccDNA inhibitor](https://www.sciencedirect.com/science/article/pii/S0168827822034663), **Journal of Hepatology** (2022)
 46. Chen, D. *et al.* [Discovery of Novel cccDNA Reducers toward the Cure of Hepatitis B Virus Infection](https://pubs.acs.org/doi/10.1021/acs.jmedchem.1c02215), **Journal of Medicinal Chemistry** (2022)
 45. Gatti, L. *et al.* [Cross-reactive immunity potentially drives global oscillation and opposed alternation patterns of seasonal influenza A viruses](https://www.nature.com/articles/s41598-022-08233-w), **Scientific Reports** (2022)
 44. Jaklin, M. *et al.* [Optimization of the *TeraTox* assay for preclinical teratogenicity assessment](https://academic.oup.com/toxsci/advance-article/doi/10.1093/toxsci/kfac046/6575922), **Toxicological Sciences** (2022)

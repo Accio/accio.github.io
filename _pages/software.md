@@ -6,11 +6,9 @@ author_profile: true
 ---
 
 Here is a selection of the scientific software that I developed, often with help
-and support of many other colleagues. They are listed in the alphabetical order.
-
-More open-source software can be found in my Github account
-[Accio](http://github.com/Accio) as well as the public Github account of my team
-[BEDApub](http://github.com/BEDApub).
+and support of many other colleagues. More open-source software can be found in
+my Github account [Accio](http://github.com/Accio) as well as the public Github
+account of my team [BEDApub](http://github.com/BEDApub).
 
 #### [BioQC](https://www.bioconductor.org/packages/release/bioc/html/BioQC.html)
 
