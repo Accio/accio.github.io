@@ -30,8 +30,7 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=t
    Epithelial for Anti-Coronavirus Drug
    Discovery](https://doi.org/10.1101/2021.03.03.433824) (2021)
 3. Geser, P. and Zhang, J. D. [Gene symbol recognition with GeneOCR](https://www.biorxiv.org/content/10.1101/2022.07.01.498459v3) (2022)
-4. Michoel, T. and Zhang, J. D. [Causal inference in drug discovery and development](https://arxiv.org/abs/2209.14664) (2022)
-5. Rot, G. *et al.* [splicekit: a comprehensive toolkit for splicing analysis from short-read RNA-seq](https://www.biorxiv.org/content/10.1101/2023.05.25.542256v1) (2023)
+4. Rot, G. *et al.* [splicekit: a comprehensive toolkit for splicing analysis from short-read RNA-seq](https://www.biorxiv.org/content/10.1101/2023.05.25.542256v1) (2023)
 
 
 #### Conference posters and papers
@@ -43,6 +42,7 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=t
 
 ##### 2023
 
+48. Michoel, T. and Zhang, J. D. [Causal inference in drug discovery and development](https://www.sciencedirect.com/science/article/pii/S1359644623002532), **Drug Discovery Today** (2022)
 47. Wang, L. *et al.* [Discovery of a first-in-class orally available HBV cccDNA inhibitor](https://www.sciencedirect.com/science/article/pii/S0168827822034663), **Journal of Hepatology** (2023)
 
 ##### 2022
