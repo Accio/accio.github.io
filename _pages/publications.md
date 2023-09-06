@@ -31,6 +31,7 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=t
    Discovery](https://doi.org/10.1101/2021.03.03.433824) (2021)
 3. Geser, P. and Zhang, J. D. [Gene symbol recognition with GeneOCR](https://www.biorxiv.org/content/10.1101/2022.07.01.498459v3) (2022)
 4. Rot, G. *et al.* [splicekit: a comprehensive toolkit for splicing analysis from short-read RNA-seq](https://www.biorxiv.org/content/10.1101/2023.05.25.542256v1) (2023)
+5. Courzet, S. *et al*. [G-PLIP: Knowledge graph neural network for structure-free protein-ligand affinity prediction](https://doi.org/10.1101/2023.09.01.555977) (2023)
 
 
 #### Conference posters and papers
@@ -42,7 +43,7 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=t
 
 ##### 2023
 
-48. Michoel, T. and Zhang, J. D. [Causal inference in drug discovery and development](https://www.sciencedirect.com/science/article/pii/S1359644623002532), **Drug Discovery Today** (2022)
+48. [Review] Michoel, T. and Zhang, J. D. [Causal inference in drug discovery and development](https://www.sciencedirect.com/science/article/pii/S1359644623002532), **Drug Discovery Today** (2023)
 47. Wang, L. *et al.* [Discovery of a first-in-class orally available HBV cccDNA inhibitor](https://www.sciencedirect.com/science/article/pii/S0168827822034663), **Journal of Hepatology** (2023)
 
 ##### 2022
@@ -72,7 +73,8 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=t
 35. Badillo, S. *et al.* [An Introduction to Machine Learning](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/cpt.1796). **Clinical Pharmacology & Therapeutics** (2020).
 
 ##### 2019
-34. Zhang, J. D., Sach-Peltason, L., Kramer, C., Wang, K. & Ebeling, M. Multiscale modelling of drug mechanism and safety. **Drug Discovery Today** (2019).
+
+34. [Review] Zhang, J. D., Sach-Peltason, L., Kramer, C., Wang, K. & Ebeling, M. Multiscale modelling of drug mechanism and safety. **Drug Discovery Today** (2019).
 33. Sturm, G. *et al.* Comprehensive evaluation of transcriptome-based cell-type quantification methods for immuno-oncology. **Bioinformatics** 35, i436--i445 (2019).
 32. Roudnicky, F. *et al.* Modeling the Effects of Severe Metabolic Disease by Genome Editing of hPSC-Derived Endothelial Cells Reveals an Inflammatory Phenotype. **International Journal of Molecular Sciences** 20, 6201 (2019).
 31. Choobdar, S. *et al.* Assessment of network module identification across complex diseases. **Nature Methods** 16, 843--852 (2019).
