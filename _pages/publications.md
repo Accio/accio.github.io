@@ -43,7 +43,7 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=t
 
 ##### 2023
 
-49. Klughammer, \textit{et al.} [A randomized, double-blind phase 1b study evaluating the safety, tolerability, pharmacokinetics and pharmacodynamics of the NLRP3 inhibitor selnoflast in patients with moderate to severe active ulcerative colitis](https://onlinelibrary.wiley.com/doi/10.1002/ctm2.1471), **Clinical and Translational Medicine** (2023).
+49. Klughammer, *et al.* [A randomized, double-blind phase 1b study evaluating the safety, tolerability, pharmacokinetics and pharmacodynamics of the NLRP3 inhibitor selnoflast in patients with moderate to severe active ulcerative colitis](https://onlinelibrary.wiley.com/doi/10.1002/ctm2.1471), **Clinical and Translational Medicine** (2023).
 48. Michoel, T. and Zhang, J. D. [Causal inference in drug discovery and development](https://www.sciencedirect.com/science/article/pii/S1359644623002532) [Review],  **Drug Discovery Today** (2023)
 47. Wang, L. *et al.* [Discovery of a first-in-class orally available HBV cccDNA inhibitor](https://www.sciencedirect.com/science/article/pii/S0168827822034663), **Journal of Hepatology** (2023)
 
