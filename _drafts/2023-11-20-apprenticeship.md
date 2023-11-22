@@ -61,6 +61,15 @@ and a bonus point 🙂 I think the decision whether it will be published or not 
 the second part is very exciting already.
 
 
+## Feedback by Huixin
+
+I think you wrote really nice: it explains the system very well; it is fun to read the real examples and put together your personal observations; also very nicely mixed with some anecdotes. One question: do get to be an apprentice? is it a choice or a selection?
+Besides, I can see that you have shown how apprentices learn during process, which contributed to their choices for future. Maybe you want to explain a bit more on how such experience helps shape the plan for their future on both personal and professional development?
+
+Here's a brief version: students are classified into three levels: A (allgemein, i.e. general), E (enhanced), and P (pro-gymansium). Both E and A students have to do apprenticeship. P can go into gymnasium, or do an internship.
+Roche is such an attractive apprenticeship trainer so that we get mostly P students, as well as college dropouts.
+
 ## Acknowledgements
 
-I thank following colleagues for their input and contribution: Matthias Nettekoven, Fabian Birzele, Jannick Lippuner, Giulia Ferraina, Manuela Jaklin, Hans Friedrich, Iakov Davydov.
+I thank following colleagues for their input and contribution: Matthias Nettekoven, Fabian Birzele, Jannick Lippuner, Giulia Ferraina, Manuela Jaklin, Hans Friedrich, Iakov Davydov, Huixin Yu.
+
