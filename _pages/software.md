@@ -14,13 +14,19 @@ account of my team [BEDApub](http://github.com/BEDApub).
 
 [BioQC](https://www.bioconductor.org/packages/release/bioc/html/BioQC.html) performs quality control of high-throughput expression data based on tissue gene signatures. It can detect tissue heterogeneity in gene expression data. The core algorithm is a Wilcoxon-Mann-Whitney test that is optimised for high performance.
 
-#### [ddCt](The ddCt Algorithm for the Analysis of Quantitative Real-Time PCR (qRT-PCR))
+#### [ddCt](The ddCt Algorithm for the Analysis of qRT-PCR, or quantitative real-time PCR)
 
 The Delta-Delta-Ct (ddCt) Algorithm is an approximation method to determine relative gene expression with quantitative real-time PCR (qRT-PCR) experiments. Compared to other approaches, it requires no standard curve for each primer-target pair, therefore reducing the working load and yet returning accurate enough results as long as the assumptions of the amplification efficiency hold. The ddCt package implements a pipeline to collect, analyse and visualize qRT-PCR results, for example those from TaqMan SDM software, mainly using the ddCt method. The pipeline can be either invoked by a script in command-line or through the API consisting of S4-Classes, methods and functions.
 
 #### [HBVouroboros](https://github.com/bedapub/HBVouroboros)
 
 *HBVouroboros* is written in Python and implements a Snakemake-based workflow to map Illumina RNA-sequencing reads to HBV cccDNA. It offers following functionalities: (a) mapping reads to reference genomes of of eight major HBV genotypes (A-H). (b) *de novo* assembly of the HBV genome, (c) inference of the reference strain from which the reads are likely generated and the genotype, and (d) reporting base-level, gene-level, and HBV-genome-level quantification of read counts, as well as structural variants with regard to the inferred reference strain.
+
+#### [Kinex](https://github.com/bedapub/kinex)
+
+[Kinex](https://github.com/bedapub/kinex) infers causal serine/threonine kinases from phosphoproteomics data. Kinex users can score kinase-substrate interactions, perform enrichment analysis, visualise candidates of causal regulators, and query similar profiles in a database of drug-induced kinase activities.
+
+The software was mainly developed by Alexandra Valeanu, an intern sponsored by Roche Advanced Analytics Network (RAAN).
 
 #### [KEGGgraph](https://www.bioconductor.org/packages/release/bioc/html/KEGGgraph.html)
 
