@@ -32,6 +32,7 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=t
 3. Geser, P. and Zhang, J. D. [Gene symbol recognition with GeneOCR](https://www.biorxiv.org/content/10.1101/2022.07.01.498459v3) (2022)
 4. Rot, G. *et al.* [splicekit: a comprehensive toolkit for splicing analysis from short-read RNA-seq](https://www.biorxiv.org/content/10.1101/2023.05.25.542256v1) (2023)
 5. Courzet, S. *et al*. [G-PLIP: Knowledge graph neural network for structure-free protein-ligand affinity prediction](https://doi.org/10.1101/2023.09.01.555977) (2023)
+6. Valeanu, A. \textit{et al.}. [Kinex infers causal kinases from phosphoproteomics data](https://www.biorxiv.org/content/10.1101/2023.11.23.568445v1) (2023)
 
 
 #### Conference posters and papers
