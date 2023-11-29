@@ -11,14 +11,18 @@ Complementary to official documents and scholar texts on apprenticeship, this gu
 
 <!--This blog post is a supplementary document accompanying my article *Teaching Apprentices Teaches Me*.-->
 
+<!-- note: use {:.no_toc} before a title to remove a title from being indexed by toc -->
+
 * TOC
 {:toc}
 
-## What is apprenticeship and the Swiss system
+## The Swiss apprenticeship system
 
 Apprenticeship is a system for training a new generation of practitioners of a trade or profession with on-the-job training and often some form of accompanying study. Many forms of apprenticeship have emerged in the history of many countries across the globe. The traditional apprenticeship was already mentioned in the *Code of Hammurabi* composed almost four thousands ago. In China, a mature country-wide system formed around 500 years AD. In Europe, the system of apprentice developed in the later Middle Ages around 1500 AD, and has been supported, formed, and developed by guilds, governments, and apprentices.
 
-In Switzerland, apprenticeship is part of the Vocational Education and Training (VET) system. After leaving secondary schools, children in Switzerland choose between general education in high school and an apprenticeship. The choice depends on several factors, such as grades, personal interest, and advice from parents, teachers, and social institutions that provide consulting service. Critically, apprenticeship is considered a high-quality, respected education as valuable as general education.
+In Switzerland, apprenticeship is part of the Vocational Education and Training (VET) system, which is embedded in its permeable education system. After leaving secondary schools, children in Switzerland choose between general education in high school and an apprenticeship. The choice depends on several factors, such as grades, personal interest, and advice from parents, teachers, and social institutions that provide consulting service. Critically, apprenticeship is considered a high-quality, respected education as valuable as general education.
+
+![The Swiss Education System](/assets/images/EN_Bildungssystem.png){:.center-image}
 
 Apprenticeship implements a dual system integrating learning and working. Apprentices spend their time rotating between workplace, vocational school (also known as colleges in America and some other parts of the world), and industry training centers set up by companies or trades. The loop of learning and doing allows apprentices develop complementary practical skills both relating to the profession, for instance programming for an informatics apprentice, as well life-long skills such as time management, decision making, communication, and taking responsibilities.
 
@@ -30,9 +34,11 @@ I am a computational biologist working in drug discovery. At the same time, I am
 
 The system seems to does a great job at higher levels, too. Two thirds of youths in Switzerland choose an apprenticeship when they finish the secondary school. Both public-sector institutions, such as schools, universities, hospitals, and government, as well as private-sector companies offer apprentice training in more than 200 professions, from *Abdichter* (*caulker*, someone whose expertise is to make an object or a space watertight or airtight by filling or sealing) to *Zimmermann/Zimmerin* (*carpenter*). Former CEO of the biggest bank, UBS, the former President of Switzerland, and many other business and political leaders started their career as apprentices. The country has one of the lowest youth unemployment rates in the world, with the average rate between 2018 and 2022 at 2.7%.
 
-Why is the system so successful? Here are some of my observations. While not aiming to be comprehensive, hopefully these biased opinions help beginners to learn more about the apprenticeship system in Switzerland.
 
-## My observations
+## Ten reasons for the success of the apprentice system
+
+Why is the system so successful? Here are ten reasons that I summarize from my observations. While not aiming to be either comprehensive or flawless, these speculations and personal opinions hopefully inspire you to explore more about the system, perhaps by participating in it.
+
 
 ### 1. The apprenticeship has a long history and evolves with time.
 
@@ -44,8 +50,6 @@ They learn from successes like a better documented program, an automated workflo
 
 ### 2. The apprenticeship is part of a permeable education system.
 
-![The Swiss Education System](/assets/images/EN_Bildungssystem.png){:.center-image}
-
 Here's a brief version: students are classified into three levels: A (allgemein, i.e. general), E (enhanced), and P (pro-gymansium). Both E and A students have to do apprenticeship. P can go into gymnasium, or do an internship.
 Roche is such an attractive apprenticeship trainer so that we get mostly P students, as well as college dropouts.
 
@@ -53,7 +57,7 @@ Roche is such an attractive apprenticeship trainer so that we get mostly P stu
 
 Ich denke, der ganz grosse Vorteil einer Berufsausbildung gegenüber dem akademischen Studium ist ein durchweg standardisiertes System, d.h. ein Laborant in Schaffhausen muss das gleiche können, wie ein Laborant in Basel resp. in Hamburg.  An Universitäten hingegen gibt es weder Qualitätsparameter noch Standardisierungen der Lehrinhalte, das unterscheidet sich von Uni zu Uni und von Fachbereich zu Fachbereich. Selbst die Prüfungen sind überall unterschiedlich aufgestellt (ausser bei Staatsexamen). Da gilt: entweder du bringst es dir selbst bei oder du hast jemanden, der sich deiner annimmt, um es dir zu zeigen, so zumindest habe ich es erlebt. Je nach Engagement der einzelnen Dozenten. 
 
-### 4. The apprenticeship minimizes the distance between what is needed, what is used, and what is taught.
+### 4. The apprenticeship minimizes the discrepancy between real-world need and what is taught.
 
 ### 5. The apprenticeship teaches how to learn best at a young age.
 
@@ -69,12 +73,25 @@ The apprenticeship system values feedback. Every semester, apprentices have a fo
 
 ### 10. The apprenticeship is a humanistic education.
 
-### Challenges faced by the apprentice system
-
-### Conclusions
-
+## Challenges and opportunities faced by the apprentice system
 
 <!--3. Teaching and learning in small group is enjoying but also super luxury. How the new age with AI will change the apprenticeship or even reshape the two-path system?-->
+
+### 1. Accelerated changes in technology and professions pose challenges to apprenticeships.
+
+### 2. A harmonised standard of qualification faces challenges due to heterogeneity of qualities.
+
+### 3. Recognition and appreciation of the apprenticeship system faces challenges.
+
+![Choice of education after secondary school (in German)](/assets/images/Ausbildungswahl-SekII-1990-2021.png){:.center-image}
+
+### 4. Apprenticeship has the opportunity to teach both skills and spirits.
+
+
+
+## Conclusions
+
+
 
 ## Acknowledgements
 
