@@ -87,6 +87,25 @@ The apprenticeship system values feedback. Every semester, apprentices have a fo
 
 ### 4. Apprenticeship has the opportunity to teach both skills and spirits.
 
+<!--Ich finde das einen sehr schönen Artikel, auch weil mir dieses Thema eine Herzensangelegenheit ist.
+In meinen nun fast 50 Berufsjahren habe ich als Ausbilder mehr als 15 Chemielaboranten auf ihrem Berufsweg begleitet. 
+
+Aber gerne möchte ich einige Gedanken zur heutigen Situation der Ausbildung loswerden.
+
+Ich habe meine Ausbildung zum Physiklaboranten in den 70er Jahren bei der Hoechst AG in Frankfurt absolviert.
+Damals gab es die Schulabschlüsse Mittlere Reife und Abitur (sicher auch noch andere, aber das war das übliche).
+Wer die mittlere Reife erreichte und nicht weiter in die Schule gehen wollte, machte eine 3-4jährige Lehre und arbeitete dann im erlernten Beruf.
+Wenige machten weiter als Techniker/Meister, noch weniger holten eine Hochschulreife auf dem 2. Bildungsweg nach.
+Und wer das Abitur erlangte, verfolgte einen akademischen Werdegang.
+Wie auch heute noch überwiegend im Handwerk üblich, übte man nach der Ausbildung seinen Beruf aus.
+In den 70er Jahren lag die Abiturquote bei 20%, heute liegt sie bei 50%.
+In unserem Geschäft, der Pharmaindustrie, hat es meines Erachtens einen bedeutenden Wandel gegeben.
+Es drängen vermehrt Bachelor- und auch Masterabsolventen der Hochschulen in den Laborantenberuf.
+Begünstigt durch die Firmen im Sinne von: wenn ich einen Akademiker zu den gleichen Bedingungen bekomme wie einen Laboranten.....
+So entwickelt sich bei vielen der Eindruck "Laborant alleine reicht nicht mehr", und man macht dann nach der Laborantenausbildung weiter, so wie deine beiden Schützlinge.
+Das ist persönlich gesehen sehr toll und absolut förderbar, wirft aber ein nicht so gutes Licht auf diejenigen, die nach ihrer Ausbildung einfach nur ihrem erlernten Beruf nachgehen wollen.
+Ich finde, es braucht alle:  Akademiker  -  Laboranten mit Weiterbildung  -  aber auch Laboranten, die mit Freude und Begeisterung an der Bench stehen und noch praktisch etwas tun. Und für die ist dieser Lehrberuf.  
+-->
 
 
 ## Conclusions
@@ -95,7 +114,7 @@ The apprenticeship system values feedback. Every semester, apprentices have a fo
 
 ## Acknowledgements
 
-I thank following colleagues for their input and contribution: Matthias Nettekoven, Fabian Birzele, Jannick Lippuner, Giulia Ferraina, Manuela Jaklin, Hans Friedrich, Iakov Davydov, Huixin Yu, Manuela Jaklin, Tobias Ma, Tobias Engelbrecht, Peter Sand, Ying Guo, Jin Bao, and many other colleagues.
+I thank following colleagues for their input and contribution: Matthias Nettekoven, Fabian Birzele, Jannick Lippuner, Giulia Ferraina, Manuela Jaklin, Hans Friedrich, Iakov Davydov, Huixin Yu, Manuela Jaklin, Tobias Ma, Tobias Engelbrecht, Peter Sand, Ying Guo, Jin Bao, Nikolaus Martin, and many other colleagues.
 
 ## References
 
