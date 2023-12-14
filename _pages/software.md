@@ -10,6 +10,10 @@ and support of many other colleagues. More open-source software can be found in
 my Github account [Accio](http://github.com/Accio) as well as the public Github
 account of my team [BEDApub](http://github.com/BEDApub).
 
+#### [BESCA](https://github.com/bedapub/besca)
+
+The [BESCA](https://github.com/bedapub/besca) package in Python was developed by team members of the Bioinformatics and Exploratory Data Analysis team to support single-cell omics data analysis. It is particularly useful in translational studies: the analysis with BESCA has informed key decisions in multiple pre-clinical and clinical projects.
+
 #### [BioQC](https://www.bioconductor.org/packages/release/bioc/html/BioQC.html)
 
 [BioQC](https://www.bioconductor.org/packages/release/bioc/html/BioQC.html) performs quality control of high-throughput expression data based on tissue gene signatures. It can detect tissue heterogeneity in gene expression data. The core algorithm is a Wilcoxon-Mann-Whitney test that is optimised for high performance.
