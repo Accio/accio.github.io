@@ -5,7 +5,7 @@ permalink: /about
 ---
 
 I am Jitao David Zhang, a computational biologist working at F. Hoffmann-La
-Roche Ltd, Basel, Switzerland.
+Roche Ltd, Basel, Switzerland. [Find my CV here](https://github.com/Accio/CV/blob/master/JitaoDavidZhang_CV.pdf).
 
 My research focuses on identifying novel drug candidates and understanding their
 efficacy and safety profiles.
