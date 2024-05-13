@@ -50,7 +50,7 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=t
 
 ##### 2024
 
-49. Bassani, *et al.* [Another string to your bow: machine learning prediction of the pharmacokinetic properties of small molecules](https://www.tandfonline.com/doi/full/10.1080/17460441.2024.2348157), **Expert Opinion on Drug Discovery** (2024).
+49. Bassani, *et al.* [Another string to your bow: machine learning prediction of the pharmacokinetic properties of small molecules](https://www.tandfonline.com/doi/full/10.1080/17460441.2024.2348157) [Review], **Expert Opinion on Drug Discovery** (2024).
 
 ##### 2023
 
