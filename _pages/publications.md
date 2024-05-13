@@ -39,7 +39,7 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=t
 
 1. Bosch, M *et al.* [OS-032 A PKA-associated liver-tissue rheostat curbs T cell receptor signalling and effector function of virus-specific CD8 T cells in chronic viral hepatitis](https://www.easlcongress.eu/wp-content/uploads/2023/06/EASL_2023_Congress_Abstracts_version5_20June_compressed.pdf). **EASL** (European Association for the Study of the Liver)/ **Journal of Hepatology** (2023)
 2. Klughammer, B *et al.* [P805 Selnoflast, a potent NLRP3 inhibitor - results from a phase 1b experimental medicine study in patients with Ulcerative Colitis](https://academic.oup.com/ecco-jcc/article/17/Supplement_1/i938/7010202). **Journal of Crohn's and Colitis** (2023)
-3. Zhou, X \textit{et al.} [PS-156-Antigen suppression effect of the core protein allosteric modulator R07049389 in AAV-HBV mice is accompanied by transient upregulation of immune-cell gene signatures in the liver](https://doi.org/10.1016/S0618-8278\(19\)30174-4). Journal of Hepatology (2019)
+3. Zhou, X *et al.* [PS-156-Antigen suppression effect of the core protein allosteric modulator R07049389 in AAV-HBV mice is accompanied by transient upregulation of immune-cell gene signatures in the liver](https://doi.org/10.1016/S0618-8278\(19\)30174-4). Journal of Hepatology (2019)
 4. Ward, A. *et al.* Re-expression of microRNA-375 reverses both tamoxifen resistance and accompanying EMT-like properties in breast cancer. **Oncogene** 32, 1173--1182 (2013).
 
 #### Essays
