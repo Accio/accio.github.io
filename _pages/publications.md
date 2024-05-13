@@ -42,7 +42,15 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=t
 3. Zhou, X \textit{et al.} [PS-156-Antigen suppression effect of the core protein allosteric modulator R07049389 in AAV-HBV mice is accompanied by transient upregulation of immune-cell gene signatures in the liver](https://doi.org/10.1016/S0618-8278\(19\)30174-4). Journal of Hepatology (2019)
 4. Ward, A. *et al.* Re-expression of microRNA-375 reverses both tamoxifen resistance and accompanying EMT-like properties in breast cancer. **Oncogene** 32, 1173--1182 (2013).
 
+#### Essays
+
+1. [How young people benefit from Swiss apprenticeships](https://www.nature.com/articles/d41586-024-01102-8), **Nature**, 2024.
+
 #### Peer-reviewed publications
+
+##### 2024
+
+49. Bassani, *et al.* [Another string to your bow: machine learning prediction of the pharmacokinetic properties of small molecules](https://www.tandfonline.com/doi/full/10.1080/17460441.2024.2348157), **Expert Opinion on Drug Discovery** (2024).
 
 ##### 2023
 
