@@ -49,8 +49,8 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=t
 
 ##### 2024
 
-51. Courzet, S. *et al*. [G-PLIP: Knowledge graph neural network for structure-free protein-ligand affinity prediction](https://doi.org/10.1101/2023.09.01.555977), **Computational and Structural Biotechnology Journal**, in print (2024).
-50. Bosch, M. *et al.* A liver immune rheostat regulates CD8 T cell immunity in chronic HBV infection, **Nature**, in print (2024).
+51. Bosch, M. *et al.* [A liver immune rheostat regulates CD8 T cell immunity in chronic HBV infection](https://doi.org/10.1038/s41586-024-07630-7), **Nature** (2024).
+50. Courzet, S. *et al*. [G-PLIP: Knowledge graph neural network for structure-free protein-ligand affinity prediction](https://doi.org/10.1016/j.csbj.2024.06.029), **Computational and Structural Biotechnology Journal** (2024).
 49. Bassani, *et al.* [Another string to your bow: machine learning prediction of the pharmacokinetic properties of small molecules](https://www.tandfonline.com/doi/full/10.1080/17460441.2024.2348157) [Review], **Expert Opinion on Drug Discovery** (2024).
 
 ##### 2023
