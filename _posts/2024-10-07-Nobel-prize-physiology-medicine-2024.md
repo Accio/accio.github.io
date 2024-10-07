@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MicroRNAs - Small RNA, Big Prize
+title: Micro RNA, Big Prize
 category: biology
 tags: microRNA Nobel
 ---
