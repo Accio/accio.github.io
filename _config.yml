@@ -21,7 +21,6 @@ comments: true
 show_excerpts: true
 
 header_pages:
-  - index.html
   - _pages/about.md
   - _pages/research.md
   - _pages/leading.md
