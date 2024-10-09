@@ -6,8 +6,7 @@ author_profile: true
 mathjax: true
 ---
 
-### Table of contents
-
+<p id="top"></p>
 - [Peer-reviewed publications](#publications)
 - [Preprints](#preprints)
 - [Patents](#patents)
@@ -120,6 +119,7 @@ Most publications are accessible from [my Google Scholar profile](https://schola
 1. Zhang, J. D. & Wiemann, S. KEGGgraph: a graph approach to KEGG PATHWAY in R and Rioconductor. **Bioinformatics** 25, 1470-1471 (2009).
 
 <p id="preprints"></p>
+<a href="#top" style="font-size: 11px;">Back to top</a>
 #### Preprints
 
 1. Fang, T., Davydov, I., Marbach, D. & Zhang, J. D. [Gene-set enrichment with
@@ -132,12 +132,14 @@ Most publications are accessible from [my Google Scholar profile](https://schola
 5. Rüegger, J. *et al.* [CellEKT: A robust chemical proteomics workflow to profile cellular target engagement of kinase inhibitors](https://www.biorxiv.org/content/10.1101/2024.10.01.616061v1) (2024)
 
 <p id="patents"></p>
+<a href="#top" style="font-size: 11px;">Back to top</a>
 #### Patents
 
 1. Oligonucleotides for modulating RTEL1 expression. (2020)
 2. Pyrrolo[2,3-b]pyrazine compounds as cccDNA inhibitors for the treatment of Hepatitis B Virus (HBV) infection. (2018)
 
 <p id="book"></p>
+<a href="#top" style="font-size: 11px;">Back to top</a>
 #### Book chapters
 
 1. Edited by Adetayo Kasim, S. H., Ziv Shkedy, Sebastian Kaiser & Talloen, W.
@@ -149,6 +151,7 @@ Most publications are accessible from [my Google Scholar profile](https://schola
 
 
 <p id="conference"></p>
+<a href="#top" style="font-size: 11px;">Back to top</a>
 #### Conference posters and papers
 
 1. Bosch, M *et al.* [OS-032 A PKA-associated liver-tissue rheostat curbs T cell receptor signalling and effector function of virus-specific CD8 T cells in chronic viral hepatitis](https://www.easlcongress.eu/wp-content/uploads/2023/06/EASL_2023_Congress_Abstracts_version5_20June_compressed.pdf). **EASL** (European Association for the Study of the Liver)/ **Journal of Hepatology** (2023)
@@ -157,6 +160,7 @@ Most publications are accessible from [my Google Scholar profile](https://schola
 4. Ward, A. *et al.* Re-expression of microRNA-375 reverses both tamoxifen resistance and accompanying EMT-like properties in breast cancer. **Oncogene** 32, 1173--1182 (2013).
 
 <p id="essays"></p>
+<a href="#top" style="font-size: 11px;">Back to top</a>
 #### Essays
 
 1. [How young people benefit from Swiss apprenticeships](https://www.nature.com/articles/d41586-024-01102-8), **Nature**, 2024.
