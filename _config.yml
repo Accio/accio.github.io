@@ -21,10 +21,10 @@ comments: true
 show_excerpts: true
 
 header_pages:
+  - index.html
   - _pages/about.md
-  - _pages/publications.md
-  - _pages/software.md
-  - _pages/outreach.md
+  - _pages/research.md
+  - _pages/leading.md
 
 paginate: 5
 paginate_path: "/page:num/"
