@@ -8,6 +8,7 @@ mathjax: true
 
 <p id="top"></p>
 - [Peer-reviewed publications](#publications)
+- [Reviews](#reviews)
 - [Preprints](#preprints)
 - [Patents](#patents)
 - [Book chapters](#book)
@@ -22,9 +23,7 @@ Most publications are accessible from [my Google Scholar profile](https://schola
 * Rot, G. *et al.* [*splicekit*: an integrative toolkit for splicing analysis from short-read RNA-seq](https://www.biorxiv.org/content/10.1101/2023.05.25.542256v1), **Bioinformatics Advances** (2024)
 * Bosch, M. *et al.* [A liver immune rheostat regulates CD8 T cell immunity in chronic HBV infection](https://doi.org/10.1038/s41586-024-07630-7), **Nature** (2024).
 * Courzet, S. *et al*. [G-PLIP: Knowledge graph neural network for structure-free protein-ligand affinity prediction](https://doi.org/10.1016/j.csbj.2024.06.029), **Computational and Structural Biotechnology Journal** (2024).
-* Bassani, *et al.* [Another string to your bow: machine learning prediction of the pharmacokinetic properties of small molecules](https://www.tandfonline.com/doi/full/10.1080/17460441.2024.2348157) [Review], **Expert Opinion on Drug Discovery** (2024).
 * Klughammer, *et al.* [A randomized, double-blind phase 1b study evaluating the safety, tolerability, pharmacokinetics and pharmacodynamics of the NLRP3 inhibitor selnoflast in patients with moderate to severe active ulcerative colitis](https://onlinelibrary.wiley.com/doi/10.1002/ctm2.1471), **Clinical and Translational Medicine** (2023).
-* Michoel, T. and Zhang, J. D. [Causal inference in drug discovery and development](https://www.sciencedirect.com/science/article/pii/S1359644623002532) [Review],  **Drug Discovery Today** (2023)
 * Wang, L. *et al.* [Discovery of a first-in-class orally available HBV cccDNA inhibitor](https://www.sciencedirect.com/science/article/pii/S0168827822034663), **Journal of Hepatology** (2023)
 * Chen, D. *et al.* [Discovery of Novel cccDNA Reducers toward the Cure of Hepatitis B Virus Infection](https://pubs.acs.org/doi/10.1021/acs.jmedchem.1c02215), **Journal of Medicinal Chemistry** (2022)
 * Gatti, L. *et al.* [Cross-reactive immunity potentially drives global oscillation and opposed alternation patterns of seasonal influenza A viruses](https://www.nature.com/articles/s41598-022-08233-w), **Scientific Reports** (2022)
@@ -43,7 +42,6 @@ Most publications are accessible from [my Google Scholar profile](https://schola
 * Zaidan, M. *et al.* [Signaling pathways predisposing to chronic kidney
     disease progression](https://insight.jci.org/articles/view/126183). **JCI Insight** (2020)
 * Badillo, S. *et al.* [An Introduction to Machine Learning](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/cpt.1796). **Clinical Pharmacology & Therapeutics** (2020).
-* Zhang, J. D., Sach-Peltason, L., Kramer, C., Wang, K. & Ebeling, M. [Multiscale modelling of drug mechanism and safety](https://doi.org/10.1016/j.drudis.2019.12.009). [Review], **Drug Discovery Today** (2019).
 * Sturm, G. *et al.* [Comprehensive evaluation of transcriptome-based cell-type quantification methods for immuno-oncology](https://doi.org/10.1093/bioinformatics/btz363). **Bioinformatics** 35, i436--i445 (2019).
 * Roudnicky, F. *et al.* Modeling the Effects of Severe Metabolic Disease by Genome Editing of hPSC-Derived Endothelial Cells Reveals an Inflammatory Phenotype. **International Journal of Molecular Sciences** 20, 6201 (2019).
 * Choobdar, S. *et al.* Assessment of network module identification across complex diseases. **Nature Methods** 16, 843--852 (2019).
@@ -77,6 +75,14 @@ Most publications are accessible from [my Google Scholar profile](https://schola
 * Haller, F. *et al.* Localization-and mutation-dependent microRNA (miRNA) expression signatures in gastrointestinal stromal tumours (GISTs), with a cluster of co-expressed miRNAs located at 14q32. 31. **The Journal of Pathology** 220, 71-86 (2010).
 * Zhang, J. D. & Wiemann, S. KEGGgraph: a graph approach to KEGG PATHWAY in R and Rioconductor. **Bioinformatics** 25, 1470-1471 (2009).
 {: reversed="reversed"}
+
+<p id="reviews"></p>
+<a href="#top" style="font-size: 11px;">Back to top</a>
+#### Reviews
+
+* Bassani, *et al.* [Another string to your bow: machine learning prediction of the pharmacokinetic properties of small molecules](https://www.tandfonline.com/doi/full/10.1080/17460441.2024.2348157) [Review], **Expert Opinion on Drug Discovery** (2024).
+* Michoel, T. and Zhang, J. D. [Causal inference in drug discovery and development](https://www.sciencedirect.com/science/article/pii/S1359644623002532) [Review],  **Drug Discovery Today** (2023)
+* Zhang, J. D., Sach-Peltason, L., Kramer, C., Wang, K. & Ebeling, M. [Multiscale modelling of drug mechanism and safety](https://doi.org/10.1016/j.drudis.2019.12.009). [Review], **Drug Discovery Today** (2019).
 
 <p id="preprints"></p>
 <a href="#top" style="font-size: 11px;">Back to top</a>
