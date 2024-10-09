@@ -30,8 +30,8 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=t
    Epithelial for Anti-Coronavirus Drug
    Discovery](https://doi.org/10.1101/2021.03.03.433824) (2021)
 3. Geser, P. and Zhang, J. D. [Gene symbol recognition with GeneOCR](https://www.biorxiv.org/content/10.1101/2022.07.01.498459v3) (2022)
-4. Rot, G. *et al.* [splicekit: a comprehensive toolkit for splicing analysis from short-read RNA-seq](https://www.biorxiv.org/content/10.1101/2023.05.25.542256v1) (2023)
-5. Valeanu, A. *et al.* [Kinex infers causal kinases from phosphoproteomics data](https://www.biorxiv.org/content/10.1101/2023.11.23.568445v1) (2023)
+4. Valeanu, A. *et al.* [Kinex infers causal kinases from phosphoproteomics data](https://www.biorxiv.org/content/10.1101/2023.11.23.568445v1) (2023)
+5. Rüegger, J. *et al.* [CellEKT: A robust chemical proteomics workflow to profile cellular target engagement of kinase inhibitors](https://www.biorxiv.org/content/10.1101/2024.10.01.616061v1) (2024)
 
 
 #### Conference posters and papers
@@ -49,6 +49,7 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=t
 
 ##### 2024
 
+52. Rot, G. *et al.* [*splicekit*: an integrative toolkit for splicing analysis from short-read RNA-seq](https://www.biorxiv.org/content/10.1101/2023.05.25.542256v1), **Bioinformatics Advances** (2024)
 51. Bosch, M. *et al.* [A liver immune rheostat regulates CD8 T cell immunity in chronic HBV infection](https://doi.org/10.1038/s41586-024-07630-7), **Nature** (2024).
 50. Courzet, S. *et al*. [G-PLIP: Knowledge graph neural network for structure-free protein-ligand affinity prediction](https://doi.org/10.1016/j.csbj.2024.06.029), **Computational and Structural Biotechnology Journal** (2024).
 49. Bassani, *et al.* [Another string to your bow: machine learning prediction of the pharmacokinetic properties of small molecules](https://www.tandfonline.com/doi/full/10.1080/17460441.2024.2348157) [Review], **Expert Opinion on Drug Discovery** (2024).
