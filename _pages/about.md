@@ -6,11 +6,10 @@ permalink: /about
 
 Hi, I am David, a computational biologist in drug discovery. [Find my CV here](https://github.com/Accio/CV/blob/master/JitaoDavidZhang_CV.pdf).
 
-I work at F. Hoffmann-La Roche Ltd, Basel, Switzerland. My research helps to
-identify novel drug candidates, to ensure that they are efficacious and safe,
-and to bring them from research to patients.
+I work as a researcher at F. Hoffmann-La Roche Ltd, Basel, Switzerland. My work
+helps to identify new, efficacious, and safe drug candidates.
 
-My scientific research roots in interdisciplinary collaborations with academic
+My research roots in interdisciplinary collaborations with academic
 and industrial partners. Whenever feasible, we share the outcome in [open-access
 papers]({{site.url}}/publications) and with [open-source
 software]({{site.url}}/software).
