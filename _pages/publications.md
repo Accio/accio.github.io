@@ -75,7 +75,7 @@ Most publications are accessible from [my Google Scholar profile](https://schola
 * Bassani, *et al.* [Another string to your bow: machine learning prediction of the pharmacokinetic properties of small molecules](https://www.tandfonline.com/doi/full/10.1080/17460441.2024.2348157) (2024).
 * Michoel, T. and Zhang, J. D. [Causal inference in drug discovery and development](https://www.sciencedirect.com/science/article/pii/S1359644623002532) (2023)
 * Badillo, S. *et al.* [An Introduction to Machine Learning](https://ascpt.onlinelibrary.wiley.com/doi/full/10.1002/cpt.1796) (2020)
-* Zhang, J. D. * et al.* [Multiscale modelling of drug mechanism and safety](https://doi.org/10.1016/j.drudis.2019.12.009) (2019).
+* Zhang, J. D. *et al.* [Multiscale modelling of drug mechanism and safety](https://doi.org/10.1016/j.drudis.2019.12.009) (2019).
 * Raza, U. *et al.* [MicroRNAs: master regulators of drug resistance, stemness, and metastasis](https://pubmed.ncbi.nlm.nih.gov/24509937/) (2014).
 * Aigner, S. *et al.* [Human pluripotent stem cell models of autism spectrum disorder: emerging frontiers, opportunities, and challenges towards neuronal networks in a dish](https://pubmed.ncbi.nlm.nih.gov/24232378/) (2014).
 
