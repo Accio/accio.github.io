@@ -4,23 +4,21 @@ title: About
 permalink: /about
 ---
 
-I am Jitao David Zhang, a computational biologist working at F. Hoffmann-La Roche Ltd, Basel, Switzerland. [Find my CV here](https://github.com/Accio/CV/blob/master/JitaoDavidZhang_CV.pdf).
+Hi, I am David, a computational biologist in drug discovery. [Find my CV here](https://github.com/Accio/CV/blob/master/JitaoDavidZhang_CV.pdf).
 
-My research helps to identify novel drug candidates and to characterize their
-efficacy and safety profiles.
+I work at F. Hoffmann-La Roche Ltd, Basel, Switzerland. My research helps to
+identify novel drug candidates, to ensure that they are efficacious and safe,
+and to bring them from research to patients.
 
-To achieve this, I integrate biological knowledge with mathematical and statistical
-thinking, and create both software tools and computation-enhanced wet-lab workflows.
-
-I collaborate both internally at Roche and externally with academic and
-industrial partners. We share the results in [open-access
-papers]({{site.url}}/publications) and by [open-source
+My scientific research roots in interdisciplinary collaborations with academic
+and industrial partners. Whenever feasible, we share the outcome in [open-access
+papers]({{site.url}}/publications) and with [open-source
 software]({{site.url}}/software).
 
 I also [teach courses, supervise students and postdocs, and give public
 talks]({{site.url}}/outreach).
 
-Besides spending time with my family, I read, write, play piano, and jog.
+I enjoy spending time with my family, reading, writing, playing piano, and jogging.
 
 ## Statement
 
