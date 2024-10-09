@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: Science
+permalink: /science/
 author_profile: true
 mathjax: true
 ---
+
+This pages lists outcomes of some scientific research that my colleagues and I have performed.
 
 <p id="top"></p>
 - [Peer-reviewed publications](#publications)

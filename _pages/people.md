@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Leading
-permalink: /leading/
+title: People
+permalink: /people/
 author_profile: true
 ---
 
-I lead people by fostering their growth. I lead changes by sharing my limited knowledge.
+I am fascinated by people.
 
-In either case, I often learn and gain more than what I can give.
+I enjoy connecting with people by sharing my limited knowledge and learning from them in turn.
 
 <p id="top"></p>
 * TOC
