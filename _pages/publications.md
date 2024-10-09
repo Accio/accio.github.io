@@ -6,46 +6,19 @@ author_profile: true
 mathjax: true
 ---
 
-See also my [Google Scholar profile](https://scholar.google.com/citations?user=ths6zX0AAAAJ&hl=en).
+### Table of contents
 
-#### Patents
+- [Peer-reviewed publications](#publications)
+- [Preprints](#preprints)
+- [Patents](#patents)
+- [Book chapters](#book)
+- [Conference posters and papers](#conference)
+- [Essays](#essays)
 
-1. Oligonucleotides for modulating RTEL1 expression. (2020)
-2. Pyrrolo[2,3-b]pyrazine compounds as cccDNA inhibitors for the treatment of Hepatitis B Virus (HBV) infection. (2018)
-
-#### Book chapters
-
-1. Edited by Adetayo Kasim, S. H., Ziv Shkedy, Sebastian Kaiser & Talloen, W.
-   Applied Biclustering Methods for Big and High-Dimensional Data Using R
-   (Chapman & Hall/CRC Biostatistics Series). Chapman and Hall/CRC (2016).
-   ([Publisher's
-   Link](https://www.routledge.com/Applied-Biclustering-Methods-for-Big-and-High-Dimensional-Data-Using-R/Kasim-Shkedy-Kaiser-Hochreiter-Talloen/p/book/9781482208238),
-   [Amazon](https://www.amazon.com/Applied-Biclustering-Methods-High-Dimensional-Biostatistics/dp/1482208237)).
-
-#### Preprints
-
-1. Fang, T., Davydov, I., Marbach, D. & Zhang, J. D. [Gene-set enrichment with
-   regularized regression](https://www.biorxiv.org/content/10.1101/659920v2) (2019).
-2. Zhang, Y. *et al.* [A Novel, Anatomy-Similar in Vitro Model of 3D Airway
-   Epithelial for Anti-Coronavirus Drug
-   Discovery](https://doi.org/10.1101/2021.03.03.433824) (2021)
-3. Geser, P. and Zhang, J. D. [Gene symbol recognition with GeneOCR](https://www.biorxiv.org/content/10.1101/2022.07.01.498459v3) (2022)
-4. Valeanu, A. *et al.* [Kinex infers causal kinases from phosphoproteomics data](https://www.biorxiv.org/content/10.1101/2023.11.23.568445v1) (2023)
-5. Rüegger, J. *et al.* [CellEKT: A robust chemical proteomics workflow to profile cellular target engagement of kinase inhibitors](https://www.biorxiv.org/content/10.1101/2024.10.01.616061v1) (2024)
-
-
-#### Conference posters and papers
-
-1. Bosch, M *et al.* [OS-032 A PKA-associated liver-tissue rheostat curbs T cell receptor signalling and effector function of virus-specific CD8 T cells in chronic viral hepatitis](https://www.easlcongress.eu/wp-content/uploads/2023/06/EASL_2023_Congress_Abstracts_version5_20June_compressed.pdf). **EASL** (European Association for the Study of the Liver)/ **Journal of Hepatology** (2023)
-2. Klughammer, B *et al.* [P805 Selnoflast, a potent NLRP3 inhibitor - results from a phase 1b experimental medicine study in patients with Ulcerative Colitis](https://academic.oup.com/ecco-jcc/article/17/Supplement_1/i938/7010202). **Journal of Crohn's and Colitis** (2023)
-3. Zhou, X *et al.* [PS-156-Antigen suppression effect of the core protein allosteric modulator R07049389 in AAV-HBV mice is accompanied by transient upregulation of immune-cell gene signatures in the liver](https://doi.org/10.1016/S0618-8278\(19\)30174-4). Journal of Hepatology (2019)
-4. Ward, A. *et al.* Re-expression of microRNA-375 reverses both tamoxifen resistance and accompanying EMT-like properties in breast cancer. **Oncogene** 32, 1173--1182 (2013).
-
-#### Essays
-
-1. [How young people benefit from Swiss apprenticeships](https://www.nature.com/articles/d41586-024-01102-8), **Nature**, 2024.
-
+<p id="publications"></p>
 #### Peer-reviewed publications
+
+Most publications are accessible from [my Google Scholar profile](https://scholar.google.com/citations?user=ths6zX0AAAAJ&hl=en).
 
 ##### 2024
 
@@ -145,3 +118,46 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=t
 
 ##### 2009
 1. Zhang, J. D. & Wiemann, S. KEGGgraph: a graph approach to KEGG PATHWAY in R and Rioconductor. **Bioinformatics** 25, 1470-1471 (2009).
+
+<p id="preprints"></p>
+#### Preprints
+
+1. Fang, T., Davydov, I., Marbach, D. & Zhang, J. D. [Gene-set enrichment with
+   regularized regression](https://www.biorxiv.org/content/10.1101/659920v2) (2019).
+2. Zhang, Y. *et al.* [A Novel, Anatomy-Similar in Vitro Model of 3D Airway
+   Epithelial for Anti-Coronavirus Drug
+   Discovery](https://doi.org/10.1101/2021.03.03.433824) (2021)
+3. Geser, P. and Zhang, J. D. [Gene symbol recognition with GeneOCR](https://www.biorxiv.org/content/10.1101/2022.07.01.498459v3) (2022)
+4. Valeanu, A. *et al.* [Kinex infers causal kinases from phosphoproteomics data](https://www.biorxiv.org/content/10.1101/2023.11.23.568445v1) (2023)
+5. Rüegger, J. *et al.* [CellEKT: A robust chemical proteomics workflow to profile cellular target engagement of kinase inhibitors](https://www.biorxiv.org/content/10.1101/2024.10.01.616061v1) (2024)
+
+<p id="patents"></p>
+#### Patents
+
+1. Oligonucleotides for modulating RTEL1 expression. (2020)
+2. Pyrrolo[2,3-b]pyrazine compounds as cccDNA inhibitors for the treatment of Hepatitis B Virus (HBV) infection. (2018)
+
+<p id="book"></p>
+#### Book chapters
+
+1. Edited by Adetayo Kasim, S. H., Ziv Shkedy, Sebastian Kaiser & Talloen, W.
+   Applied Biclustering Methods for Big and High-Dimensional Data Using R
+   (Chapman & Hall/CRC Biostatistics Series). Chapman and Hall/CRC (2016).
+   ([Publisher's
+   Link](https://www.routledge.com/Applied-Biclustering-Methods-for-Big-and-High-Dimensional-Data-Using-R/Kasim-Shkedy-Kaiser-Hochreiter-Talloen/p/book/9781482208238),
+   [Amazon](https://www.amazon.com/Applied-Biclustering-Methods-High-Dimensional-Biostatistics/dp/1482208237)).
+
+
+<p id="conference"></p>
+#### Conference posters and papers
+
+1. Bosch, M *et al.* [OS-032 A PKA-associated liver-tissue rheostat curbs T cell receptor signalling and effector function of virus-specific CD8 T cells in chronic viral hepatitis](https://www.easlcongress.eu/wp-content/uploads/2023/06/EASL_2023_Congress_Abstracts_version5_20June_compressed.pdf). **EASL** (European Association for the Study of the Liver)/ **Journal of Hepatology** (2023)
+2. Klughammer, B *et al.* [P805 Selnoflast, a potent NLRP3 inhibitor - results from a phase 1b experimental medicine study in patients with Ulcerative Colitis](https://academic.oup.com/ecco-jcc/article/17/Supplement_1/i938/7010202). **Journal of Crohn's and Colitis** (2023)
+3. Zhou, X *et al.* [PS-156-Antigen suppression effect of the core protein allosteric modulator R07049389 in AAV-HBV mice is accompanied by transient upregulation of immune-cell gene signatures in the liver](https://doi.org/10.1016/S0618-8278\(19\)30174-4). Journal of Hepatology (2019)
+4. Ward, A. *et al.* Re-expression of microRNA-375 reverses both tamoxifen resistance and accompanying EMT-like properties in breast cancer. **Oncogene** 32, 1173--1182 (2013).
+
+<p id="essays"></p>
+#### Essays
+
+1. [How young people benefit from Swiss apprenticeships](https://www.nature.com/articles/d41586-024-01102-8), **Nature**, 2024.
+
