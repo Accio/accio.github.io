@@ -23,7 +23,7 @@ show_excerpts: true
 header_pages:
   - _pages/about.md
   - _pages/science.md
-  - _pages/people.md
+  - _pages/service.md
 
 paginate: 5
 paginate_path: "/page:num/"

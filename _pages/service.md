@@ -1,13 +1,13 @@
 ---
 layout: page
-title: People
-permalink: /people/
+title: Service
+permalink: /service/
 author_profile: true
 ---
 
 I am fascinated by people.
 
-I enjoy connecting with people by sharing my limited knowledge and learning from them in turn.
+I enjoy serving people and communities by sharing knowledge and learning from them in turn.
 
 <p id="top"></p>
 * TOC
