@@ -182,4 +182,194 @@ SNAP: debit card for food and food only if you are poor enough.
 
 Imagine the two goods are food and shelter. The debit card instead of cash makes the budget constraint line is kinked line. Forcing people who prefer to spend on sheltering to spend more on food. Replace shelter with cocaine. We force people to buy food instead of buying sheltering (cocaine). Paternalistic.
 
-Do food stamps really increase food consumption? Start with theorectical models, and do experiments. Randominized trial. WHen replacing stamp with cash, people spend 15\% less on food. The price of our paternalism is 15\%.
+Do food stamps really increase food consumption? Start with theorectical models, and do experiments. Randominized trial. WHen replacing stamp with cash, people spend 15\% less on food. The price of our paternalism is 15\%. Vox.com, a policy website. The injection of 150 dollar raised income in short time, but in long term (9 years) the effect wore off.
+
+## Lecture 4: Demand curves and income/substitution effects
+
+* Deriving demand curves
+* Elasticity of demand
+* Income shifts
+* Effects of price change
+
+Demand curve looks like an indifference curve. Maximize the utility function under the constraint of budget, which is determined by the total budget and prices, find the tangency.
+
+Fixing the utility function, maximize it under the budget constraint, varying the price to derive the demand. The result is the demand curve.
+
+What determines the shape the demand curve is called the elasticity of demand
+
+$\epsilon = \frac{\Delta Q/Q}{\Delta P/P}$, percentage of change of quantity over percentage of change of price.
+
+The demand curve is P-Q plot: plot on the y-axis, quantity on the x-axis.
+
+If the prices increases, the demand quantity decreases or remains unchanged. Therefore the elasticity of demand is negative or zero.
+
+If $\epsilon=0$, we call it perfect inelastic. For instance, insulin.
+If $\epsilon=-\infinity$, it's perfect elastic. If there's perfect substitution for a good, then it is perfect elastic. Prices never change with regard to quantity, for instance gum or burger. A perfect elastic good is extremely sensitive to price: charging one cent more will cause nobody buy it; charing one cent less everyone will buy it. You are under fierce competition to put down the price, and if you succeed, you gain the whole market.
+
+Spork: combining spoon and fork.
+
+What determines elasticity is substitutibility: something that is substitutible is elastic with regard to price.
+
+High does change of income affect your consumption? The Engel curve: relationship between income and quantity demanded.
+
+Slope of the Engel curve: $\gamma = \frac{\delta Q/Q}{\delta Y/Y0}$ income elasticity. The engel curve is essentially the relationship between income (y) versus the quantity of the goods you will consume (x-axis), It is a cheat that the elasticity curve is linear. It's about when your income change, how your consumption behavior will change.
+
+Goods with positive elasticity: normal goods. Normal goods are further divided into luxuries (gamma>1, watch), and necessities (gammy<1, e.g. food).
+Inferior goods: a number of goods have gamma less than 0, inferior goods, less consumption when you get richer. Classical example: potatos.
+
+### Effects of price change
+
+Price change? Substitution effect and income effect.o
+
+* Substitution effect: change in the quantity of a good when the price changes, holding utility constant, $dQ/dP|\bar{u}$.
+* Income effect: change in the quantity of a good when the income changes, holding utility constant, $dQ/dy \times y|P$.
+
+When the cookie price change, you can find the budget curve in two steps: 1, first stay on the indifference curve, and draw the tangent line with the same slope as the later drawn, new budget line, *compensated demand* (2) change the income and shift the curve.
+
+Substitution effect is always negative: if I increase the price, you will buy less. More cookies mean less marginal utility.
+
+If a good is inferior, the substitution effect and income effect work against each other. Example: steak (5$), potato (1$), income (25$). What happens if the potato price increases from 1$ to 3$? When you are poor, you need more inferior good (potato in this case).
+
+When price changes, two things happens. It changes the relative desirability of two goods, and it changes your effective income (aka your opportunity set). The decomposition makes it clear that for inferior good, substitution and income effects work against each other.
+
+In case of normal good, higher price --> substitution effect is neagtive less good, less income --> less good, total --> less
+In case of inferior good, higher price --> substitution effect is negative, less income --> more of that good (inferior), total --> ?
+
+A Giffen good: a upward demand curve, i.e. higher price leads to higher demands. It's rare to find real-world experiments. Example: coupon for rice. For very poor families, those who got the coupon of rice spent less on rice, i.e. upward demand curve (cheaper price, less consumption). It's an example of Giffen good.
+
+Until here it's the first unit of the course, the consumer theory.
+
+## Lecture 5: Production theory
+
+Second unit: producer theory, supply curve and production.
+
+### Production function
+
+The goal is to maximize profits. Profits = revenue - costs. Producing goods as efficient as possible.
+
+A production function, $q=f(L, K)$, L: Labor. K: capital. q: a firm's production function. (Q: market's the production function)
+
+L and K are factors of production.
+
+Labor: workers, number of works and numbers of hours.
+Capital: machine, building, etc. all things that required and used by the workers to produce goods.
+
+Variable versus fixed inputs. Short-run and long-run. In the short run, labor is variable, capital is fixed. In the long run, everything is variable.
+
+Technical definition of long-run: when all variables are variable.
+
+## Short-run production
+
+$q(f, \bar k)$, $MP_L$, the marginal product of labor, i.e. $MP_L=\frac{\Delta q}{\Delta L}$. Diminishing MP. Next worker, and next work hour, helps less. Why? Because we hold the capital fixed. Each additiona work adds less and less to the production.
+
+## Long-run production
+
+Optimization decision between labor and capital.
+
+For instance and for simplicity, $q=\sqrt{LK}$. Isoquants (like indifference curves in consumer): combinations of capital and labors that produce same amount of output. All things that we learned about indifference curves apply to isoquants.
+
+Perfect substitutable inputs of L and K: linear isoquants.
+Perfect unsubstitutable:e.g. Leontieff production function, $q=min(x,y)$. Classical example: shoes, cereal and cereal boxes, men and women for baby production:)
+
+Slope of isoquant: marginal rate of technical substitution. MRTS=$\frac{\Delta K}{\Delta L}$. What combination of capital and labor leads to the same level of output?
+
+$\Delta L* MP_L + \Delta K * MP_K = 0$ along the isoquant. Generally, $\frac{\Delta K}{\Delta L}=\frac{MP_K}{MP_L}=MRTS$.
+
+### Returns to scale
+
+What happens to production when you double inputs simultaneously? Scaling up or down of the operation.
+
+Constant return to scale: $f(2L, 2K)=2f(L,K)$. Increasing return to scale, or decreasing return to scale.
+
+One example of IRS: specialization
+Decreasing RS: difficulty of coordination
+
+Decreasing return to scale: production of tabacco
+Increasing return to scale: primary metal
+
+Along the life cycle of a company, the return to scale increases first and then decreases. Network (Google/Amazon) shifts the timepoint when the switch happens to much later than we thought.
+
+### Productivity
+
+Thomas Malthus, 1798. Production of food: labor, and land. Land is a forever fixed. There's a diminishing marginal product, and finally we will starve. He predicted that we will have cycles of overpopulation and starvation. Since then, the population has grown 1000\%. What did Malthus miss? He did not consider productivity gain/innovaton. $q=A_t*f(L,K)$, $A_t$ is the production factor.
+
+Producitvity (Innovation) is the factor that allows us to produce more and more with a given amount of inputs.
+
+Since 1950, food consumption has increased 40\%. Amartva Sen: famine is not a technological problem. No famines in democracy. It's always politics and corruption.
+
+Car: craftmanship, Henry Ford invented the the idea of mass production: specialization led to increasing return to scale.
+
+Production innovation and creativity determinesthe standard of living. K, A: what determines our standard of living, how much we capital we have (how much we save), and how innovative we are. How much more we can produce. TFP=total factor of productivity.
+
+**An important lessen for me**: Our saving and productivity (how much do I produce given the resources) determine our living standard.
+
+From 1947 to 1973, productivity growht was 2.5\% in U.S. From 1973 to 1995, productivitiy growth slowed down to 1\%, because U.S. started to save less (less K). 1995-2005: 2.3\% (IT boom). 2005-2017: 1.5\%.
+
+1. Why didn't the IT/computer revolution not lead to longer or stronger increase in productivitiy?
+2. How do we spend the productivity gain? We could have worked less. US: productivity buys cool staff, and work harder than ever. Europe: leasure time.
+3. Who actually gains from productivity gains? 47-73: all groups. since 73, average income has only gone up 0.4\%. In US. gains have all gone up to the top. Between 2009 and 2016, all growth only went to the top of 1\%.
+
+How to spend the productivity and what to do with equility and fairness are open quesitons, even for the US economy.
+
+## Lecture 6: costs
+
+Goal: to develop a cost curve, how the cost varies with the output.
+
+### Short-run cost curve
+
+$q=\sqrt(L*K)$.
+
+* Fixed costs (FC): $\bar k$
+* Variable costs (VC): labor
+* Total cost: FC + VC
+
+$C = \bar k * r + L * w$, $L$ is labor, $w$ is the age. $\bar k$ capital, $r$ rental rate. Think of renting a machine, not buying a machine. When a firm employs me, it rents my time with the wage w. Think of flows, not stocks.
+
+For instance, r=10$, w=5$. Cost function contains a fixed part g(k), and a variable part containing h(q).
+
+Marginal cost: $\frac{\Delta c}{\Delta q}$, and average cost, $c/q$.
+
+Average cost: first decrease, then increase. First pay-off the fixed cost, then the increase of variable cost.
+
+Key relationship between marginal cost of production, $\Delta C/\Delta q$, and marginal product of labor, $\Delta Q/\Delta L$. $C=\bar K*r + L*w$, so $\Delta c = w \Delta L$, So $MC=w/MP_L$. Marginal cost of the next unit depends on the wage (positive correlation) and their productivity (inverse correlation). Roughly speaking, companies are glad to pay a high salary to someone who is more productive.
+
+### Long-run costs
+
+* How can we choose the mix of labor and capital to minimize cost?
+* As we vary the quantity, how L and K vary
+
+Isocost curves: a lot like budge constraint, mapping $c=wL+rK$. Lines of identical costs, how many machines and workers you can help.
+
+The slope of isocost, is $-w/r$. Like consumer's theory, the optimal mix is the tangency of isoquant and isocost. Isoquant curve is the combination of labor and capital that give you the same quantity. The tangency to isocost gives you the best quantity.
+
+Marginal rate of technical susbstitution: MRTS=$MP_L/MP_k=-w/r$. How should I spend the next dollor? $MP_L/w=MP_K/r$.
+
+In this example, $MRTS=-k/L=-w/r=-1/2$. At the optimal, $k=L/2$.
+
+Economic intuition: in the function form, a dollar can be spent on either machine or labor, it does not change the produced quantity. However, the marginal rate of technical substitution is $-w/r=-1/2$, where wage is half of that of machine rent. That's why you should spend twice on labor than on machine, because labor in this context is more cost effective with regard to output. Interesting insight: if capital rent is high, it is likely to easier to find jobs.
+
+### Long-run cost function
+
+1. $q = \sqrt(k*L)$
+2. $k=w/r*L$, in this case, $K=1/2L$
+3. $q=\sqrt(1/2*L^2)$
+4. $L=\sqrt{2}q, k=\sqrt{2}/2q$
+5. $C=r \sqrt{2}/2q + w * \sqrt{2} q$, r=10, w=5, which gives $C=10*\sqrt{2}q$.
+
+Three things - a production function ($q$), a wage rate ($w$), and a rental rate ($r$) - suffice to derive the cost function.
+
+### Cost minimization with an increase in wages
+
+if we want to stay on isoquant (the same production), then we need to have more capital. Like substitution effect, you will use fewer workers, and more machines (capital). Debate on minimal page: if you force companies to increase wages, it may lead to the company replacing labor with machines. This will keep the production fixed, but not the cost: the cost will increase.
+
+The long-run expansion path
+
+How do you costs expand as you produce more. Given the price of labor is the half of capital, you always want to have twice the labor of the machines.
+
+Shape of exansion path varies with different production functions: marginal gain of adding capital or labor. The long-run expansion path tells you what the costs are for every level of production.
+
+Short-run and long-run curve: cost per unit plotted against quantity of production.
+
+Short-run costs and long-run costs: long-run costs will always be lower than short-run costs (by construction: it's the envelop of lowest points of short-run costs). Lei Chatelier's principle, equilibrium changes to counter agct against change away from equilibrium. Long-run average cost as an envelop of short-run costs.
+
+In the long-run, there are no fixed factors: all costs are variable. The lowest cost per unit for a particular level of output in the long run is not the minimum point of the relevant short-run curve. See here: https://courses.lumenlearning.com/suny-microeconomics/chapter/short-run-vs-long-run-costs/
