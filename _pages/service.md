@@ -13,7 +13,16 @@ I enjoy serving people and communities by sharing knowledge and learning from th
 * TOC
 {:toc}
 
+## Serving as independent expert and board member
+
+I serve from time to time as an independent expert for international and national agencies, reviewing proposals in the fields of bioinformatics, computational biology, biomedicine, and translational research.
+
+I have served in boards organized by universities, research institutes, and companies aiming at reviewing project proposals, applying for or allocating research funding, and recruiting new professors.
+
+If you are interested in engaging me as an independent expert, reviewer, or board member, please [contact me](mailto:mail@jdzhang.me?subject=Inviatation to serve as an expert or board member). References are available upon request.
+
 ## Supervision and mentoring
+<a href="#top" style="font-size: 11px;">Back to top</a>
 
 I work closely and regularly with junior researchers, including apprentices of
 *Berufsausbildung*, bachelor, master and PhD students, as well as postdoc
@@ -56,15 +65,6 @@ I regularly talks to other experts in drug discovery, general public and student
    * [Event webpage](https://dmi.unibas.ch/de/aktuelles/vergangene-veranstaltungen/detail/news/perlen-kolloquium-dr-jitao-david-zhang-f-hoffmann-la-roche-ag-basel/)
    * Presentation
      slides: [Mathematics in drug discovery: a practitioner’s view](https://dmi.unibas.ch/fileadmin/user_upload/dmi/Forschung/Mathematik/Perlenkolloquium/colloquium-zhang-20181009-slides.pdf)
-
-## Serving as independent expert and board member
-<a href="#top" style="font-size: 11px;">Back to top</a>
-
-I have served as an independent expert for international and national agencies, reviewing proposals in the fields of bioinformatics, computational biology, biomedicine, and translational research.
-
-I have served in boards organized by universities, research institutes, and companies aiming at reviewing project proposals, applying for or allocating research funding, and recruiting new professors.
-
-If you are interested in engaging me as an independent expert, reviewer, or board member, please [contact me](mailto:mail@jdzhang.me?subject=Inviatation to serve as an expert or board member). References are available upon request.
 
 ## Teaching
 <a href="#top" style="font-size: 11px;">Back to top</a>
