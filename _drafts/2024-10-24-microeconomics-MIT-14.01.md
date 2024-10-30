@@ -373,3 +373,235 @@ Short-run and long-run curve: cost per unit plotted against quantity of producti
 Short-run costs and long-run costs: long-run costs will always be lower than short-run costs (by construction: it's the envelop of lowest points of short-run costs). Lei Chatelier's principle, equilibrium changes to counter agct against change away from equilibrium. Long-run average cost as an envelop of short-run costs.
 
 In the long-run, there are no fixed factors: all costs are variable. The lowest cost per unit for a particular level of output in the long run is not the minimum point of the relevant short-run curve. See here: https://courses.lumenlearning.com/suny-microeconomics/chapter/short-run-vs-long-run-costs/
+
+## Lecture 7: Competition
+
+### Fixed versus sunk costs
+
+Sunk costs: costs that cannot be changed, no matter what action you take from this date forward.
+
+A sunk cost: an investment, once made, can never be changed. Example: med school for a doctor. Long-run fixed costs.
+
+Sunk costs are always always sunk. Costs for the tickets, for which I already paid, are not relevant. The only relevant question is how much do I still want to pay to attend the concert. What has been done is irrelevant: the only thing that matters is looking forward, what do I want to do next. The fallacy of sunk cost is prevalent.
+
+### Perfect competition
+
+What decides what a firm should produce.
+
+* (one extreme) Perfect competitions
+* (other extreme) Monopoly
+* (complicated) Oligopoly, game theory!
+
+In a perfect competition, the producers are price takers. Producers cannot affect the price. This happens when the demand for a firm's product is perfectly elastic. No matter what the cost function (q) is, they can only sell at a fixed price p. In another word, q affects only how many you sell, not at what price you sell it.
+
+What are conditions for prefect competitions
+
+1. Identical products
+2. Full information about prices
+3. Low transaction costs (search costs): it's costless to search for prices.
+
+(note: I realize the health insurance in CH, barring from the government's directive of premium, is almost a perfect competition). eBay is a dream platform of economists.
+
+Eiffeltower example: the further you go, the price is higher, because there is less competition. I think about the method devised by Bayfamiliy: in such as perfect competition, the way is to go to a price lower than the production cost (say 50\%), then bid 10\% everytime, until the first one wants to sell you.
+
+Firm versus market demand
+
+Demand of the market: Q(p), down-sloping curve
+Firm's demand: $q(p)=Q(p)-S^0(p)$, total market demand minus what everyone else is selling (the esidual demand).
+
+tchotchke: a blanket where to sell items
+
+$dq/dp=dQ/dp - dS^0/dp$, the first term is negative (increasing price always reduces demand), the second item is positive, so it's always negative.
+
+Given that everyone is identical,
+
+$q=Q/N$
+$S^0=(N-1)q$
+
+We have $\eta_i=N\eta-(N-1)M$, $M$ is market elasticity (always negative, for instance -1), $\eta$ is elasticity of supply. N=100, eta=-1, M=1, $\eta_i=-199$, it's flat: you cannot raise the price.
+
+### How firms maximize profits - short-term profit maximization
+
+assumption: no firm entry/exit. Another word: capital is a sunk cost.
+
+1. What's profit? $\pi=R-C$ (accountants). Missing: opportunity costs and cash costs. Economist profits account for opportunity costs (what you forgo).
+
+Maximizing profits
+
+$d\pi/dq=dR/dq-dC/dq$. The first part is the marginal revenue, the second part is marginal cost. The marginal revenue is the price, because they are the price taken. Marginal revenue is a perfect competitive market is the price. When profit is maximized? The price is equal to the cost.
+
+In economics, we always make marginal decisions. The next one. Climb a hill blindfolded.
+
+Profits per unit, $\pi=R-C$, so $\pi/q=R/q-C/q$, profit is the price minus the average cost. Profit per unit is the difference between the price and the average cost.
+
+Tax? It changes the optimal production, $p=MC$, and the profit reduces. Maximizing profit: marginal cost (the cost of producing one more) equal the price.
+
+When to shutdown?
+
+(Note: you don't need to be sophisticated with mathematics to undestand the economy...)
+
+## Lecture 8: Competition II
+
+Recap perfect comp.
+
+1. p=MC, production should be set where price is marginal cost
+2. Caculate average cost
+3. Profit pro unit is price per unit minus average cost per unit.
+
+Adding tax per unit reduces both production and profit.
+
+## Short-run shutdown
+
+You produce zero. Marginal cost equaling price maximizes the profit.
+
+Suppose p=10, C=10+5q^2, MC=10q=10=p, q*=1, pi=10-15=-5. If producing zero, we lose 10.
+
+Short-run shutdown: you should not completely shutdown, you should produce so much so that the marginal cost equals the price.
+
+You only want to shutdown if your revenues are less than your variable costs, because the fixed costs are sunk. Another word, you only shut down if p<VC/q, price is variable cost per unit.
+
+At the optimum, AVC=0.5*p. You never shutdown with the given function (shutdown only when p<VC/q, VC=5q, so shutdown when 1<5, which never exists) - as long as price is positive, you produce. Graphically, the ATC curve (average total cost) is always above the AVC (average variable cost) curve, so you never shutdown.
+
+The price equals marginal cost.
+
+* Utility function + budget function -> demand curve
+* Production function + input prices -> supply curve (just the marginal cost curve), only under perfect competition
+
+The short-tun firm suply curve is the marginal cost curve.
+
+Short-run market supply curve: adding firm supply curves together (horizontal sum). The market supply curve is more elastic (more flat)
+
+### Short-run market equilibrium
+
+1. Each firm picks up a fixed capital, and has a production function, $q=f(\bar x, L), w, r$, for instance $L=10+5q^2$.
+2. Derive the production level, $MC=P$, $10q=p$, so the supply curve $q=p/10$.
+3. Let's say there are six firms, N=6, total $Q=6q=3p/5$.
+4. Demand curve, $Q=48-p$. then $48-p=3/5p$, p=30, Q=18
+5. Given p=30, each form q*=3, Q*=18.
+
+Equilibrium: supply equals demand. Price equals marginal cost. Quantity maximizes the marginal profit at the price of marginal cost.
+
+Where do six firms come? From long-run.
+
+### Long-run competition
+
+The long-run competition decides the number of companies in the market.
+
+* Allowing entry and exit.
+* No fixed costs - you can shutdown.
+
+Rules: $\pi>0$ enter, $\pi<0$ exit. Due to equilibrium, in the long run, $\pi=0$.
+
+In the long run, equilibrium features ZERO profits. In the long run, if the market is perfectly competitive, no companies make money: becuase making money will let new companies flow in, while losing money will let existing companies shutdown.
+
+Example: Dell. What happens when more companies enter? The supply curve (price versus quantity) flattens. Given that the demand curve slopes downward, the intersection of supply and demand curve moves right down: higher quantities, lower prices. This compresses both the quantity DELL is willing the produce, and the profit. Repeated shortun makes the long-term expectation of profit becomes zero.
+
+Example of IBM: exit steepens the supply curve. They turned from a loss business into a no-profit business.
+
+Long-run market supply: price equals the marginal cost.
+
+For a company, if you set a price higher than 10, you lose all the market. If you set a price below 10, you lose money. So at the price of 10, the supply is perfectly elastic at the price of 10.
+
+In the long run of equilibrium, competition forces cost minimization. Why? Competition forces each form to produce where price is at the marginal cost, and forces entries and exists until marginal cost equals average cost. Therefore it forces each firm to produce at the most efficient point, where the marginal cost equals the average cost. In the long run, firms have to produce at the minimal cost.
+
+Competition leads to cost minimization.
+
+Firms make money in the short run. Stock marks are forward looking.
+
+Complications
+
+1. Limited entry, for instance due to sunk costs. Sunk costs create barrier to entry. In the long run, you only enter when profits are more than barrier to entry.
+2. Firms differ. Different firms have different cost functions. If some firm is very efficient, it can make money.
+3. Input prices may have an upward-sloping supply. Long-run shifts in the labor market. If you want to produce more, you have to pay more.
+
+The third case is special: the supply curve of labor (wage versus quantity) is upward sloping (higher wage increases labor supply, either by making everyone works more or attracing more immigrants). Even when the profit remains zero, the company has to produce at a higher average cost and marginal cost.
+
+## Lecture 9: supply and demand, and consumer/producer surplus
+
+### Shocking the supply and demand curves
+
+Reviewing the supply-demand curve. The supply curve is upward sloping: higher prices allows companies to produce more and higher or euqal to the marginal cost. The demand curve is downward sloping: higher prices reduces the demand. The strange thing for me is that the plot is drawn with price on the y-axis and the quantity on the y-axis, the causal relationship in this case is y->x. Demand: the willingness-to-pay curve. Supply: the willingness-to-supply curve. Equilibrium: the amount the customers willing to pay the same for the next good equals the amount the supply willing to supply.
+
+Complement: correlated demand (i.e. SUV and gasoline). Say everyone wants to drive a SUV, then the demand of gasoline will increase. Due to increased demand, the marginal cost increases (because in the short run companies produce at the price that minimizes average cost). It causes a shift in the demand curve.
+
+In contrast, in case of a mideast war, the supply curve will shift upwards. Higher price, the demand is too high compard to the amount at which the company is willing to produce. Substitution effects: next best thing you can do.
+
+Prices can go up because of two reasons: is it because higher demand, or lower supply?
+
+A catalog of thinking about price changes.
+
+Why demand curve shifts?
+
+1. Tastes change
+2. Income changes
+3. Changes in prices of complementary or substitution goods
+4. Change in market size
+5. Expectations of the future
+
+Why supply curve shifts?
+
+1. Changes in input costs
+2. Shift in the technology and production
+
+### Roles of the shapes of supply and demand curves in price change situations
+
+Perfect inelastic good (like insulin, demand stays the same independent of price, a vertical demand curve): price changes, demand remains the same.
+Perfect elastic demand (perfectly substitutable, horizontale): price is not changing, demand changes.
+
+Elastic demand (a candy, horizontal demand curve) shock will come in quantity change.
+Inelastic demand (insulin, vertical demand curve): shock will come in price change.
+
+### From positive normative economics
+
+Welfare economics: tools of normative analysis
+
+Welfare means in this class well-being. First tool in welfare economics: consumer surplus. No way to measure happiness. Instead, I would ask how much would you be willing to pay in order not to punched or to be worse off (negative), or to be better off (positive). This is called compensating variation. Consumer surplus is the benefit brought by consuming the good above and beyond the price of that good. Consumer surpice: price you are willing to pay, minus the price you pay. It's the area under demand curve and above price.
+
+Indidivual consumer surplus has diminishing marginal gain.
+
+Famous article: Deadweight loss of Christmas, about how bad gift-giving is: cash is always better than gift. What did he miss? The person who give it gets utility.
+
+Market consumer surplus: area under the demand curve, above the price.
+What determines the consumer surplus to be large or small? The demand curve. The steeper the demand curve is (inelastic), people want to have it. When it's flatter, people are indifferent, so they can live without the good.
+
+Producer surplus: difference between supply curve and the price. Producer surplus is the profit. In the long run, the price equals the the average cost. The supply surve is the marginal cost curve, therefore it's the avarage cost curve. Profits are defined as prices minus cost. That's why in the long run, producer surplus is the profit.
+
+As long as the supply curve slopes up, you can get profit in the long run. There are three reasons:
+
+1. Heterogenous firms: varying efficiency.
+2. Barriers to entry.
+3. Upward sloping input supply curves: the more you produce, the more you pay for the input. --> not necessarily making profiles.
+
+Goods with high price elasiticity of demand, PED, are those whose demand are mostly affected by price. For instance if there are available substitutes. The higher the percentage the price accounts in the income, the higher the elasticity will be, because people pay more attention.  The more necessary a good is (for instance basic food and daily ulities like toilet paper), the elasticity is low, because people need to buy it anyway. The longer a price change holds, the higher the elasticity will be, because more and more consumers find they have the time and inclination to search for substitutes.
+
+## Welfare economics
+
+### Competition maximizes welfare
+
+social wellfare, SW, SW=CS+PS, consumer surplus and supply surplus
+
+It's the first foundamental rule of social welfare: the market naturally delivers the highest social well-fare at equilibrium.
+
+* Price capping transfers surplus from producers to customers.
+* Deadweight loss: net reduction in social welfare from trades that are not made.
+
+Every trade that makes one party better off, while not making the other party worse off, is a good trade.
+
+Inventions
+
+costs:
+
+* Deadweight loss, or efficiency cost
+* Allocative inefficiency. Competitive equilibrium makes sure that people who want something most get it. Now, people have to wait in the line. It's a less efficient way of allocating resources. Why inefficient to make people wait in the line?
+     * Opportunity cost of the lost time
+     * Technical inefficiency: cars use up gas
+
+Benefits: equity
+
+efficiency-equity tradeoff. How to optimize the tradeoff? Later in the lecture
+
+Vertical equity: rich versus poor. Other equity: who have extra time versus those without.
+
+* Example 1: tickets scalping: buying tickets in secondary market
+* Example 2: food bank, *feeding America*. A virtual market: they use the bid system. Market system without financial transactions.
+* Example 3: taxi medallions. In an ideal case (Uber), it's a perfectly supply market. However, but limiting the number of cab companies, consumers lose consumer surplus. Taxi companies make money. The lost area is deadline. Note that the taxicab drivers need to pay for a medallion (upper price: profit). The owners of taxicab medallions. In 1920, 10 dollar each. Now each is worth 400,000. Taxicab king. Uber ruined the profits of medallion owners. Uber is a good thing from the economic perspective.
