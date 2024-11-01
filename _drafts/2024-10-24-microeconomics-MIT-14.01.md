@@ -605,3 +605,64 @@ Vertical equity: rich versus poor. Other equity: who have extra time versus thos
 * Example 1: tickets scalping: buying tickets in secondary market
 * Example 2: food bank, *feeding America*. A virtual market: they use the bid system. Market system without financial transactions.
 * Example 3: taxi medallions. In an ideal case (Uber), it's a perfectly supply market. However, but limiting the number of cab companies, consumers lose consumer surplus. Taxi companies make money. The lost area is deadline. Note that the taxicab drivers need to pay for a medallion (upper price: profit). The owners of taxicab medallions. In 1920, 10 dollar each. Now each is worth 400,000. Taxicab king. Uber ruined the profits of medallion owners. Uber is a good thing from the economic perspective.
+
+## Lecture 11: monopoly
+
+a key breaking point in the course: application of tools
+
+### Monopoly profit (pi) maximization
+
+Extremes: perfectly competitive and monopoly. Most markets lie between the two extremes, known as oligopolies.
+
+In monopoly, the firm is a price maker, not price taker.
+
+Assumption: one price, no price discrimination. Max pi=R-C ==> MR=MC. Cost does not change, but the marginal revenue can be set.
+
+A monopoly firm: market demand, typically somewhat elastic, down sloping. If you want to say more units, you have to lower the price.
+
+$MR=P+(\Delta P/\Delta Q)Q$. The first term is positive, the second negative.
+
+$dR/dQ=P+dP/dQ*Q$: to set another unit, you have to lower the price, therefore offsetting the benefit of selling another unit. This can be called as the poisoning effect. R=PQ=P(24-P) (made up). Maximizing the R gives us P=12. Marginal revenue curve is always below the demand curve. Why? Because by selling one more unit, you have a poisoning effect.
+
+Critically relationship between the marginal revenue and the elasticity of the demand.
+
+$MR=P+(\Delta P/\Delta Q) = P+P(\delta P/\delta Q)Q/P = P(1+1/\epsilon)$. $\epsilon$: the elasticity of the demand.
+
+When elasticity is -1, the monopolist is indifferent.
+
+
+Market power of a monopolist: p>MC
+
+$MR=P(1+1/\epsilon)=MC$, re-written as $MC/P=1+1/\epsilon$
+
+Markup: (P-MC)/P=-1/\epsilon.
+
+Huck Finn costs 4$, Great Gatsby costs 16$. Why? Gatsby still has copyright still. It has monopoly. Huck Finn has lost patent protection (75 years). Price of Huck Finn is limited by competitions. Gatsby's price cannot be higher, because otherwise teachers will assign something else.
+
+### Welfare of monopoly
+
+#### Standard case
+
+a market failure, because there is deadweight loss
+
+Whenever the market equilibrium does not maximize the social welfare, it's a market failure. In such cases, there is room for policy.
+
+#### Price discrimination
+
+If perfectly discriminate, then monopoly does maximize the social welfare, but the entire surplus goes to the monopoly. Consumer surplus is squeezed to zero.
+
+The definition of welfare can be reconsidered: what if all surplus goes to the producer?
+
+* Example airplane - elasticity is low (you have to go) - you are willing to
+pay.
+
+Looking for signals correlating with your willingness to pay, which will help the supplier discriminate (charge more)
+
+* airplane
+* different classes of airplane: rich guys are less elastic (sensitive) than poor class
+* targeting advertising
+* restaurants and supermarkets: McDonald is more expensive in suburb than in the city (less competition)
+* Day tickets is cheaper (lower elasticity)
+* Tesla: software capping distance of cheaper models
+* Laser printer: office version double the price of home version, with a piece
+of slowing the sped installed.
