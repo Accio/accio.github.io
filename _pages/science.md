@@ -23,6 +23,7 @@ This pages lists outcomes of some scientific research that my colleagues and I h
 
 Most publications are accessible from [my Google Scholar profile](https://scholar.google.com/citations?user=ths6zX0AAAAJ&hl=en).
 
+* Rodriguez-Iglesias, N. *et al.* [A bottom-up approach identifies the antipsychotic and antineoplastic trifluoperazine and the ribose derivative deoxytubercidin as novel microglial phagocytosis inhibitors](https://doi.org/10.1002/glia.24637) (2024)
 * Rot, G. *et al.* [*splicekit*: an integrative toolkit for splicing analysis from short-read RNA-seq](https://academic.oup.com/bioinformaticsadvances/article/4/1/vbae121/7735317) (2024)
 * Bosch, M. *et al.* [A liver immune rheostat regulates CD8 T cell immunity in chronic HBV infection](https://doi.org/10.1038/s41586-024-07630-7) (2024).
 * Courzet, S. *et al*. [G-PLIP: Knowledge graph neural network for structure-free protein-ligand affinity prediction](https://doi.org/10.1016/j.csbj.2024.06.029) (2024).
