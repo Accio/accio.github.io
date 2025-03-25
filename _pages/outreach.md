@@ -35,6 +35,25 @@ References are available upon request.
 
 If you consider doing a postdoc in Pharma, these [Ten Simple Rules](https://doi.org/10.1371/journal.pcbi.1008989) might be useful.
 
+## Teaching
+<a href="#top" style="font-size: 11px;">Back to top</a>
+
+### Applied Mathematics and Informatics in Drug Discovery (AMIDD)
+
+In autumn semesters, I teach a undergraduate-level course series, *Applied Mathematics and Informatics in Drug Discovery* (AMIDD), at the Department of Mathematics and Computer Science, University of Basel. Check out the material of *Applied Mathematics and Informatics In Drug Discovery* on its website [AMIDD.ch](http://amidd.ch).
+
+### Mathematical and Computational Biology in Drug Discovery (MCBDD)
+
+In spring semesters, I teach an advanced course series, *Mathematical and Computational Biology in Drug Discovery* (MCBDD) as a follow-up course of AMIDD. Its material can be found on the course's website [MCBDD.ch](http://mcbdd.ch).
+
+### Other courses
+
+In spring semesters, I teach one lecture of the course series *From Novel Targets to Novel Therapeutics* on topics of computational biology and multiscale modelling at the Department of Pharmacy, University of Basel.
+
+
+I also give courses on bioinformatics, computational biology, drug discovery, data analysis and programming (as a certified Carpentry trainer) from time to time. If you are interested in inviting me to teach, please [contact me](mailto:mail@jdzhang.me?subject=Invitation to teach).
+
+
 ## Public talks
 <a href="#top" style="font-size: 11px;">Back to top</a>
 
@@ -77,17 +96,6 @@ I regularly talks to other experts in drug discovery, general public and student
    * [Event webpage](https://dmi.unibas.ch/de/aktuelles/vergangene-veranstaltungen/detail/news/perlen-kolloquium-dr-jitao-david-zhang-f-hoffmann-la-roche-ag-basel/)
    * Presentation
      slides: [Mathematics in drug discovery: a practitioner’s view](https://dmi.unibas.ch/fileadmin/user_upload/dmi/Forschung/Mathematik/Perlenkolloquium/colloquium-zhang-20181009-slides.pdf)
-
-## Teaching
-<a href="#top" style="font-size: 11px;">Back to top</a>
-
-* In autumn semesters, I teach a undergraduate-level course series, *Applied Mathematics and Informatics in Drug Discovery* (AMIDD), at the Department of Mathematics and Computer Science, University of Basel. Check out the material of *Applied Mathematics and Informatics In Drug Discovery* on its website [AMIDD.ch](http://amidd.ch).
-* In spring semesters, I teach an advanced course series, *Mathematical and Computational Biology in Drug Discovery* (MCBDD) as a follow-up course of AMIDD. Its material can be found on the course's website [MCBDD.ch](http://mcbdd.ch).
-* In spring semesters, I teach one lecture of the course series *From Novel Targets to Novel Therapeutics* on topics of computational biology and multiscale modelling at the Department of Pharmacy, University of Basel.
-
-
-I also give courses on bioinformatics, computational biology, drug discovery, data analysis and programming (as a certified Carpentry trainer) from time to time. If you are interested in inviting me to teach, please [contact me](mailto:mail@jdzhang.me?subject=Invitation to teach).
-
 
 ## Working with youths
 <a href="#top" style="font-size: 11px;">Back to top</a>
