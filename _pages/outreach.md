@@ -51,7 +51,7 @@ In spring semesters, I teach an advanced course series, *Mathematical and Comput
 In spring semesters, I teach one lecture of the course series *From Novel Targets to Novel Therapeutics* on topics of computational biology and multiscale modelling at the Department of Pharmacy, University of Basel.
 
 
-I also give courses on bioinformatics, computational biology, drug discovery, data analysis and programming (as a certified Carpentry trainer) from time to time. If you are interested in inviting me to teach, please [contact me](mailto:mail@jdzhang.me?subject=Invitation to teach).
+I have organized Python courses `Python@Library` for secondary-school students in Basel in GGG Library, together with computer science apprentices of Roche. The first edition took place in 2024.
 
 
 ## Public talks
@@ -97,7 +97,3 @@ I regularly talks to other experts in drug discovery, general public and student
    * Presentation
      slides: [Mathematics in drug discovery: a practitioner’s view](https://dmi.unibas.ch/fileadmin/user_upload/dmi/Forschung/Mathematik/Perlenkolloquium/colloquium-zhang-20181009-slides.pdf)
 
-## Working with youths
-<a href="#top" style="font-size: 11px;">Back to top</a>
-
-I have organized Python courses `Python@Library` for secondary-school students in Basel in GGG Library, together with computer science apprentices of Roche. The first edition took place in 2024.
