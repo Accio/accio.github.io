@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Science
-permalink: /science/
+title: Research
+permalink: /research/
 author_profile: true
 mathjax: true
 ---

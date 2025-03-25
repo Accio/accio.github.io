@@ -22,7 +22,7 @@ show_excerpts: true
 
 header_pages:
   - _pages/about.md
-  - _pages/science.md
+  - _pages/research.md
   - _pages/outreach.md
 
 paginate: 5
