@@ -33,7 +33,7 @@ My responsibility includes
 
 References are available upon request.
 
-If you consider doing a postdoc in Pharma, these [Ten Simple Rules](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008989) might be useful.
+If you consider doing a postdoc in Pharma, these [Ten Simple Rules](https://doi.org/10.1371/journal.pcbi.1008989) might be useful.
 
 ## Public talks
 <a href="#top" style="font-size: 11px;">Back to top</a>
@@ -50,9 +50,7 @@ I regularly talks to other experts in drug discovery, general public and student
 
 ### 2023
 
-* [*Finding hope in a hopeless time - How Predictive Modeling and Data Analytics shifts our perspectives about antimicrobial discovery*]({{ site.url}}/assets/pdf/2023-03-AMR-JitaoDavidZhang.pdf). Invited talk at the pre-conference workshop *Promise of artificial intelligence to antibacterial drug discovery*, [7th AMR Conference](https://amr-conference.com/programme-2023/), Basel, Switzerland, March 2023.
-    * [Homepage of the workshop](https://revive.gardp.org/promise-of-artificial-intelligence-to-antibacterial-drug-discovery/), hosted by the REVIVE outreach activity of GARDP (Global Antibiotic Research & Development Partnership).
-    * Recording is available on [YouTube](https://www.youtube.com/watch?v=ywEHjej90w4).
+* [*Finding hope in a hopeless time - How Predictive Modeling and Data Analytics shifts our perspectives about antimicrobial discovery*]({{ site.url}}/assets/pdf/2023-03-AMR-JitaoDavidZhang.pdf). Invited talk at the pre-conference workshop *Promise of artificial intelligence to antibacterial drug discovery*, 7th AMR Conference, Basel, Switzerland, March 2023. [Homepage of the workshop](https://revive.gardp.org/promise-of-artificial-intelligence-to-antibacterial-drug-discovery/) was hosted by the REVIVE outreach activity of GARDP (Global Antibiotic Research & Development Partnership). And the recording is available on [YouTube](https://www.youtube.com/watch?v=ywEHjej90w4).
 
 ### 2022
 
@@ -61,7 +59,7 @@ I regularly talks to other experts in drug discovery, general public and student
 ### 2021
 
 * [*Optimization of the* TeraTox *assay for preclinical teratogenicity assessment*](https://www.opentox.net/events/virtual-conference-2021/program), co-presentation with Manuela Jaklin, OpenTox Virtual Conference 2021
-* [*Ten simple rules for doing a postdoc in Pharma*](https://www.bc2.ch/storage/app/media/pages/home/bc2_detailled_programme_v2.pdf), BC2 Basel Computational Biology Conference 2021, Basel, Switzerland
+* *Ten simple rules for doing a postdoc in Pharma*, BC2 Basel Computational Biology Conference 2021, Basel, Switzerland
 
 ### 2019
 
