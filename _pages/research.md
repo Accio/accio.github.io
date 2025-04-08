@@ -88,7 +88,7 @@ Most publications are accessible from [my Google Scholar profile](https://schola
 <a href="#top" style="font-size: 11px;">Back to top</a>
 #### Preprints
 
-* Rüegger, J. *et al.* [CellEKT: A robust chemical proteomics workflow to profile cellular target engagement of kinase inhibitors](https://www.biorxiv.org/content/10.1101/2024.10.01.616061v1) (2024)
+* Klas, H. *et al.* [Comparison of Fixed Single Cell RNA-seq Methods to Enable Transcriptome Profiling of Neutrophils in Clinical Samples](https://www.biorxiv.org/content/10.1101/2024.08.14.607767v1.abstract) (2024)
 * Valeanu, A. *et al.* [Kinex infers causal kinases from phosphoproteomics data](https://www.biorxiv.org/content/10.1101/2023.11.23.568445v1) (2023)
 * Geser, P. and Zhang, J. D. [Gene symbol recognition with GeneOCR](https://www.biorxiv.org/content/10.1101/2022.07.01.498459v3) (2022)
 * Zhang, Y. *et al.* [A Novel, Anatomy-Similar in Vitro Model of 3D Airway Epithelial for Anti-Coronavirus Drug Discovery](https://doi.org/10.1101/2021.03.03.433824) (2021)
