@@ -23,7 +23,7 @@ This pages lists outcomes of some scientific research that my colleagues and I h
 
 Most publications are accessible from [my Google Scholar profile](https://scholar.google.com/citations?user=ths6zX0AAAAJ&hl=en).
 
-* Rüegger, J. *et al.* [CellEKT: a robust chemical proteomics workflow to profile cellular target engagement of kinase inhibitors](https://www.sciencedirect.com/science/article/pii/S1535947625000593) (2025)
+* Rüegger, J. *et al.* [CellEKT: a robust chemical proteomics workflow to profile cellular target engagement of kinase inhibitors](https://doi.org/10.1016/j.mcpro.2025.100961) (2025)
 * Rodriguez-Iglesias, N. *et al.* [A bottom-up approach identifies the antipsychotic and antineoplastic trifluoperazine and the ribose derivative deoxytubercidin as novel microglial phagocytosis inhibitors](https://doi.org/10.1002/glia.24637) (2024)
 * Rot, G. *et al.* [*splicekit*: an integrative toolkit for splicing analysis from short-read RNA-seq](https://academic.oup.com/bioinformaticsadvances/article/4/1/vbae121/7735317) (2024)
 * Bosch, M. *et al.* [A liver immune rheostat regulates CD8 T cell immunity in chronic HBV infection](https://doi.org/10.1038/s41586-024-07630-7) (2024).
