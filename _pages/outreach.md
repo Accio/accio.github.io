@@ -65,11 +65,12 @@ I regularly talks to other experts in drug discovery, general public and student
 
 ### 2024
 
-* *Towards intelligent benefit-risk assessment of drug candidates*, Swiss Society of Pharmacology and Toxicology (SSPT) Spring Meeting 2024, Bern, Switzerland, April 2024.
+* [*Cheer up! My learnings as a computational biologist in drug discovery*]({{ site.url}}/assets/pdf/2024-12-EPFL-EDCB.pdf), Computational and Quantitative Biology doctoral program (EDCB) PhD Symposium at EPFL, December 2024.
+* [*Towards intelligent benefit-risk assessment of drug candidates*]({{ site.url}}/assets/pdf/2024-04-SSPT-JDZ.pdf), Swiss Society of Pharmacology and Toxicology (SSPT) Spring Meeting 2024, Bern, Switzerland, April 2024.
 
 ### 2023
 
-* [*Finding hope in a hopeless time - How Predictive Modeling and Data Analytics shifts our perspectives about antimicrobial discovery*]({{ site.url}}/assets/pdf/2023-03-AMR-JitaoDavidZhang.pdf). Invited talk at the pre-conference workshop *Promise of artificial intelligence to antibacterial drug discovery*, 7th AMR Conference, Basel, Switzerland, March 2023. [Homepage of the workshop](https://revive.gardp.org/promise-of-artificial-intelligence-to-antibacterial-drug-discovery/) was hosted by the REVIVE outreach activity of GARDP (Global Antibiotic Research & Development Partnership). And the recording is available on [YouTube](https://www.youtube.com/watch?v=ywEHjej90w4).
+* [*Finding hope in a hopeless time - How Predictive Modeling and Data Analytics shifts our perspectives about antimicrobial discovery*]({{ site.url}}/assets/pdf/2023-03-AMR-JitaoDavidZhang.pdf). Workshop *Promise of artificial intelligence to antibacterial drug discovery*, 7th AMR Conference, Basel, Switzerland, March 2023, hosted by the REVIVE outreach activity of GARDP (Global Antibiotic Research & Development Partnership). The recording is available on [YouTube](https://www.youtube.com/watch?v=ywEHjej90w4).
 
 ### 2022
 
