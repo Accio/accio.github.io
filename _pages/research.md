@@ -27,7 +27,7 @@ Most publications are accessible from [my Google Scholar profile](https://schola
 * Rodriguez-Iglesias, N. *et al.* [A bottom-up approach identifies the antipsychotic and antineoplastic trifluoperazine and the ribose derivative deoxytubercidin as novel microglial phagocytosis inhibitors](https://doi.org/10.1002/glia.24637) (2024)
 * Rot, G. *et al.* [*splicekit*: an integrative toolkit for splicing analysis from short-read RNA-seq](https://academic.oup.com/bioinformaticsadvances/article/4/1/vbae121/7735317) (2024)
 * Bosch, M. *et al.* [A liver immune rheostat regulates CD8 T cell immunity in chronic HBV infection](https://doi.org/10.1038/s41586-024-07630-7) (2024).
-* Courzet, S. *et al*. [G-PLIP: Knowledge graph neural network for structure-free protein-ligand affinity prediction](https://doi.org/10.1016/j.csbj.2024.06.029) (2024).
+* Crouzet, S. *et al*. [G-PLIP: Knowledge graph neural network for structure-free protein-ligand affinity prediction](https://doi.org/10.1016/j.csbj.2024.06.029) (2024).
 * Klughammer, B. *et al.* [A randomized, double-blind phase 1b study evaluating the safety, tolerability, pharmacokinetics and pharmacodynamics of the NLRP3 inhibitor selnoflast in patients with moderate to severe active ulcerative colitis](https://onlinelibrary.wiley.com/doi/10.1002/ctm2.1471) (2023).
 * Wang, L. *et al.* [Discovery of a first-in-class orally available HBV cccDNA inhibitor](https://www.sciencedirect.com/science/article/pii/S0168827822034663) (2023)
 * Chen, D. *et al.* [Discovery of Novel cccDNA Reducers toward the Cure of Hepatitis B Virus Infection](https://pubs.acs.org/doi/10.1021/acs.jmedchem.1c02215) (2022)

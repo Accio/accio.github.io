@@ -61,6 +61,7 @@ I regularly talks to other experts in drug discovery, general public and student
 
 ### 2025
 
+* [*Oneness of Target and Modality Selection in Drug Discovery*]({{ site.url}}/assets/pdf/2025-04-JitaoDavidZhang-ETH-IMSB.pdf), talk at the Institute of Molecular Systems Biology, ETH Zürich.
 * [*Defining Human Dosing for Covalent Inhibitors with Translational PK/PD and Protein Turnover Data*]({{ site.url}}/assets/pdf/2025-04-NeilParrott-JitaoDavidZhang-DMDG-Targeting-Covalent-Inhibitors.pdf), co-presenting with Neil John Parrott, in DMDG meeting [*Focusing on Targeted Covalent Drugs: how to best identify and develop TCIs*]({{ site.url}}/assets/pdf/2025-04-NeilParrott-JitaoDavidZhang-DMDG-DelegateBook.pdf), Basel, Switzerland, April 2025. [DMDG](https://www.dmdg.org/) is an informal world-wide association for scientists engaged in research and development within the drug metabolism, pharmacokinetics and related disciplines of the pharmaceutical industry.
 
 ### 2024
