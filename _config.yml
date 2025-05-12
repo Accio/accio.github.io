@@ -1,9 +1,9 @@
-title: David Discovers Drug Discovery
+title: David Discovers Daily Delights
 author: 
    name: Jitao David Zhang
    email: mail@jdzhang.me
-description: >- 
-    Notes of a computational biologist working in drug discovery 
+description: >-
+    Notes of a computational biologist working in drug discovery, and a human fellow learning to live and die
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://accio.github.io" # the base hostname & protocol for your site, e.g. http://example.com
