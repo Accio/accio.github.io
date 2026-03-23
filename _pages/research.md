@@ -23,7 +23,6 @@ This pages lists outcomes of some scientific research that my colleagues and I h
 
 Most publications are accessible from [my Google Scholar profile](https://scholar.google.com/citations?user=ths6zX0AAAAJ&hl=en).
 
-* Georgiev, V. *et al.* [Current Status of Prediction of IL-6 Mediated Cytochrome P450 Activity Modulation using In Vitro Data and PBPK Modeling](https://www.sciencedirect.com/science/article/pii/S1347436725004604)
 * Hatje, K. *et al.* [Comparison of single-cell RNA-seq methods to enable transcriptome profiling of neutrophils in clinical samples](https://doi.org/10.1016/j.crmeth.2025.101173) (2025)
 * Rüegger, J. *et al.* [CellEKT: a robust chemical proteomics workflow to profile cellular target engagement of kinase inhibitors](https://doi.org/10.1016/j.mcpro.2025.100961) (2025)
 * Rodriguez-Iglesias, N. *et al.* [A bottom-up approach identifies the antipsychotic and antineoplastic trifluoperazine and the ribose derivative deoxytubercidin as novel microglial phagocytosis inhibitors](https://doi.org/10.1002/glia.24637) (2024)
@@ -79,6 +78,7 @@ Most publications are accessible from [my Google Scholar profile](https://schola
 <a href="#top" style="font-size: 11px;">Back to top</a>
 #### Reviews
 
+* Georgiev, V. *et al.* [Current Status of Prediction of IL-6 Mediated Cytochrome P450 Activity Modulation using In Vitro Data and PBPK Modeling](https://www.sciencedirect.com/science/article/pii/S1347436725004604)
 * Zhang, J. D. *et al.* [Leveraging Protein Turnover In Drug Discovery: A Practical Guide](https://pubs.acs.org/doi/10.1021/mc-2025-vol60.ch17) (2025)
 * Bassani, *et al.* [Another string to your bow: machine learning prediction of the pharmacokinetic properties of small molecules](https://www.tandfonline.com/doi/full/10.1080/17460441.2024.2348157) (2024).
 * Michoel, T. and Zhang, J. D. [Causal inference in drug discovery and development](https://doi.org/10.1016/j.drudis.2023.103737) (2023)
