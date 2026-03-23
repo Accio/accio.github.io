@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-Hi, I am David, a computational biologist in drug discovery. [Find my CV here](https://github.com/Accio/CV/blob/master/JitaoDavidZhang_CV.pdf).
+Hi, I am David, a computational biologist in drug discovery. [Find my CV here](https://accio.github.io/CV/JitaoDavidZhang_CV.pdf).
 
 I work as a scientist at the research department of F. Hoffmann-La Roche Ltd, Basel, Switzerland. My work helps to identify new, efficacious, and safe drug candidates. My research roots in interdisciplinary collaborations with academic and industrial partners. Whenever feasible, we share the outcome in [open-access publications and open-source software]({{site.url}}/research).
 
