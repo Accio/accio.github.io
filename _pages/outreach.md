@@ -11,11 +11,11 @@ Besides working as a scientist, I enjoy serving people and communities by sharin
 * TOC
 {:toc}
 
-## Consultant and board member
+## Consultant and panelist
 
-I serve from time to time as an independent consultant for international and national agencies, universities, research institutes, and companies. My responsibilities in these roles include reviewing project proposals, allocating resources, and recruiting senior staff. My focus area include computational biology, translational research, and drug discovery and development.
+I serve from time to time as an independent consultant for international and national agencies, universities, research institutes, companies, and other entities. My responsibilities in these roles include reviewing project proposals, informing decisions about grant funding, recruiting senior staff, and organizing seminars and workshops. Topics include computational biology, translational research, drug discovery and development, and interdisciplinary research.
 
-[Contact me](mailto:mail@jdzhang.me?subject=Inviatation to serve as an consultant or board member) if you are interested in engaging me as an independent consultant, expert, or board member. References are available upon request.
+[Contact me](mailto:mail@jdzhang.me?subject=Inviatation to engage Jitao David Zhang) if you are interested in engaging me. References are available upon request.
 
 ## Mentoring and coaching
 <a href="#top" style="font-size: 11px;">Back to top</a>

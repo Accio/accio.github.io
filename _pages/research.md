@@ -78,6 +78,7 @@ Most publications are accessible from [my Google Scholar profile](https://schola
 <a href="#top" style="font-size: 11px;">Back to top</a>
 #### Reviews
 
+* Georgiev, V. *et al.* [Current Status of Prediction of IL-6 Mediated Cytochrome P450 Activity Modulation using In Vitro Data and PBPK Modeling](https://www.sciencedirect.com/science/article/pii/S1347436725004604)
 * Zhang, J. D. *et al.* [Leveraging Protein Turnover In Drug Discovery: A Practical Guide](https://pubs.acs.org/doi/10.1021/mc-2025-vol60.ch17) (2025)
 * Bassani, *et al.* [Another string to your bow: machine learning prediction of the pharmacokinetic properties of small molecules](https://www.tandfonline.com/doi/full/10.1080/17460441.2024.2348157) (2024).
 * Michoel, T. and Zhang, J. D. [Causal inference in drug discovery and development](https://doi.org/10.1016/j.drudis.2023.103737) (2023)
