@@ -5,7 +5,7 @@ category: AMIDD
 tags: teaching training
 ---
 
-I had the pleasure to share some personal anecdotes and learning with teachers at the Gymnasium Muttenz in Basel-Land. The slides can be found here: [Interdisziplinarität in der Industrieforschung und im Alltag]({{ site.url }}/assets/pdf/2026-04-GymnasiumFMSMuttenz.pdf).
+I had the pleasure to share some personal anecdotes and learning about interdisciplinary research with teachers at the Gymnasium Muttenz in Basel-Land. The slides can be found here: [Interdisziplinarität in der Industrieforschung und im Alltag]({{ site.url }}/assets/pdf/2026-04-GymnasiumFMSMuttenz.pdf).
 
 Why talk about this topic? From the perspective of applied research, the key question is not whether we need interdisciplinary research (or [transdisciplinarity](https://en.wikipedia.org/wiki/Transdisciplinarity), or holistic problem solving, or [systems thinking](https://donellameadows.org/systems-thinking-resources/), or however else we may call it). Rather it is about how all of us identify the problems that matter for us, how we can use tools and knowledge in such a way that we can thrive both as individuals and as a society in nature. The preparation process for the talk, the presentation, and the following discussions led me to think a lot about these questions.
 
