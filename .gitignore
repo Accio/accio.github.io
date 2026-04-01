@@ -5,3 +5,5 @@ _site
 *.lock
 *.swp
 blc.log
+vendor/bundle/
+.bundle/
