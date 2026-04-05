@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Interdisciplinarity in industrial research and in everyday life
-category: AMIDD
-tags: teaching training
+category: Talk
+tags: teaching training talk
 ---
 
 I had the pleasure to share some personal anecdotes and learning with teachers at the Gymnasium Muttenz in Basel-Land. The slides: [Interdisziplinarität in der Industrieforschung und im Alltag]({{ site.url }}/assets/pdf/2026-04-GymnasiumFMSMuttenz.pdf).
