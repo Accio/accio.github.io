@@ -260,15 +260,7 @@ EOF
 sudo sysctl --system
 ```
 
-## Timezone
-
-Use UTC for consistency
-
-```
-sudo timedatectl set-timezone UTC
-```
-
-## Firewall
+## Setting up the firewall
 
 Use `nftables` instead of `ufw`.
 
