@@ -23,6 +23,7 @@ This pages lists outcomes of some scientific research that my colleagues and I h
 
 Most publications are accessible from [my Google Scholar profile](https://scholar.google.com/citations?user=ths6zX0AAAAJ&hl=en).
 
+* Weinmann, C. *et al.* [DynlogPA — Novel High-Throughput LC−MS Assay Quantifying Dynamic Lipophilicity and Chameleonicity of bRo5 Macrocyclic Peptides](https://pubs.acs.org/mpohbp/article-abstract/doi/10.1021/acs.molpharmaceut.6c00409/5398044/DynlogP-amp-xe5f8-A-Novel-High-Throughput-LC-MS) (2006)
 * Hatje, K. *et al.* [Comparison of single-cell RNA-seq methods to enable transcriptome profiling of neutrophils in clinical samples](https://doi.org/10.1016/j.crmeth.2025.101173) (2025)
 * Rüegger, J. *et al.* [CellEKT: a robust chemical proteomics workflow to profile cellular target engagement of kinase inhibitors](https://doi.org/10.1016/j.mcpro.2025.100961) (2025)
 * Rodriguez-Iglesias, N. *et al.* [A bottom-up approach identifies the antipsychotic and antineoplastic trifluoperazine and the ribose derivative deoxytubercidin as novel microglial phagocytosis inhibitors](https://doi.org/10.1002/glia.24637) (2024)
