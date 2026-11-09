@@ -61,6 +61,7 @@ I regularly talks to other experts in drug discovery, general public and student
 
 ### 2026
 
+* [Interdisziplinarität in Wissenschaft und Forschung]({{ site.url}}/assets/pdf/2026-11-SMK-zhang.pdf), Jahrestagung 2026 der Schweizerischen Maturitätskommission SMK (in German)
 * [Interdisziplinarität in der Industrieforschung und im Alltag]({{ site.url}}/assets/pdf/2026-04-GymnasiumFMSMuttenz.pdf), Schulinterne Weiterbildung (SCHIWE), Gymnasium Muttenz (in German).
 
 ### 2025
